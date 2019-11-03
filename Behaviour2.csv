@@ -1,0 +1,1404 @@
+paperID,shortTitle,AttributeId,AttributeTitle,ArmTitle,Coder1Text,Coder2Text
+39553740,Aittasalo (2004),4889962,Geographical location,Whole Study,0,0
+39553740,Aittasalo (2004),4889963,Country of intervention,Whole Study,1,0
+39553740,Aittasalo (2004),4889964,Lower-level geographical region,Whole Study,1,1
+39553740,Aittasalo (2004),5295644,Attribute of location,Whole Study,0,0
+39553740,Aittasalo (2004),4889965,Area social and economic condition,Whole Study,0,0
+39553740,Aittasalo (2004),5295645,Low-income area,Whole Study,0,0
+39553740,Aittasalo (2004),5295648,High-income area,Whole Study,0,0
+39553740,Aittasalo (2004),4889966,Population and resource density,Whole Study,0,0
+39553740,Aittasalo (2004),4889967,Rural area,Whole Study,0,0
+39553740,Aittasalo (2004),5295649,Suburban area,Whole Study,0,0
+39553740,Aittasalo (2004),4889968,Urban area,Whole Study,0,0
+39553740,Aittasalo (2004),4889969,Site,Whole Study,0,0
+39553740,Aittasalo (2004),4889970,Facility,Whole Study,1,0
+39553740,Aittasalo (2004),4889971,Residential facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889972,Household residence,Whole Study,0,0
+39553740,Aittasalo (2004),4889973,Multiple occupancy residence,Whole Study,0,0
+39553740,Aittasalo (2004),4889974,Student residence,Whole Study,0,0
+39553740,Aittasalo (2004),4889975,Residential care or assisted living,Whole Study,0,0
+39553740,Aittasalo (2004),4889976,Homeless setting,Whole Study,0,0
+39553740,Aittasalo (2004),4889977,Temporary residence,Whole Study,0,0
+39553740,Aittasalo (2004),4889978,Healthcare facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889979,Hospital facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889988,Emergency department facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889980,Doctor-led primary care facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889981,Care home facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889982,Hospice facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889983,Pharmacy facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889985,Rehabilitation facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890026,Psychiatric facility,Whole Study,0,0
+39553740,Aittasalo (2004),5295651,Community healthcare facility,Whole Study,0,0
+39553740,Aittasalo (2004),5295652,Dentist facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889989,Educational facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889990,Early years facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889991,School facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889992,Primary school,Whole Study,0,0
+39553740,Aittasalo (2004),4909347,Middle school,Whole Study,0,0
+39553740,Aittasalo (2004),4889993,Secondary school,Whole Study,0,0
+39553740,Aittasalo (2004),4889994,Vocational facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889995,University facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889997,Community facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889998,Sport and exercise facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889999,Social centre/Community hall facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890000,Library facility,Whole Study,0,0
+39553740,Aittasalo (2004),4889996,Religious facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890001,Hospitality and catering facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890002,Arts and entertainment facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890003,Retail facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890004,Research facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890005,Office facility,Whole Study,0,1
+39553740,Aittasalo (2004),5295655,Factory facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890006,Criminal justice system facility,Whole Study,0,0
+39553740,Aittasalo (2004),5295654,Factory facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890009,Military facility,Whole Study,0,0
+39553740,Aittasalo (2004),4890010,Transportation,Whole Study,0,0
+39553740,Aittasalo (2004),4890011,Public transportation,Whole Study,0,0
+39553740,Aittasalo (2004),4890012,Private transportation,Whole Study,0,0
+39553740,Aittasalo (2004),4890013,Mobile intervention venue,Whole Study,0,0
+39553740,Aittasalo (2004),5295656,Ambulance,Whole Study,0,0
+39553740,Aittasalo (2004),4890014,Outdoor environment,Whole Study,0,0
+39553740,Aittasalo (2004),4890015,Park,Whole Study,0,0
+39553740,Aittasalo (2004),4890016,Forest,Whole Study,0,0
+39553740,Aittasalo (2004),4890017,Beach,Whole Study,0,0
+39553740,Aittasalo (2004),4945615,Water,Whole Study,0,0
+39553740,Aittasalo (2004),4890019,Grassland,Whole Study,0,0
+39553740,Aittasalo (2004),4890021,Road,Whole Study,0,0
+39553740,Aittasalo (2004),4890022,Path/pavement,Whole Study,0,0
+39553740,Aittasalo (2004),4890023,Path/pavement for pedestrians,Whole Study,0,0
+39553740,Aittasalo (2004),4890024,Path/pavement for cyclists,Whole Study,0,0
+39553739,Aittasalo (2006),4889962,Geographical location,Whole Study,0,0
+39553739,Aittasalo (2006),4889963,Country of intervention,Whole Study,1,1
+39553739,Aittasalo (2006),4889964,Lower-level geographical region,Whole Study,0,0
+39553739,Aittasalo (2006),5295644,Attribute of location,Whole Study,0,0
+39553739,Aittasalo (2006),4889965,Area social and economic condition,Whole Study,0,0
+39553739,Aittasalo (2006),5295645,Low-income area,Whole Study,0,0
+39553739,Aittasalo (2006),5295648,High-income area,Whole Study,0,0
+39553739,Aittasalo (2006),4889966,Population and resource density,Whole Study,0,0
+39553739,Aittasalo (2006),4889967,Rural area,Whole Study,0,0
+39553739,Aittasalo (2006),5295649,Suburban area,Whole Study,0,0
+39553739,Aittasalo (2006),4889968,Urban area,Whole Study,0,0
+39553739,Aittasalo (2006),4889969,Site,Whole Study,0,0
+39553739,Aittasalo (2006),4889970,Facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889971,Residential facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889972,Household residence,Whole Study,0,0
+39553739,Aittasalo (2006),4889973,Multiple occupancy residence,Whole Study,0,0
+39553739,Aittasalo (2006),4889974,Student residence,Whole Study,0,0
+39553739,Aittasalo (2006),4889975,Residential care or assisted living,Whole Study,0,0
+39553739,Aittasalo (2006),4889976,Homeless setting,Whole Study,0,0
+39553739,Aittasalo (2006),4889977,Temporary residence,Whole Study,0,0
+39553739,Aittasalo (2006),4889978,Healthcare facility,Whole Study,1,0
+39553739,Aittasalo (2006),4889979,Hospital facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889988,Emergency department facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889980,Doctor-led primary care facility,Whole Study,0,1
+39553739,Aittasalo (2006),4889981,Care home facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889982,Hospice facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889983,Pharmacy facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889985,Rehabilitation facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890026,Psychiatric facility,Whole Study,0,0
+39553739,Aittasalo (2006),5295651,Community healthcare facility,Whole Study,0,1
+39553739,Aittasalo (2006),5295652,Dentist facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889989,Educational facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889990,Early years facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889991,School facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889992,Primary school,Whole Study,0,0
+39553739,Aittasalo (2006),4909347,Middle school,Whole Study,0,0
+39553739,Aittasalo (2006),4889993,Secondary school,Whole Study,0,0
+39553739,Aittasalo (2006),4889994,Vocational facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889995,University facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889997,Community facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889998,Sport and exercise facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889999,Social centre/Community hall facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890000,Library facility,Whole Study,0,0
+39553739,Aittasalo (2006),4889996,Religious facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890001,Hospitality and catering facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890002,Arts and entertainment facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890003,Retail facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890004,Research facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890005,Office facility,Whole Study,0,0
+39553739,Aittasalo (2006),5295655,Factory facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890006,Criminal justice system facility,Whole Study,0,0
+39553739,Aittasalo (2006),5295654,Factory facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890009,Military facility,Whole Study,0,0
+39553739,Aittasalo (2006),4890010,Transportation,Whole Study,0,0
+39553739,Aittasalo (2006),4890011,Public transportation,Whole Study,0,0
+39553739,Aittasalo (2006),4890012,Private transportation,Whole Study,0,0
+39553739,Aittasalo (2006),4890013,Mobile intervention venue,Whole Study,0,0
+39553739,Aittasalo (2006),5295656,Ambulance,Whole Study,0,0
+39553739,Aittasalo (2006),4890014,Outdoor environment,Whole Study,0,0
+39553739,Aittasalo (2006),4890015,Park,Whole Study,0,0
+39553739,Aittasalo (2006),4890016,Forest,Whole Study,0,0
+39553739,Aittasalo (2006),4890017,Beach,Whole Study,0,0
+39553739,Aittasalo (2006),4945615,Water,Whole Study,0,0
+39553739,Aittasalo (2006),4890019,Grassland,Whole Study,0,0
+39553739,Aittasalo (2006),4890021,Road,Whole Study,0,0
+39553739,Aittasalo (2006),4890022,Path/pavement,Whole Study,0,0
+39553739,Aittasalo (2006),4890023,Path/pavement for pedestrians,Whole Study,0,0
+39553739,Aittasalo (2006),4890024,Path/pavement for cyclists,Whole Study,0,0
+39565020,Albright (2005),4889962,Geographical location,Whole Study,0,0
+39565020,Albright (2005),4889963,Country of intervention,Whole Study,0,0
+39565020,Albright (2005),4889964,Lower-level geographical region,Whole Study,1,1
+39565020,Albright (2005),5295644,Attribute of location,Whole Study,0,0
+39565020,Albright (2005),4889965,Area social and economic condition,Whole Study,0,0
+39565020,Albright (2005),5295645,Low-income area,Whole Study,0,0
+39565020,Albright (2005),5295648,High-income area,Whole Study,0,0
+39565020,Albright (2005),4889966,Population and resource density,Whole Study,0,0
+39565020,Albright (2005),4889967,Rural area,Whole Study,0,0
+39565020,Albright (2005),5295649,Suburban area,Whole Study,0,0
+39565020,Albright (2005),4889968,Urban area,Whole Study,0,0
+39565020,Albright (2005),4889969,Site,Whole Study,0,0
+39565020,Albright (2005),4889970,Facility,Whole Study,0,0
+39565020,Albright (2005),4889971,Residential facility,Home Control,1,0
+39565020,Albright (2005),4889972,Household residence,Whole Study,0,1
+39565020,Albright (2005),4889973,Multiple occupancy residence,Whole Study,0,0
+39565020,Albright (2005),4889974,Student residence,Whole Study,0,0
+39565020,Albright (2005),4889975,Residential care or assisted living,Whole Study,0,0
+39565020,Albright (2005),4889976,Homeless setting,Whole Study,0,0
+39565020,Albright (2005),4889977,Temporary residence,Whole Study,0,0
+39565020,Albright (2005),4889978,Healthcare facility,Whole Study,0,0
+39565020,Albright (2005),4889979,Hospital facility,Whole Study,0,0
+39565020,Albright (2005),4889988,Emergency department facility,Whole Study,0,0
+39565020,Albright (2005),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+39565020,Albright (2005),4889980,Doctor-led primary care facility,Whole Study,0,0
+39565020,Albright (2005),4889981,Care home facility,Whole Study,0,0
+39565020,Albright (2005),4889982,Hospice facility,Whole Study,0,0
+39565020,Albright (2005),4889983,Pharmacy facility,Whole Study,0,0
+39565020,Albright (2005),4889985,Rehabilitation facility,Whole Study,0,0
+39565020,Albright (2005),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+39565020,Albright (2005),4890026,Psychiatric facility,Whole Study,0,0
+39565020,Albright (2005),5295651,Community healthcare facility,Whole Study,0,0
+39565020,Albright (2005),5295652,Dentist facility,Whole Study,0,0
+39565020,Albright (2005),4889989,Educational facility,Whole Study,0,0
+39565020,Albright (2005),4889990,Early years facility,Whole Study,0,0
+39565020,Albright (2005),4889991,School facility,Whole Study,0,0
+39565020,Albright (2005),4889992,Primary school,Whole Study,0,0
+39565020,Albright (2005),4909347,Middle school,Whole Study,0,0
+39565020,Albright (2005),4889993,Secondary school,Whole Study,0,0
+39565020,Albright (2005),4889994,Vocational facility,IMPACT intervention,1,0
+39565020,Albright (2005),4889994,Vocational facility,Whole Study,0,1
+39565020,Albright (2005),4889995,University facility,Whole Study,0,0
+39565020,Albright (2005),4889997,Community facility,Whole Study,0,0
+39565020,Albright (2005),4889998,Sport and exercise facility,Whole Study,0,0
+39565020,Albright (2005),4889999,Social centre/Community hall facility,Whole Study,0,0
+39565020,Albright (2005),4890000,Library facility,Whole Study,0,0
+39565020,Albright (2005),4889996,Religious facility,Whole Study,0,0
+39565020,Albright (2005),4890001,Hospitality and catering facility,Whole Study,0,0
+39565020,Albright (2005),4890002,Arts and entertainment facility,Whole Study,0,0
+39565020,Albright (2005),4890003,Retail facility,Whole Study,0,0
+39565020,Albright (2005),4890004,Research facility,Whole Study,0,0
+39565020,Albright (2005),4890005,Office facility,Whole Study,0,0
+39565020,Albright (2005),5295655,Factory facility,Whole Study,0,0
+39565020,Albright (2005),4890006,Criminal justice system facility,Whole Study,0,0
+39565020,Albright (2005),5295654,Factory facility,Whole Study,0,0
+39565020,Albright (2005),4890009,Military facility,Whole Study,0,0
+39565020,Albright (2005),4890010,Transportation,Whole Study,0,0
+39565020,Albright (2005),4890011,Public transportation,Whole Study,0,0
+39565020,Albright (2005),4890012,Private transportation,Whole Study,0,0
+39565020,Albright (2005),4890013,Mobile intervention venue,Whole Study,0,0
+39565020,Albright (2005),5295656,Ambulance,Whole Study,0,0
+39565020,Albright (2005),4890014,Outdoor environment,Whole Study,0,0
+39565020,Albright (2005),4890015,Park,Whole Study,0,0
+39565020,Albright (2005),4890016,Forest,Whole Study,0,0
+39565020,Albright (2005),4890017,Beach,Whole Study,0,0
+39565020,Albright (2005),4945615,Water,Whole Study,0,0
+39565020,Albright (2005),4890019,Grassland,Whole Study,0,0
+39565020,Albright (2005),4890021,Road,Whole Study,0,0
+39565020,Albright (2005),4890022,Path/pavement,Whole Study,0,0
+39565020,Albright (2005),4890023,Path/pavement for pedestrians,Whole Study,0,0
+39565020,Albright (2005),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646429,Cunningham (1987),4889962,Geographical location,Whole Study,0,0
+37646429,Cunningham (1987),4889963,Country of intervention,Whole Study,0,0
+37646429,Cunningham (1987),4889964,Lower-level geographical region,Whole Study,0,0
+37646429,Cunningham (1987),5295644,Attribute of location,Whole Study,0,0
+37646429,Cunningham (1987),4889965,Area social and economic condition,Whole Study,0,0
+37646429,Cunningham (1987),5295645,Low-income area,Whole Study,0,0
+37646429,Cunningham (1987),5295648,High-income area,Whole Study,0,0
+37646429,Cunningham (1987),4889966,Population and resource density,Whole Study,0,0
+37646429,Cunningham (1987),4889967,Rural area,Whole Study,0,0
+37646429,Cunningham (1987),5295649,Suburban area,Whole Study,0,0
+37646429,Cunningham (1987),4889968,Urban area,Whole Study,0,0
+37646429,Cunningham (1987),4889969,Site,Whole Study,0,0
+37646429,Cunningham (1987),4889970,Facility,Whole Study,0,0
+37646429,Cunningham (1987),4889971,Residential facility,Whole Study,0,0
+37646429,Cunningham (1987),4889972,Household residence,Whole Study,0,0
+37646429,Cunningham (1987),4889973,Multiple occupancy residence,Whole Study,0,0
+37646429,Cunningham (1987),4889974,Student residence,Whole Study,0,0
+37646429,Cunningham (1987),4889975,Residential care or assisted living,Whole Study,0,0
+37646429,Cunningham (1987),4889976,Homeless setting,Whole Study,0,0
+37646429,Cunningham (1987),4889977,Temporary residence,Whole Study,0,0
+37646429,Cunningham (1987),4889978,Healthcare facility,Whole Study,0,0
+37646429,Cunningham (1987),4889979,Hospital facility,Whole Study,0,0
+37646429,Cunningham (1987),4889988,Emergency department facility,Whole Study,0,0
+37646429,Cunningham (1987),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646429,Cunningham (1987),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646429,Cunningham (1987),4889981,Care home facility,Whole Study,0,0
+37646429,Cunningham (1987),4889982,Hospice facility,Whole Study,0,0
+37646429,Cunningham (1987),4889983,Pharmacy facility,Whole Study,0,0
+37646429,Cunningham (1987),4889985,Rehabilitation facility,Whole Study,0,0
+37646429,Cunningham (1987),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646429,Cunningham (1987),4890026,Psychiatric facility,Whole Study,0,0
+37646429,Cunningham (1987),5295651,Community healthcare facility,Whole Study,0,0
+37646429,Cunningham (1987),5295652,Dentist facility,Whole Study,0,0
+37646429,Cunningham (1987),4889989,Educational facility,Whole Study,0,0
+37646429,Cunningham (1987),4889990,Early years facility,Whole Study,0,0
+37646429,Cunningham (1987),4889991,School facility,Whole Study,0,0
+37646429,Cunningham (1987),4889992,Primary school,Whole Study,0,0
+37646429,Cunningham (1987),4909347,Middle school,Whole Study,0,0
+37646429,Cunningham (1987),4889993,Secondary school,Whole Study,0,0
+37646429,Cunningham (1987),4889994,Vocational facility,Whole Study,0,0
+37646429,Cunningham (1987),4889995,University facility,Whole Study,0,0
+37646429,Cunningham (1987),4889997,Community facility,Whole Study,0,0
+37646429,Cunningham (1987),4889998,Sport and exercise facility,Training program,1,0
+37646429,Cunningham (1987),4889998,Sport and exercise facility,Whole Study,0,1
+37646429,Cunningham (1987),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646429,Cunningham (1987),4890000,Library facility,Whole Study,0,0
+37646429,Cunningham (1987),4889996,Religious facility,Whole Study,0,0
+37646429,Cunningham (1987),4890001,Hospitality and catering facility,Whole Study,0,0
+37646429,Cunningham (1987),4890002,Arts and entertainment facility,Whole Study,0,0
+37646429,Cunningham (1987),4890003,Retail facility,Whole Study,0,0
+37646429,Cunningham (1987),4890004,Research facility,Whole Study,0,0
+37646429,Cunningham (1987),4890005,Office facility,Whole Study,0,0
+37646429,Cunningham (1987),5295655,Factory facility,Whole Study,0,0
+37646429,Cunningham (1987),4890006,Criminal justice system facility,Whole Study,0,0
+37646429,Cunningham (1987),5295654,Factory facility,Whole Study,0,0
+37646429,Cunningham (1987),4890009,Military facility,Whole Study,0,0
+37646429,Cunningham (1987),4890010,Transportation,Whole Study,0,0
+37646429,Cunningham (1987),4890011,Public transportation,Whole Study,0,0
+37646429,Cunningham (1987),4890012,Private transportation,Whole Study,0,0
+37646429,Cunningham (1987),4890013,Mobile intervention venue,Whole Study,0,0
+37646429,Cunningham (1987),5295656,Ambulance,Whole Study,0,0
+37646429,Cunningham (1987),4890014,Outdoor environment,Training program,1,0
+37646429,Cunningham (1987),4890014,Outdoor environment,Whole Study,0,1
+37646429,Cunningham (1987),4890015,Park,Whole Study,0,0
+37646429,Cunningham (1987),4890016,Forest,Whole Study,0,0
+37646429,Cunningham (1987),4890017,Beach,Whole Study,0,0
+37646429,Cunningham (1987),4945615,Water,Whole Study,0,0
+37646429,Cunningham (1987),4890019,Grassland,Whole Study,0,0
+37646429,Cunningham (1987),4890021,Road,Whole Study,0,0
+37646429,Cunningham (1987),4890022,Path/pavement,Whole Study,0,0
+37646429,Cunningham (1987),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646429,Cunningham (1987),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646430,Dubbert (2002),4889962,Geographical location,Whole Study,0,0
+37646430,Dubbert (2002),4889963,Country of intervention,Whole Study,0,0
+37646430,Dubbert (2002),4889964,Lower-level geographical region,Whole Study,1,1
+37646430,Dubbert (2002),5295644,Attribute of location,Whole Study,0,0
+37646430,Dubbert (2002),4889965,Area social and economic condition,Whole Study,0,0
+37646430,Dubbert (2002),5295645,Low-income area,Whole Study,0,0
+37646430,Dubbert (2002),5295648,High-income area,Whole Study,0,0
+37646430,Dubbert (2002),4889966,Population and resource density,Whole Study,0,0
+37646430,Dubbert (2002),4889967,Rural area,Whole Study,0,0
+37646430,Dubbert (2002),5295649,Suburban area,Whole Study,0,0
+37646430,Dubbert (2002),4889968,Urban area,Whole Study,0,0
+37646430,Dubbert (2002),4889969,Site,Whole Study,0,0
+37646430,Dubbert (2002),4889970,Facility,Whole Study,0,0
+37646430,Dubbert (2002),4889971,Residential facility,Whole Study,0,0
+37646430,Dubbert (2002),4889972,Household residence,Whole Study,0,0
+37646430,Dubbert (2002),4889973,Multiple occupancy residence,Whole Study,0,0
+37646430,Dubbert (2002),4889974,Student residence,Whole Study,0,0
+37646430,Dubbert (2002),4889975,Residential care or assisted living,Whole Study,0,0
+37646430,Dubbert (2002),4889976,Homeless setting,Whole Study,0,0
+37646430,Dubbert (2002),4889977,Temporary residence,Whole Study,0,0
+37646430,Dubbert (2002),4889978,Healthcare facility,Whole Study,1,1
+37646430,Dubbert (2002),4889979,Hospital facility,Whole Study,0,0
+37646430,Dubbert (2002),4889988,Emergency department facility,Whole Study,0,0
+37646430,Dubbert (2002),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646430,Dubbert (2002),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646430,Dubbert (2002),4889981,Care home facility,Whole Study,0,0
+37646430,Dubbert (2002),4889982,Hospice facility,Whole Study,0,0
+37646430,Dubbert (2002),4889983,Pharmacy facility,Whole Study,0,0
+37646430,Dubbert (2002),4889985,Rehabilitation facility,Whole Study,0,0
+37646430,Dubbert (2002),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646430,Dubbert (2002),4890026,Psychiatric facility,Whole Study,0,0
+37646430,Dubbert (2002),5295651,Community healthcare facility,Whole Study,0,0
+37646430,Dubbert (2002),5295652,Dentist facility,Whole Study,0,0
+37646430,Dubbert (2002),4889989,Educational facility,Whole Study,0,0
+37646430,Dubbert (2002),4889990,Early years facility,Whole Study,0,0
+37646430,Dubbert (2002),4889991,School facility,Whole Study,0,0
+37646430,Dubbert (2002),4889992,Primary school,Whole Study,0,0
+37646430,Dubbert (2002),4909347,Middle school,Whole Study,0,0
+37646430,Dubbert (2002),4889993,Secondary school,Whole Study,0,0
+37646430,Dubbert (2002),4889994,Vocational facility,Whole Study,0,0
+37646430,Dubbert (2002),4889995,University facility,Whole Study,0,0
+37646430,Dubbert (2002),4889997,Community facility,Whole Study,0,0
+37646430,Dubbert (2002),4889998,Sport and exercise facility,Whole Study,0,0
+37646430,Dubbert (2002),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646430,Dubbert (2002),4890000,Library facility,Whole Study,0,0
+37646430,Dubbert (2002),4889996,Religious facility,Whole Study,0,0
+37646430,Dubbert (2002),4890001,Hospitality and catering facility,Whole Study,0,0
+37646430,Dubbert (2002),4890002,Arts and entertainment facility,Whole Study,0,0
+37646430,Dubbert (2002),4890003,Retail facility,Whole Study,0,0
+37646430,Dubbert (2002),4890004,Research facility,Whole Study,0,0
+37646430,Dubbert (2002),4890005,Office facility,Whole Study,0,0
+37646430,Dubbert (2002),5295655,Factory facility,Whole Study,0,0
+37646430,Dubbert (2002),4890006,Criminal justice system facility,Whole Study,0,0
+37646430,Dubbert (2002),5295654,Factory facility,Whole Study,0,0
+37646430,Dubbert (2002),4890009,Military facility,Whole Study,0,0
+37646430,Dubbert (2002),4890010,Transportation,Whole Study,0,0
+37646430,Dubbert (2002),4890011,Public transportation,Whole Study,0,0
+37646430,Dubbert (2002),4890012,Private transportation,Whole Study,0,0
+37646430,Dubbert (2002),4890013,Mobile intervention venue,Whole Study,0,0
+37646430,Dubbert (2002),5295656,Ambulance,Whole Study,0,0
+37646430,Dubbert (2002),4890014,Outdoor environment,Whole Study,0,0
+37646430,Dubbert (2002),4890015,Park,Whole Study,0,0
+37646430,Dubbert (2002),4890016,Forest,Whole Study,0,0
+37646430,Dubbert (2002),4890017,Beach,Whole Study,0,0
+37646430,Dubbert (2002),4945615,Water,Whole Study,0,0
+37646430,Dubbert (2002),4890019,Grassland,Whole Study,0,0
+37646430,Dubbert (2002),4890021,Road,Whole Study,0,0
+37646430,Dubbert (2002),4890022,Path/pavement,Whole Study,0,0
+37646430,Dubbert (2002),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646430,Dubbert (2002),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646431,Elley (2003),4889962,Geographical location,Whole Study,0,0
+37646431,Elley (2003),4889963,Country of intervention,Whole Study,1,1
+37646431,Elley (2003),4889964,Lower-level geographical region,Whole Study,1,1
+37646431,Elley (2003),5295644,Attribute of location,Whole Study,0,0
+37646431,Elley (2003),4889965,Area social and economic condition,Whole Study,0,0
+37646431,Elley (2003),5295645,Low-income area,Whole Study,0,0
+37646431,Elley (2003),5295648,High-income area,Whole Study,0,0
+37646431,Elley (2003),4889966,Population and resource density,Whole Study,0,0
+37646431,Elley (2003),4889967,Rural area,Whole Study,1,0
+37646431,Elley (2003),5295649,Suburban area,Whole Study,1,0
+37646431,Elley (2003),4889968,Urban area,Whole Study,1,1
+37646431,Elley (2003),4889969,Site,Whole Study,0,0
+37646431,Elley (2003),4889970,Facility,Whole Study,0,0
+37646431,Elley (2003),4889971,Residential facility,Whole Study,0,0
+37646431,Elley (2003),4889972,Household residence,Whole Study,0,0
+37646431,Elley (2003),4889973,Multiple occupancy residence,Whole Study,0,0
+37646431,Elley (2003),4889974,Student residence,Whole Study,0,0
+37646431,Elley (2003),4889975,Residential care or assisted living,Whole Study,0,0
+37646431,Elley (2003),4889976,Homeless setting,Whole Study,0,0
+37646431,Elley (2003),4889977,Temporary residence,Whole Study,0,0
+37646431,Elley (2003),4889978,Healthcare facility,Whole Study,0,0
+37646431,Elley (2003),4889979,Hospital facility,Whole Study,0,0
+37646431,Elley (2003),4889988,Emergency department facility,Whole Study,0,0
+37646431,Elley (2003),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646431,Elley (2003),4889980,Doctor-led primary care facility,Whole Study,1,1
+37646431,Elley (2003),4889981,Care home facility,Whole Study,0,0
+37646431,Elley (2003),4889982,Hospice facility,Whole Study,0,0
+37646431,Elley (2003),4889983,Pharmacy facility,Whole Study,0,0
+37646431,Elley (2003),4889985,Rehabilitation facility,Whole Study,0,0
+37646431,Elley (2003),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646431,Elley (2003),4890026,Psychiatric facility,Whole Study,0,0
+37646431,Elley (2003),5295651,Community healthcare facility,Whole Study,0,0
+37646431,Elley (2003),5295652,Dentist facility,Whole Study,0,0
+37646431,Elley (2003),4889989,Educational facility,Whole Study,0,0
+37646431,Elley (2003),4889990,Early years facility,Whole Study,0,0
+37646431,Elley (2003),4889991,School facility,Whole Study,0,0
+37646431,Elley (2003),4889992,Primary school,Whole Study,0,0
+37646431,Elley (2003),4909347,Middle school,Whole Study,0,0
+37646431,Elley (2003),4889993,Secondary school,Whole Study,0,0
+37646431,Elley (2003),4889994,Vocational facility,Whole Study,0,0
+37646431,Elley (2003),4889995,University facility,Whole Study,0,0
+37646431,Elley (2003),4889997,Community facility,Whole Study,0,0
+37646431,Elley (2003),4889998,Sport and exercise facility,Whole Study,0,0
+37646431,Elley (2003),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646431,Elley (2003),4890000,Library facility,Whole Study,0,0
+37646431,Elley (2003),4889996,Religious facility,Whole Study,0,0
+37646431,Elley (2003),4890001,Hospitality and catering facility,Whole Study,0,0
+37646431,Elley (2003),4890002,Arts and entertainment facility,Whole Study,0,0
+37646431,Elley (2003),4890003,Retail facility,Whole Study,0,0
+37646431,Elley (2003),4890004,Research facility,Whole Study,0,0
+37646431,Elley (2003),4890005,Office facility,Whole Study,0,0
+37646431,Elley (2003),5295655,Factory facility,Whole Study,0,0
+37646431,Elley (2003),4890006,Criminal justice system facility,Whole Study,0,0
+37646431,Elley (2003),5295654,Factory facility,Whole Study,0,0
+37646431,Elley (2003),4890009,Military facility,Whole Study,0,0
+37646431,Elley (2003),4890010,Transportation,Whole Study,0,0
+37646431,Elley (2003),4890011,Public transportation,Whole Study,0,0
+37646431,Elley (2003),4890012,Private transportation,Whole Study,0,0
+37646431,Elley (2003),4890013,Mobile intervention venue,Whole Study,0,0
+37646431,Elley (2003),5295656,Ambulance,Whole Study,0,0
+37646431,Elley (2003),4890014,Outdoor environment,Whole Study,0,0
+37646431,Elley (2003),4890015,Park,Whole Study,0,0
+37646431,Elley (2003),4890016,Forest,Whole Study,0,0
+37646431,Elley (2003),4890017,Beach,Whole Study,0,0
+37646431,Elley (2003),4945615,Water,Whole Study,0,0
+37646431,Elley (2003),4890019,Grassland,Whole Study,0,0
+37646431,Elley (2003),4890021,Road,Whole Study,0,0
+37646431,Elley (2003),4890022,Path/pavement,Whole Study,0,0
+37646431,Elley (2003),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646431,Elley (2003),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646432,Fujita (2003),4889962,Geographical location,Whole Study,0,0
+37646432,Fujita (2003),4889963,Country of intervention,Whole Study,0,0
+37646432,Fujita (2003),4889964,Lower-level geographical region,Whole Study,1,1
+37646432,Fujita (2003),5295644,Attribute of location,Whole Study,0,0
+37646432,Fujita (2003),4889965,Area social and economic condition,Whole Study,0,0
+37646432,Fujita (2003),5295645,Low-income area,Whole Study,0,0
+37646432,Fujita (2003),5295648,High-income area,Whole Study,0,0
+37646432,Fujita (2003),4889966,Population and resource density,Whole Study,0,0
+37646432,Fujita (2003),4889967,Rural area,Whole Study,0,0
+37646432,Fujita (2003),5295649,Suburban area,Whole Study,0,0
+37646432,Fujita (2003),4889968,Urban area,Whole Study,0,0
+37646432,Fujita (2003),4889969,Site,Whole Study,0,0
+37646432,Fujita (2003),4889970,Facility,Whole Study,0,0
+37646432,Fujita (2003),4889971,Residential facility,Whole Study,0,0
+37646432,Fujita (2003),4889972,Household residence,Whole Study,0,0
+37646432,Fujita (2003),4889973,Multiple occupancy residence,Whole Study,0,0
+37646432,Fujita (2003),4889974,Student residence,Whole Study,0,0
+37646432,Fujita (2003),4889975,Residential care or assisted living,Whole Study,0,0
+37646432,Fujita (2003),4889976,Homeless setting,Whole Study,0,0
+37646432,Fujita (2003),4889977,Temporary residence,Whole Study,0,0
+37646432,Fujita (2003),4889978,Healthcare facility,Whole Study,0,0
+37646432,Fujita (2003),4889979,Hospital facility,Whole Study,0,0
+37646432,Fujita (2003),4889988,Emergency department facility,Whole Study,0,0
+37646432,Fujita (2003),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646432,Fujita (2003),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646432,Fujita (2003),4889981,Care home facility,Whole Study,0,0
+37646432,Fujita (2003),4889982,Hospice facility,Whole Study,0,0
+37646432,Fujita (2003),4889983,Pharmacy facility,Whole Study,0,0
+37646432,Fujita (2003),4889985,Rehabilitation facility,Whole Study,0,0
+37646432,Fujita (2003),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646432,Fujita (2003),4890026,Psychiatric facility,Whole Study,0,0
+37646432,Fujita (2003),5295651,Community healthcare facility,Whole Study,1,1
+37646432,Fujita (2003),5295652,Dentist facility,Whole Study,0,0
+37646432,Fujita (2003),4889989,Educational facility,Whole Study,0,0
+37646432,Fujita (2003),4889990,Early years facility,Whole Study,0,0
+37646432,Fujita (2003),4889991,School facility,Whole Study,0,0
+37646432,Fujita (2003),4889992,Primary school,Whole Study,0,0
+37646432,Fujita (2003),4909347,Middle school,Whole Study,0,0
+37646432,Fujita (2003),4889993,Secondary school,Whole Study,0,0
+37646432,Fujita (2003),4889994,Vocational facility,Whole Study,0,0
+37646432,Fujita (2003),4889995,University facility,Whole Study,0,0
+37646432,Fujita (2003),4889997,Community facility,Whole Study,0,0
+37646432,Fujita (2003),4889998,Sport and exercise facility,Whole Study,0,0
+37646432,Fujita (2003),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646432,Fujita (2003),4890000,Library facility,Whole Study,0,0
+37646432,Fujita (2003),4889996,Religious facility,Whole Study,0,0
+37646432,Fujita (2003),4890001,Hospitality and catering facility,Whole Study,0,0
+37646432,Fujita (2003),4890002,Arts and entertainment facility,Whole Study,0,0
+37646432,Fujita (2003),4890003,Retail facility,Whole Study,0,0
+37646432,Fujita (2003),4890004,Research facility,Whole Study,0,0
+37646432,Fujita (2003),4890005,Office facility,Whole Study,0,0
+37646432,Fujita (2003),5295655,Factory facility,Whole Study,0,0
+37646432,Fujita (2003),4890006,Criminal justice system facility,Whole Study,0,0
+37646432,Fujita (2003),5295654,Factory facility,Whole Study,0,0
+37646432,Fujita (2003),4890009,Military facility,Whole Study,0,0
+37646432,Fujita (2003),4890010,Transportation,Whole Study,0,0
+37646432,Fujita (2003),4890011,Public transportation,Whole Study,0,0
+37646432,Fujita (2003),4890012,Private transportation,Whole Study,0,0
+37646432,Fujita (2003),4890013,Mobile intervention venue,Whole Study,0,0
+37646432,Fujita (2003),5295656,Ambulance,Whole Study,0,0
+37646432,Fujita (2003),4890014,Outdoor environment,Whole Study,0,0
+37646432,Fujita (2003),4890015,Park,Whole Study,0,0
+37646432,Fujita (2003),4890016,Forest,Whole Study,0,0
+37646432,Fujita (2003),4890017,Beach,Whole Study,0,0
+37646432,Fujita (2003),4945615,Water,Whole Study,0,0
+37646432,Fujita (2003),4890019,Grassland,Whole Study,0,0
+37646432,Fujita (2003),4890021,Road,Whole Study,0,0
+37646432,Fujita (2003),4890022,Path/pavement,Whole Study,0,0
+37646432,Fujita (2003),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646432,Fujita (2003),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646433,Goldstein (1999),4889962,Geographical location,Whole Study,0,0
+37646433,Goldstein (1999),4889963,Country of intervention,Whole Study,0,0
+37646433,Goldstein (1999),4889964,Lower-level geographical region,Whole Study,1,1
+37646433,Goldstein (1999),5295644,Attribute of location,Whole Study,0,0
+37646433,Goldstein (1999),4889965,Area social and economic condition,Whole Study,0,0
+37646433,Goldstein (1999),5295645,Low-income area,Whole Study,0,0
+37646433,Goldstein (1999),5295648,High-income area,Whole Study,0,0
+37646433,Goldstein (1999),4889966,Population and resource density,Whole Study,0,0
+37646433,Goldstein (1999),4889967,Rural area,Whole Study,0,0
+37646433,Goldstein (1999),5295649,Suburban area,Whole Study,0,0
+37646433,Goldstein (1999),4889968,Urban area,Whole Study,0,0
+37646433,Goldstein (1999),4889969,Site,Whole Study,0,0
+37646433,Goldstein (1999),4889970,Facility,Whole Study,0,0
+37646433,Goldstein (1999),4889971,Residential facility,Whole Study,0,0
+37646433,Goldstein (1999),4889972,Household residence,Whole Study,0,0
+37646433,Goldstein (1999),4889973,Multiple occupancy residence,Whole Study,0,0
+37646433,Goldstein (1999),4889974,Student residence,Whole Study,0,0
+37646433,Goldstein (1999),4889975,Residential care or assisted living,Whole Study,0,0
+37646433,Goldstein (1999),4889976,Homeless setting,Whole Study,0,0
+37646433,Goldstein (1999),4889977,Temporary residence,Whole Study,0,0
+37646433,Goldstein (1999),4889978,Healthcare facility,Whole Study,0,0
+37646433,Goldstein (1999),4889979,Hospital facility,Whole Study,0,0
+37646433,Goldstein (1999),4889988,Emergency department facility,Whole Study,0,0
+37646433,Goldstein (1999),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646433,Goldstein (1999),4889980,Doctor-led primary care facility,Whole Study,1,0
+37646433,Goldstein (1999),4889981,Care home facility,Whole Study,0,0
+37646433,Goldstein (1999),4889982,Hospice facility,Whole Study,0,0
+37646433,Goldstein (1999),4889983,Pharmacy facility,Whole Study,0,0
+37646433,Goldstein (1999),4889985,Rehabilitation facility,Whole Study,0,0
+37646433,Goldstein (1999),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646433,Goldstein (1999),4890026,Psychiatric facility,Whole Study,0,0
+37646433,Goldstein (1999),5295651,Community healthcare facility,Whole Study,0,1
+37646433,Goldstein (1999),5295652,Dentist facility,Whole Study,0,0
+37646433,Goldstein (1999),4889989,Educational facility,Whole Study,0,0
+37646433,Goldstein (1999),4889990,Early years facility,Whole Study,0,0
+37646433,Goldstein (1999),4889991,School facility,Whole Study,0,0
+37646433,Goldstein (1999),4889992,Primary school,Whole Study,0,0
+37646433,Goldstein (1999),4909347,Middle school,Whole Study,0,0
+37646433,Goldstein (1999),4889993,Secondary school,Whole Study,0,0
+37646433,Goldstein (1999),4889994,Vocational facility,Whole Study,0,0
+37646433,Goldstein (1999),4889995,University facility,Whole Study,0,0
+37646433,Goldstein (1999),4889997,Community facility,Whole Study,0,0
+37646433,Goldstein (1999),4889998,Sport and exercise facility,Whole Study,0,0
+37646433,Goldstein (1999),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646433,Goldstein (1999),4890000,Library facility,Whole Study,0,0
+37646433,Goldstein (1999),4889996,Religious facility,Whole Study,0,0
+37646433,Goldstein (1999),4890001,Hospitality and catering facility,Whole Study,0,0
+37646433,Goldstein (1999),4890002,Arts and entertainment facility,Whole Study,0,0
+37646433,Goldstein (1999),4890003,Retail facility,Whole Study,0,0
+37646433,Goldstein (1999),4890004,Research facility,Whole Study,0,0
+37646433,Goldstein (1999),4890005,Office facility,Whole Study,0,0
+37646433,Goldstein (1999),5295655,Factory facility,Whole Study,0,0
+37646433,Goldstein (1999),4890006,Criminal justice system facility,Whole Study,0,0
+37646433,Goldstein (1999),5295654,Factory facility,Whole Study,0,0
+37646433,Goldstein (1999),4890009,Military facility,Whole Study,0,0
+37646433,Goldstein (1999),4890010,Transportation,Whole Study,0,0
+37646433,Goldstein (1999),4890011,Public transportation,Whole Study,0,0
+37646433,Goldstein (1999),4890012,Private transportation,Whole Study,0,0
+37646433,Goldstein (1999),4890013,Mobile intervention venue,Whole Study,0,0
+37646433,Goldstein (1999),5295656,Ambulance,Whole Study,0,0
+37646433,Goldstein (1999),4890014,Outdoor environment,Whole Study,0,0
+37646433,Goldstein (1999),4890015,Park,Whole Study,0,0
+37646433,Goldstein (1999),4890016,Forest,Whole Study,0,0
+37646433,Goldstein (1999),4890017,Beach,Whole Study,0,0
+37646433,Goldstein (1999),4945615,Water,Whole Study,0,0
+37646433,Goldstein (1999),4890019,Grassland,Whole Study,0,0
+37646433,Goldstein (1999),4890021,Road,Whole Study,0,0
+37646433,Goldstein (1999),4890022,Path/pavement,Whole Study,0,0
+37646433,Goldstein (1999),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646433,Goldstein (1999),4890024,Path/pavement for cyclists,Whole Study,0,0
+39553742,Grandes (2009),4889962,Geographical location,Whole Study,0,0
+39553742,Grandes (2009),4889963,Country of intervention,Whole Study,1,0
+39553742,Grandes (2009),4889964,Lower-level geographical region,Whole Study,0,0
+39553742,Grandes (2009),5295644,Attribute of location,Whole Study,0,0
+39553742,Grandes (2009),4889965,Area social and economic condition,Whole Study,0,0
+39553742,Grandes (2009),5295645,Low-income area,Whole Study,0,0
+39553742,Grandes (2009),5295648,High-income area,Whole Study,0,0
+39553742,Grandes (2009),4889966,Population and resource density,Whole Study,0,0
+39553742,Grandes (2009),4889967,Rural area,Whole Study,0,0
+39553742,Grandes (2009),5295649,Suburban area,Whole Study,0,0
+39553742,Grandes (2009),4889968,Urban area,Whole Study,0,0
+39553742,Grandes (2009),4889969,Site,Whole Study,0,0
+39553742,Grandes (2009),4889970,Facility,Whole Study,0,0
+39553742,Grandes (2009),4889971,Residential facility,Whole Study,0,0
+39553742,Grandes (2009),4889972,Household residence,Whole Study,0,0
+39553742,Grandes (2009),4889973,Multiple occupancy residence,Whole Study,0,0
+39553742,Grandes (2009),4889974,Student residence,Whole Study,0,0
+39553742,Grandes (2009),4889975,Residential care or assisted living,Whole Study,0,0
+39553742,Grandes (2009),4889976,Homeless setting,Whole Study,0,0
+39553742,Grandes (2009),4889977,Temporary residence,Whole Study,0,0
+39553742,Grandes (2009),4889978,Healthcare facility,Whole Study,0,0
+39553742,Grandes (2009),4889979,Hospital facility,Whole Study,0,0
+39553742,Grandes (2009),4889988,Emergency department facility,Whole Study,0,0
+39553742,Grandes (2009),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+39553742,Grandes (2009),4889980,Doctor-led primary care facility,Whole Study,1,0
+39553742,Grandes (2009),4889981,Care home facility,Whole Study,0,0
+39553742,Grandes (2009),4889982,Hospice facility,Whole Study,0,0
+39553742,Grandes (2009),4889983,Pharmacy facility,Whole Study,0,0
+39553742,Grandes (2009),4889985,Rehabilitation facility,Whole Study,0,0
+39553742,Grandes (2009),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+39553742,Grandes (2009),4890026,Psychiatric facility,Whole Study,0,0
+39553742,Grandes (2009),5295651,Community healthcare facility,Whole Study,0,0
+39553742,Grandes (2009),5295652,Dentist facility,Whole Study,0,0
+39553742,Grandes (2009),4889989,Educational facility,Whole Study,0,0
+39553742,Grandes (2009),4889990,Early years facility,Whole Study,0,0
+39553742,Grandes (2009),4889991,School facility,Whole Study,0,0
+39553742,Grandes (2009),4889992,Primary school,Whole Study,0,0
+39553742,Grandes (2009),4909347,Middle school,Whole Study,0,0
+39553742,Grandes (2009),4889993,Secondary school,Whole Study,0,0
+39553742,Grandes (2009),4889994,Vocational facility,Whole Study,0,0
+39553742,Grandes (2009),4889995,University facility,Whole Study,0,0
+39553742,Grandes (2009),4889997,Community facility,Whole Study,0,0
+39553742,Grandes (2009),4889998,Sport and exercise facility,Whole Study,0,0
+39553742,Grandes (2009),4889999,Social centre/Community hall facility,Whole Study,0,0
+39553742,Grandes (2009),4890000,Library facility,Whole Study,0,0
+39553742,Grandes (2009),4889996,Religious facility,Whole Study,0,0
+39553742,Grandes (2009),4890001,Hospitality and catering facility,Whole Study,0,0
+39553742,Grandes (2009),4890002,Arts and entertainment facility,Whole Study,0,0
+39553742,Grandes (2009),4890003,Retail facility,Whole Study,0,0
+39553742,Grandes (2009),4890004,Research facility,Whole Study,0,0
+39553742,Grandes (2009),4890005,Office facility,Whole Study,0,0
+39553742,Grandes (2009),5295655,Factory facility,Whole Study,0,0
+39553742,Grandes (2009),4890006,Criminal justice system facility,Whole Study,0,0
+39553742,Grandes (2009),5295654,Factory facility,Whole Study,0,0
+39553742,Grandes (2009),4890009,Military facility,Whole Study,0,0
+39553742,Grandes (2009),4890010,Transportation,Whole Study,0,0
+39553742,Grandes (2009),4890011,Public transportation,Whole Study,0,0
+39553742,Grandes (2009),4890012,Private transportation,Whole Study,0,0
+39553742,Grandes (2009),4890013,Mobile intervention venue,Whole Study,0,0
+39553742,Grandes (2009),5295656,Ambulance,Whole Study,0,0
+39553742,Grandes (2009),4890014,Outdoor environment,Whole Study,0,0
+39553742,Grandes (2009),4890015,Park,Whole Study,0,0
+39553742,Grandes (2009),4890016,Forest,Whole Study,0,0
+39553742,Grandes (2009),4890017,Beach,Whole Study,0,0
+39553742,Grandes (2009),4945615,Water,Whole Study,0,0
+39553742,Grandes (2009),4890019,Grassland,Whole Study,0,0
+39553742,Grandes (2009),4890021,Road,Whole Study,0,0
+39553742,Grandes (2009),4890022,Path/pavement,Whole Study,0,0
+39553742,Grandes (2009),4890023,Path/pavement for pedestrians,Whole Study,0,0
+39553742,Grandes (2009),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646434,Green (2002),4889962,Geographical location,Whole Study,0,0
+37646434,Green (2002),4889963,Country of intervention,Whole Study,0,0
+37646434,Green (2002),4889964,Lower-level geographical region,Whole Study,1,1
+37646434,Green (2002),5295644,Attribute of location,Whole Study,0,0
+37646434,Green (2002),4889965,Area social and economic condition,Whole Study,0,0
+37646434,Green (2002),5295645,Low-income area,Whole Study,0,0
+37646434,Green (2002),5295648,High-income area,Whole Study,0,0
+37646434,Green (2002),4889966,Population and resource density,Whole Study,0,0
+37646434,Green (2002),4889967,Rural area,Whole Study,0,0
+37646434,Green (2002),5295649,Suburban area,Whole Study,1,1
+37646434,Green (2002),4889968,Urban area,Whole Study,0,0
+37646434,Green (2002),4889969,Site,Whole Study,0,0
+37646434,Green (2002),4889970,Facility,Whole Study,0,0
+37646434,Green (2002),4889971,Residential facility,Whole Study,0,0
+37646434,Green (2002),4889972,Household residence,Whole Study,0,0
+37646434,Green (2002),4889973,Multiple occupancy residence,Whole Study,0,0
+37646434,Green (2002),4889974,Student residence,Whole Study,0,0
+37646434,Green (2002),4889975,Residential care or assisted living,Whole Study,0,0
+37646434,Green (2002),4889976,Homeless setting,Whole Study,0,0
+37646434,Green (2002),4889977,Temporary residence,Whole Study,0,0
+37646434,Green (2002),4889978,Healthcare facility,Whole Study,0,0
+37646434,Green (2002),4889979,Hospital facility,Whole Study,0,0
+37646434,Green (2002),4889988,Emergency department facility,Whole Study,0,0
+37646434,Green (2002),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646434,Green (2002),4889980,Doctor-led primary care facility,Whole Study,1,1
+37646434,Green (2002),4889981,Care home facility,Whole Study,0,0
+37646434,Green (2002),4889982,Hospice facility,Whole Study,0,0
+37646434,Green (2002),4889983,Pharmacy facility,Whole Study,0,0
+37646434,Green (2002),4889985,Rehabilitation facility,Whole Study,0,0
+37646434,Green (2002),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646434,Green (2002),4890026,Psychiatric facility,Whole Study,0,0
+37646434,Green (2002),5295651,Community healthcare facility,Whole Study,0,0
+37646434,Green (2002),5295652,Dentist facility,Whole Study,0,0
+37646434,Green (2002),4889989,Educational facility,Whole Study,0,0
+37646434,Green (2002),4889990,Early years facility,Whole Study,0,0
+37646434,Green (2002),4889991,School facility,Whole Study,0,0
+37646434,Green (2002),4889992,Primary school,Whole Study,0,0
+37646434,Green (2002),4909347,Middle school,Whole Study,0,0
+37646434,Green (2002),4889993,Secondary school,Whole Study,0,0
+37646434,Green (2002),4889994,Vocational facility,Whole Study,0,0
+37646434,Green (2002),4889995,University facility,Whole Study,0,0
+37646434,Green (2002),4889997,Community facility,Whole Study,0,0
+37646434,Green (2002),4889998,Sport and exercise facility,Whole Study,0,0
+37646434,Green (2002),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646434,Green (2002),4890000,Library facility,Whole Study,0,0
+37646434,Green (2002),4889996,Religious facility,Whole Study,0,0
+37646434,Green (2002),4890001,Hospitality and catering facility,Whole Study,0,0
+37646434,Green (2002),4890002,Arts and entertainment facility,Whole Study,0,0
+37646434,Green (2002),4890003,Retail facility,Whole Study,0,0
+37646434,Green (2002),4890004,Research facility,Whole Study,0,0
+37646434,Green (2002),4890005,Office facility,Whole Study,0,0
+37646434,Green (2002),5295655,Factory facility,Whole Study,0,0
+37646434,Green (2002),4890006,Criminal justice system facility,Whole Study,0,0
+37646434,Green (2002),5295654,Factory facility,Whole Study,0,0
+37646434,Green (2002),4890009,Military facility,Whole Study,0,0
+37646434,Green (2002),4890010,Transportation,Whole Study,0,0
+37646434,Green (2002),4890011,Public transportation,Whole Study,0,0
+37646434,Green (2002),4890012,Private transportation,Whole Study,0,0
+37646434,Green (2002),4890013,Mobile intervention venue,Whole Study,0,0
+37646434,Green (2002),5295656,Ambulance,Whole Study,0,0
+37646434,Green (2002),4890014,Outdoor environment,Whole Study,0,0
+37646434,Green (2002),4890015,Park,Whole Study,0,0
+37646434,Green (2002),4890016,Forest,Whole Study,0,0
+37646434,Green (2002),4890017,Beach,Whole Study,0,0
+37646434,Green (2002),4945615,Water,Whole Study,0,0
+37646434,Green (2002),4890019,Grassland,Whole Study,0,0
+37646434,Green (2002),4890021,Road,Whole Study,0,0
+37646434,Green (2002),4890022,Path/pavement,Whole Study,0,0
+37646434,Green (2002),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646434,Green (2002),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646437,Juneau (1987),4889962,Geographical location,Whole Study,0,0
+37646437,Juneau (1987),4889963,Country of intervention,Whole Study,0,0
+37646437,Juneau (1987),4889964,Lower-level geographical region,Whole Study,1,0
+37646437,Juneau (1987),5295644,Attribute of location,Whole Study,0,0
+37646437,Juneau (1987),4889965,Area social and economic condition,Whole Study,0,0
+37646437,Juneau (1987),5295645,Low-income area,Whole Study,0,0
+37646437,Juneau (1987),5295648,High-income area,Whole Study,0,0
+37646437,Juneau (1987),4889966,Population and resource density,Whole Study,0,0
+37646437,Juneau (1987),4889967,Rural area,Whole Study,0,0
+37646437,Juneau (1987),5295649,Suburban area,Whole Study,0,0
+37646437,Juneau (1987),4889968,Urban area,Whole Study,0,0
+37646437,Juneau (1987),4889969,Site,Whole Study,0,0
+37646437,Juneau (1987),4889970,Facility,Whole Study,0,0
+37646437,Juneau (1987),4889971,Residential facility,Whole Study,0,1
+37646437,Juneau (1987),4889972,Household residence,Whole Study,1,0
+37646437,Juneau (1987),4889973,Multiple occupancy residence,Whole Study,0,0
+37646437,Juneau (1987),4889974,Student residence,Whole Study,0,0
+37646437,Juneau (1987),4889975,Residential care or assisted living,Whole Study,0,0
+37646437,Juneau (1987),4889976,Homeless setting,Whole Study,0,0
+37646437,Juneau (1987),4889977,Temporary residence,Whole Study,0,0
+37646437,Juneau (1987),4889978,Healthcare facility,Whole Study,0,0
+37646437,Juneau (1987),4889979,Hospital facility,Whole Study,0,0
+37646437,Juneau (1987),4889988,Emergency department facility,Whole Study,0,0
+37646437,Juneau (1987),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646437,Juneau (1987),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646437,Juneau (1987),4889981,Care home facility,Whole Study,0,0
+37646437,Juneau (1987),4889982,Hospice facility,Whole Study,0,0
+37646437,Juneau (1987),4889983,Pharmacy facility,Whole Study,0,0
+37646437,Juneau (1987),4889985,Rehabilitation facility,Whole Study,0,0
+37646437,Juneau (1987),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646437,Juneau (1987),4890026,Psychiatric facility,Whole Study,0,0
+37646437,Juneau (1987),5295651,Community healthcare facility,Whole Study,0,0
+37646437,Juneau (1987),5295652,Dentist facility,Whole Study,0,0
+37646437,Juneau (1987),4889989,Educational facility,Whole Study,0,0
+37646437,Juneau (1987),4889990,Early years facility,Whole Study,0,0
+37646437,Juneau (1987),4889991,School facility,Whole Study,0,0
+37646437,Juneau (1987),4889992,Primary school,Whole Study,0,0
+37646437,Juneau (1987),4909347,Middle school,Whole Study,0,0
+37646437,Juneau (1987),4889993,Secondary school,Whole Study,0,0
+37646437,Juneau (1987),4889994,Vocational facility,Whole Study,0,0
+37646437,Juneau (1987),4889995,University facility,Whole Study,0,0
+37646437,Juneau (1987),4889997,Community facility,Whole Study,0,0
+37646437,Juneau (1987),4889998,Sport and exercise facility,Whole Study,0,0
+37646437,Juneau (1987),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646437,Juneau (1987),4890000,Library facility,Whole Study,0,0
+37646437,Juneau (1987),4889996,Religious facility,Whole Study,0,0
+37646437,Juneau (1987),4890001,Hospitality and catering facility,Whole Study,0,0
+37646437,Juneau (1987),4890002,Arts and entertainment facility,Whole Study,0,0
+37646437,Juneau (1987),4890003,Retail facility,Whole Study,0,0
+37646437,Juneau (1987),4890004,Research facility,Whole Study,0,0
+37646437,Juneau (1987),4890005,Office facility,Whole Study,0,0
+37646437,Juneau (1987),5295655,Factory facility,Whole Study,0,0
+37646437,Juneau (1987),4890006,Criminal justice system facility,Whole Study,0,0
+37646437,Juneau (1987),5295654,Factory facility,Whole Study,0,0
+37646437,Juneau (1987),4890009,Military facility,Whole Study,0,0
+37646437,Juneau (1987),4890010,Transportation,Whole Study,0,0
+37646437,Juneau (1987),4890011,Public transportation,Whole Study,0,0
+37646437,Juneau (1987),4890012,Private transportation,Whole Study,0,0
+37646437,Juneau (1987),4890013,Mobile intervention venue,Whole Study,0,0
+37646437,Juneau (1987),5295656,Ambulance,Whole Study,0,0
+37646437,Juneau (1987),4890014,Outdoor environment,Whole Study,0,0
+37646437,Juneau (1987),4890015,Park,Whole Study,0,0
+37646437,Juneau (1987),4890016,Forest,Whole Study,0,0
+37646437,Juneau (1987),4890017,Beach,Whole Study,0,0
+37646437,Juneau (1987),4945615,Water,Whole Study,0,0
+37646437,Juneau (1987),4890019,Grassland,Whole Study,0,0
+37646437,Juneau (1987),4890021,Road,Whole Study,0,0
+37646437,Juneau (1987),4890022,Path/pavement,Whole Study,0,0
+37646437,Juneau (1987),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646437,Juneau (1987),4890024,Path/pavement for cyclists,Whole Study,0,0
+39553743,Katz (2008),4889962,Geographical location,Whole Study,0,0
+39553743,Katz (2008),4889963,Country of intervention,Whole Study,0,0
+39553743,Katz (2008),4889964,Lower-level geographical region,Whole Study,0,0
+39553743,Katz (2008),5295644,Attribute of location,Whole Study,0,0
+39553743,Katz (2008),4889965,Area social and economic condition,Whole Study,0,0
+39553743,Katz (2008),5295645,Low-income area,Whole Study,0,0
+39553743,Katz (2008),5295648,High-income area,Whole Study,0,0
+39553743,Katz (2008),4889966,Population and resource density,Whole Study,0,0
+39553743,Katz (2008),4889967,Rural area,Whole Study,0,0
+39553743,Katz (2008),5295649,Suburban area,Whole Study,0,0
+39553743,Katz (2008),4889968,Urban area,Whole Study,0,0
+39553743,Katz (2008),4889969,Site,Whole Study,0,0
+39553743,Katz (2008),4889970,Facility,Whole Study,0,0
+39553743,Katz (2008),4889971,Residential facility,Whole Study,0,0
+39553743,Katz (2008),4889972,Household residence,Whole Study,0,0
+39553743,Katz (2008),4889973,Multiple occupancy residence,Whole Study,0,0
+39553743,Katz (2008),4889974,Student residence,Whole Study,0,0
+39553743,Katz (2008),4889975,Residential care or assisted living,Whole Study,0,0
+39553743,Katz (2008),4889976,Homeless setting,Whole Study,0,0
+39553743,Katz (2008),4889977,Temporary residence,Whole Study,0,0
+39553743,Katz (2008),4889978,Healthcare facility,Whole Study,0,0
+39553743,Katz (2008),4889979,Hospital facility,Whole Study,1,1
+39553743,Katz (2008),4889988,Emergency department facility,Whole Study,0,0
+39553743,Katz (2008),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+39553743,Katz (2008),4889980,Doctor-led primary care facility,Whole Study,0,0
+39553743,Katz (2008),4889981,Care home facility,Whole Study,0,0
+39553743,Katz (2008),4889982,Hospice facility,Whole Study,0,0
+39553743,Katz (2008),4889983,Pharmacy facility,Whole Study,0,0
+39553743,Katz (2008),4889985,Rehabilitation facility,Whole Study,0,0
+39553743,Katz (2008),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+39553743,Katz (2008),4890026,Psychiatric facility,Whole Study,0,0
+39553743,Katz (2008),5295651,Community healthcare facility,Whole Study,0,0
+39553743,Katz (2008),5295652,Dentist facility,Whole Study,0,0
+39553743,Katz (2008),4889989,Educational facility,Whole Study,0,0
+39553743,Katz (2008),4889990,Early years facility,Whole Study,0,0
+39553743,Katz (2008),4889991,School facility,Whole Study,0,0
+39553743,Katz (2008),4889992,Primary school,Whole Study,0,0
+39553743,Katz (2008),4909347,Middle school,Whole Study,0,0
+39553743,Katz (2008),4889993,Secondary school,Whole Study,0,0
+39553743,Katz (2008),4889994,Vocational facility,Whole Study,0,0
+39553743,Katz (2008),4889995,University facility,Whole Study,0,0
+39553743,Katz (2008),4889997,Community facility,Whole Study,0,0
+39553743,Katz (2008),4889998,Sport and exercise facility,Whole Study,0,0
+39553743,Katz (2008),4889999,Social centre/Community hall facility,Whole Study,0,0
+39553743,Katz (2008),4890000,Library facility,Whole Study,0,0
+39553743,Katz (2008),4889996,Religious facility,Whole Study,0,0
+39553743,Katz (2008),4890001,Hospitality and catering facility,Whole Study,0,0
+39553743,Katz (2008),4890002,Arts and entertainment facility,Whole Study,0,0
+39553743,Katz (2008),4890003,Retail facility,Whole Study,0,0
+39553743,Katz (2008),4890004,Research facility,Whole Study,0,0
+39553743,Katz (2008),4890005,Office facility,Whole Study,0,0
+39553743,Katz (2008),5295655,Factory facility,Whole Study,0,0
+39553743,Katz (2008),4890006,Criminal justice system facility,Whole Study,0,0
+39553743,Katz (2008),5295654,Factory facility,Whole Study,0,0
+39553743,Katz (2008),4890009,Military facility,Whole Study,0,0
+39553743,Katz (2008),4890010,Transportation,Whole Study,0,0
+39553743,Katz (2008),4890011,Public transportation,Whole Study,0,0
+39553743,Katz (2008),4890012,Private transportation,Whole Study,0,0
+39553743,Katz (2008),4890013,Mobile intervention venue,Whole Study,0,0
+39553743,Katz (2008),5295656,Ambulance,Whole Study,0,0
+39553743,Katz (2008),4890014,Outdoor environment,Whole Study,0,0
+39553743,Katz (2008),4890015,Park,Whole Study,0,0
+39553743,Katz (2008),4890016,Forest,Whole Study,0,0
+39553743,Katz (2008),4890017,Beach,Whole Study,0,0
+39553743,Katz (2008),4945615,Water,Whole Study,0,0
+39553743,Katz (2008),4890019,Grassland,Whole Study,0,0
+39553743,Katz (2008),4890021,Road,Whole Study,0,0
+39553743,Katz (2008),4890022,Path/pavement,Whole Study,0,0
+39553743,Katz (2008),4890023,Path/pavement for pedestrians,Whole Study,0,0
+39553743,Katz (2008),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646439,King (1988),4889962,Geographical location,Whole Study,0,0
+37646439,King (1988),4889963,Country of intervention,Whole Study,0,0
+37646439,King (1988),4889964,Lower-level geographical region,Whole Study,1,1
+37646439,King (1988),5295644,Attribute of location,Whole Study,0,0
+37646439,King (1988),4889965,Area social and economic condition,Whole Study,0,0
+37646439,King (1988),5295645,Low-income area,Whole Study,0,0
+37646439,King (1988),5295648,High-income area,Whole Study,0,0
+37646439,King (1988),4889966,Population and resource density,Whole Study,0,0
+37646439,King (1988),4889967,Rural area,Whole Study,0,0
+37646439,King (1988),5295649,Suburban area,Whole Study,0,0
+37646439,King (1988),4889968,Urban area,Whole Study,0,0
+37646439,King (1988),4889969,Site,Whole Study,0,0
+37646439,King (1988),4889970,Facility,Whole Study,0,0
+37646439,King (1988),4889971,Residential facility,Whole Study,0,0
+37646439,King (1988),4889972,Household residence,Whole Study,1,0
+37646439,King (1988),4889973,Multiple occupancy residence,Whole Study,0,0
+37646439,King (1988),4889974,Student residence,Whole Study,0,0
+37646439,King (1988),4889975,Residential care or assisted living,Whole Study,0,0
+37646439,King (1988),4889976,Homeless setting,Whole Study,0,0
+37646439,King (1988),4889977,Temporary residence,Whole Study,0,0
+37646439,King (1988),4889978,Healthcare facility,Whole Study,0,0
+37646439,King (1988),4889979,Hospital facility,Whole Study,0,0
+37646439,King (1988),4889988,Emergency department facility,Whole Study,0,0
+37646439,King (1988),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646439,King (1988),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646439,King (1988),4889981,Care home facility,Whole Study,0,0
+37646439,King (1988),4889982,Hospice facility,Whole Study,0,0
+37646439,King (1988),4889983,Pharmacy facility,Whole Study,0,0
+37646439,King (1988),4889985,Rehabilitation facility,Whole Study,0,0
+37646439,King (1988),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646439,King (1988),4890026,Psychiatric facility,Whole Study,0,0
+37646439,King (1988),5295651,Community healthcare facility,Whole Study,0,0
+37646439,King (1988),5295652,Dentist facility,Whole Study,0,0
+37646439,King (1988),4889989,Educational facility,Whole Study,0,0
+37646439,King (1988),4889990,Early years facility,Whole Study,0,0
+37646439,King (1988),4889991,School facility,Whole Study,0,0
+37646439,King (1988),4889992,Primary school,Whole Study,0,0
+37646439,King (1988),4909347,Middle school,Whole Study,0,0
+37646439,King (1988),4889993,Secondary school,Whole Study,0,0
+37646439,King (1988),4889994,Vocational facility,Whole Study,0,0
+37646439,King (1988),4889995,University facility,Whole Study,0,0
+37646439,King (1988),4889997,Community facility,Whole Study,0,0
+37646439,King (1988),4889998,Sport and exercise facility,Whole Study,0,0
+37646439,King (1988),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646439,King (1988),4890000,Library facility,Whole Study,0,0
+37646439,King (1988),4889996,Religious facility,Whole Study,0,0
+37646439,King (1988),4890001,Hospitality and catering facility,Whole Study,0,0
+37646439,King (1988),4890002,Arts and entertainment facility,Whole Study,0,0
+37646439,King (1988),4890003,Retail facility,Whole Study,0,0
+37646439,King (1988),4890004,Research facility,Whole Study,0,0
+37646439,King (1988),4890005,Office facility,Whole Study,0,0
+37646439,King (1988),5295655,Factory facility,Whole Study,0,0
+37646439,King (1988),4890006,Criminal justice system facility,Whole Study,0,0
+37646439,King (1988),5295654,Factory facility,Whole Study,0,0
+37646439,King (1988),4890009,Military facility,Whole Study,0,0
+37646439,King (1988),4890010,Transportation,Whole Study,0,0
+37646439,King (1988),4890011,Public transportation,Whole Study,0,0
+37646439,King (1988),4890012,Private transportation,Whole Study,0,0
+37646439,King (1988),4890013,Mobile intervention venue,Whole Study,0,0
+37646439,King (1988),5295656,Ambulance,Whole Study,0,0
+37646439,King (1988),4890014,Outdoor environment,Whole Study,0,0
+37646439,King (1988),4890015,Park,Whole Study,0,0
+37646439,King (1988),4890016,Forest,Whole Study,0,0
+37646439,King (1988),4890017,Beach,Whole Study,0,0
+37646439,King (1988),4945615,Water,Whole Study,0,0
+37646439,King (1988),4890019,Grassland,Whole Study,0,0
+37646439,King (1988),4890021,Road,Whole Study,0,0
+37646439,King (1988),4890022,Path/pavement,Whole Study,0,0
+37646439,King (1988),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646439,King (1988),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646444,Marshall (2003),4889962,Geographical location,Whole Study,0,0
+37646444,Marshall (2003),4889963,Country of intervention,Whole Study,1,0
+37646444,Marshall (2003),4889964,Lower-level geographical region,Whole Study,0,0
+37646444,Marshall (2003),5295644,Attribute of location,Whole Study,0,0
+37646444,Marshall (2003),4889965,Area social and economic condition,Whole Study,0,0
+37646444,Marshall (2003),5295645,Low-income area,Whole Study,0,0
+37646444,Marshall (2003),5295648,High-income area,Whole Study,0,0
+37646444,Marshall (2003),4889966,Population and resource density,Whole Study,0,0
+37646444,Marshall (2003),4889967,Rural area,Whole Study,0,0
+37646444,Marshall (2003),5295649,Suburban area,Whole Study,0,0
+37646444,Marshall (2003),4889968,Urban area,Whole Study,0,0
+37646444,Marshall (2003),4889969,Site,Whole Study,0,0
+37646444,Marshall (2003),4889970,Facility,Whole Study,0,0
+37646444,Marshall (2003),4889971,Residential facility,Whole Study,0,0
+37646444,Marshall (2003),4889972,Household residence,Whole Study,0,0
+37646444,Marshall (2003),4889973,Multiple occupancy residence,Whole Study,0,0
+37646444,Marshall (2003),4889974,Student residence,Whole Study,0,0
+37646444,Marshall (2003),4889975,Residential care or assisted living,Whole Study,0,0
+37646444,Marshall (2003),4889976,Homeless setting,Whole Study,0,0
+37646444,Marshall (2003),4889977,Temporary residence,Whole Study,0,0
+37646444,Marshall (2003),4889978,Healthcare facility,Whole Study,0,0
+37646444,Marshall (2003),4889979,Hospital facility,Whole Study,0,0
+37646444,Marshall (2003),4889988,Emergency department facility,Whole Study,0,0
+37646444,Marshall (2003),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646444,Marshall (2003),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646444,Marshall (2003),4889981,Care home facility,Whole Study,0,0
+37646444,Marshall (2003),4889982,Hospice facility,Whole Study,0,0
+37646444,Marshall (2003),4889983,Pharmacy facility,Whole Study,0,0
+37646444,Marshall (2003),4889985,Rehabilitation facility,Whole Study,0,0
+37646444,Marshall (2003),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646444,Marshall (2003),4890026,Psychiatric facility,Whole Study,0,0
+37646444,Marshall (2003),5295651,Community healthcare facility,Whole Study,0,0
+37646444,Marshall (2003),5295652,Dentist facility,Whole Study,0,0
+37646444,Marshall (2003),4889989,Educational facility,Whole Study,0,0
+37646444,Marshall (2003),4889990,Early years facility,Whole Study,0,0
+37646444,Marshall (2003),4889991,School facility,Whole Study,0,0
+37646444,Marshall (2003),4889992,Primary school,Whole Study,0,0
+37646444,Marshall (2003),4909347,Middle school,Whole Study,0,0
+37646444,Marshall (2003),4889993,Secondary school,Whole Study,0,0
+37646444,Marshall (2003),4889994,Vocational facility,Whole Study,0,0
+37646444,Marshall (2003),4889995,University facility,Whole Study,0,0
+37646444,Marshall (2003),4889997,Community facility,Whole Study,0,0
+37646444,Marshall (2003),4889998,Sport and exercise facility,Whole Study,0,0
+37646444,Marshall (2003),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646444,Marshall (2003),4890000,Library facility,Whole Study,0,0
+37646444,Marshall (2003),4889996,Religious facility,Whole Study,0,0
+37646444,Marshall (2003),4890001,Hospitality and catering facility,Whole Study,0,0
+37646444,Marshall (2003),4890002,Arts and entertainment facility,Whole Study,0,0
+37646444,Marshall (2003),4890003,Retail facility,Whole Study,0,0
+37646444,Marshall (2003),4890004,Research facility,Whole Study,0,0
+37646444,Marshall (2003),4890005,Office facility,Whole Study,0,0
+37646444,Marshall (2003),5295655,Factory facility,Whole Study,0,0
+37646444,Marshall (2003),4890006,Criminal justice system facility,Whole Study,0,0
+37646444,Marshall (2003),5295654,Factory facility,Whole Study,0,0
+37646444,Marshall (2003),4890009,Military facility,Whole Study,0,0
+37646444,Marshall (2003),4890010,Transportation,Whole Study,0,0
+37646444,Marshall (2003),4890011,Public transportation,Whole Study,0,0
+37646444,Marshall (2003),4890012,Private transportation,Whole Study,0,0
+37646444,Marshall (2003),4890013,Mobile intervention venue,Whole Study,0,0
+37646444,Marshall (2003),5295656,Ambulance,Whole Study,0,0
+37646444,Marshall (2003),4890014,Outdoor environment,Whole Study,0,0
+37646444,Marshall (2003),4890015,Park,Whole Study,0,0
+37646444,Marshall (2003),4890016,Forest,Whole Study,0,0
+37646444,Marshall (2003),4890017,Beach,Whole Study,0,0
+37646444,Marshall (2003),4945615,Water,Whole Study,0,0
+37646444,Marshall (2003),4890019,Grassland,Whole Study,0,0
+37646444,Marshall (2003),4890021,Road,Whole Study,0,0
+37646444,Marshall (2003),4890022,Path/pavement,Whole Study,0,0
+37646444,Marshall (2003),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646444,Marshall (2003),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646446,Norris (2000),4889962,Geographical location,Whole Study,0,0
+37646446,Norris (2000),4889963,Country of intervention,Whole Study,0,0
+37646446,Norris (2000),4889964,Lower-level geographical region,Whole Study,1,1
+37646446,Norris (2000),5295644,Attribute of location,Whole Study,0,0
+37646446,Norris (2000),4889965,Area social and economic condition,Whole Study,0,0
+37646446,Norris (2000),5295645,Low-income area,Whole Study,0,0
+37646446,Norris (2000),5295648,High-income area,Whole Study,0,0
+37646446,Norris (2000),4889966,Population and resource density,Whole Study,0,0
+37646446,Norris (2000),4889967,Rural area,Whole Study,0,0
+37646446,Norris (2000),5295649,Suburban area,Whole Study,0,0
+37646446,Norris (2000),4889968,Urban area,Whole Study,0,0
+37646446,Norris (2000),4889969,Site,Whole Study,0,0
+37646446,Norris (2000),4889970,Facility,Whole Study,0,0
+37646446,Norris (2000),4889971,Residential facility,Whole Study,0,0
+37646446,Norris (2000),4889972,Household residence,Whole Study,0,0
+37646446,Norris (2000),4889973,Multiple occupancy residence,Whole Study,0,0
+37646446,Norris (2000),4889974,Student residence,Whole Study,0,0
+37646446,Norris (2000),4889975,Residential care or assisted living,Whole Study,0,0
+37646446,Norris (2000),4889976,Homeless setting,Whole Study,0,0
+37646446,Norris (2000),4889977,Temporary residence,Whole Study,0,0
+37646446,Norris (2000),4889978,Healthcare facility,Whole Study,0,0
+37646446,Norris (2000),4889979,Hospital facility,Whole Study,0,0
+37646446,Norris (2000),4889988,Emergency department facility,Whole Study,0,0
+37646446,Norris (2000),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646446,Norris (2000),4889980,Doctor-led primary care facility,Whole Study,1,1
+37646446,Norris (2000),4889981,Care home facility,Whole Study,0,0
+37646446,Norris (2000),4889982,Hospice facility,Whole Study,0,0
+37646446,Norris (2000),4889983,Pharmacy facility,Whole Study,0,0
+37646446,Norris (2000),4889985,Rehabilitation facility,Whole Study,0,0
+37646446,Norris (2000),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646446,Norris (2000),4890026,Psychiatric facility,Whole Study,0,0
+37646446,Norris (2000),5295651,Community healthcare facility,Whole Study,0,0
+37646446,Norris (2000),5295652,Dentist facility,Whole Study,0,0
+37646446,Norris (2000),4889989,Educational facility,Whole Study,0,0
+37646446,Norris (2000),4889990,Early years facility,Whole Study,0,0
+37646446,Norris (2000),4889991,School facility,Whole Study,0,0
+37646446,Norris (2000),4889992,Primary school,Whole Study,0,0
+37646446,Norris (2000),4909347,Middle school,Whole Study,0,0
+37646446,Norris (2000),4889993,Secondary school,Whole Study,0,0
+37646446,Norris (2000),4889994,Vocational facility,Whole Study,0,0
+37646446,Norris (2000),4889995,University facility,Whole Study,0,0
+37646446,Norris (2000),4889997,Community facility,Whole Study,0,0
+37646446,Norris (2000),4889998,Sport and exercise facility,Whole Study,0,0
+37646446,Norris (2000),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646446,Norris (2000),4890000,Library facility,Whole Study,0,0
+37646446,Norris (2000),4889996,Religious facility,Whole Study,0,0
+37646446,Norris (2000),4890001,Hospitality and catering facility,Whole Study,0,0
+37646446,Norris (2000),4890002,Arts and entertainment facility,Whole Study,0,0
+37646446,Norris (2000),4890003,Retail facility,Whole Study,0,0
+37646446,Norris (2000),4890004,Research facility,Whole Study,0,0
+37646446,Norris (2000),4890005,Office facility,Whole Study,0,0
+37646446,Norris (2000),5295655,Factory facility,Whole Study,0,0
+37646446,Norris (2000),4890006,Criminal justice system facility,Whole Study,0,0
+37646446,Norris (2000),5295654,Factory facility,Whole Study,0,0
+37646446,Norris (2000),4890009,Military facility,Whole Study,0,0
+37646446,Norris (2000),4890010,Transportation,Whole Study,0,0
+37646446,Norris (2000),4890011,Public transportation,Whole Study,0,0
+37646446,Norris (2000),4890012,Private transportation,Whole Study,0,0
+37646446,Norris (2000),4890013,Mobile intervention venue,Whole Study,0,0
+37646446,Norris (2000),5295656,Ambulance,Whole Study,0,0
+37646446,Norris (2000),4890014,Outdoor environment,Whole Study,0,0
+37646446,Norris (2000),4890015,Park,Whole Study,0,0
+37646446,Norris (2000),4890016,Forest,Whole Study,0,0
+37646446,Norris (2000),4890017,Beach,Whole Study,0,0
+37646446,Norris (2000),4945615,Water,Whole Study,0,0
+37646446,Norris (2000),4890019,Grassland,Whole Study,0,0
+37646446,Norris (2000),4890021,Road,Whole Study,0,0
+37646446,Norris (2000),4890022,Path/pavement,Whole Study,0,0
+37646446,Norris (2000),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646446,Norris (2000),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646447,Petrella (2003),4889962,Geographical location,Whole Study,0,0
+37646447,Petrella (2003),4889963,Country of intervention,Whole Study,1,1
+37646447,Petrella (2003),4889964,Lower-level geographical region,Whole Study,1,1
+37646447,Petrella (2003),5295644,Attribute of location,Whole Study,0,0
+37646447,Petrella (2003),4889965,Area social and economic condition,Whole Study,0,0
+37646447,Petrella (2003),5295645,Low-income area,Whole Study,0,0
+37646447,Petrella (2003),5295648,High-income area,Whole Study,0,0
+37646447,Petrella (2003),4889966,Population and resource density,Whole Study,0,0
+37646447,Petrella (2003),4889967,Rural area,Whole Study,1,1
+37646447,Petrella (2003),5295649,Suburban area,Whole Study,0,0
+37646447,Petrella (2003),4889968,Urban area,Whole Study,1,1
+37646447,Petrella (2003),4889969,Site,Whole Study,0,0
+37646447,Petrella (2003),4889970,Facility,Whole Study,0,0
+37646447,Petrella (2003),4889971,Residential facility,Whole Study,0,0
+37646447,Petrella (2003),4889972,Household residence,Whole Study,0,0
+37646447,Petrella (2003),4889973,Multiple occupancy residence,Whole Study,0,0
+37646447,Petrella (2003),4889974,Student residence,Whole Study,0,0
+37646447,Petrella (2003),4889975,Residential care or assisted living,Whole Study,0,0
+37646447,Petrella (2003),4889976,Homeless setting,Whole Study,0,0
+37646447,Petrella (2003),4889977,Temporary residence,Whole Study,0,0
+37646447,Petrella (2003),4889978,Healthcare facility,Whole Study,0,0
+37646447,Petrella (2003),4889979,Hospital facility,Whole Study,0,0
+37646447,Petrella (2003),4889988,Emergency department facility,Whole Study,0,0
+37646447,Petrella (2003),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646447,Petrella (2003),4889980,Doctor-led primary care facility,Whole Study,1,1
+37646447,Petrella (2003),4889981,Care home facility,Whole Study,0,0
+37646447,Petrella (2003),4889982,Hospice facility,Whole Study,0,0
+37646447,Petrella (2003),4889983,Pharmacy facility,Whole Study,0,0
+37646447,Petrella (2003),4889985,Rehabilitation facility,Whole Study,0,0
+37646447,Petrella (2003),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646447,Petrella (2003),4890026,Psychiatric facility,Whole Study,0,0
+37646447,Petrella (2003),5295651,Community healthcare facility,Whole Study,0,0
+37646447,Petrella (2003),5295652,Dentist facility,Whole Study,0,0
+37646447,Petrella (2003),4889989,Educational facility,Whole Study,0,0
+37646447,Petrella (2003),4889990,Early years facility,Whole Study,0,0
+37646447,Petrella (2003),4889991,School facility,Whole Study,0,0
+37646447,Petrella (2003),4889992,Primary school,Whole Study,0,0
+37646447,Petrella (2003),4909347,Middle school,Whole Study,0,0
+37646447,Petrella (2003),4889993,Secondary school,Whole Study,0,0
+37646447,Petrella (2003),4889994,Vocational facility,Whole Study,0,0
+37646447,Petrella (2003),4889995,University facility,Whole Study,0,1
+37646447,Petrella (2003),4889997,Community facility,Whole Study,0,0
+37646447,Petrella (2003),4889998,Sport and exercise facility,Whole Study,0,0
+37646447,Petrella (2003),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646447,Petrella (2003),4890000,Library facility,Whole Study,0,0
+37646447,Petrella (2003),4889996,Religious facility,Whole Study,0,0
+37646447,Petrella (2003),4890001,Hospitality and catering facility,Whole Study,0,0
+37646447,Petrella (2003),4890002,Arts and entertainment facility,Whole Study,0,0
+37646447,Petrella (2003),4890003,Retail facility,Whole Study,0,0
+37646447,Petrella (2003),4890004,Research facility,Whole Study,0,0
+37646447,Petrella (2003),4890005,Office facility,Whole Study,0,0
+37646447,Petrella (2003),5295655,Factory facility,Whole Study,0,0
+37646447,Petrella (2003),4890006,Criminal justice system facility,Whole Study,0,0
+37646447,Petrella (2003),5295654,Factory facility,Whole Study,0,0
+37646447,Petrella (2003),4890009,Military facility,Whole Study,0,0
+37646447,Petrella (2003),4890010,Transportation,Whole Study,0,0
+37646447,Petrella (2003),4890011,Public transportation,Whole Study,0,0
+37646447,Petrella (2003),4890012,Private transportation,Whole Study,0,0
+37646447,Petrella (2003),4890013,Mobile intervention venue,Whole Study,0,0
+37646447,Petrella (2003),5295656,Ambulance,Whole Study,0,0
+37646447,Petrella (2003),4890014,Outdoor environment,Whole Study,0,0
+37646447,Petrella (2003),4890015,Park,Whole Study,0,0
+37646447,Petrella (2003),4890016,Forest,Whole Study,0,0
+37646447,Petrella (2003),4890017,Beach,Whole Study,0,0
+37646447,Petrella (2003),4945615,Water,Whole Study,0,0
+37646447,Petrella (2003),4890019,Grassland,Whole Study,0,0
+37646447,Petrella (2003),4890021,Road,Whole Study,0,0
+37646447,Petrella (2003),4890022,Path/pavement,Whole Study,0,0
+37646447,Petrella (2003),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646447,Petrella (2003),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646448,Pinto (2002),4889962,Geographical location,Whole Study,0,0
+37646448,Pinto (2002),4889963,Country of intervention,Whole Study,0,0
+37646448,Pinto (2002),4889964,Lower-level geographical region,Whole Study,1,0
+37646448,Pinto (2002),5295644,Attribute of location,Whole Study,0,0
+37646448,Pinto (2002),4889965,Area social and economic condition,Whole Study,0,0
+37646448,Pinto (2002),5295645,Low-income area,Whole Study,0,0
+37646448,Pinto (2002),5295648,High-income area,Whole Study,0,0
+37646448,Pinto (2002),4889966,Population and resource density,Whole Study,0,0
+37646448,Pinto (2002),4889967,Rural area,Whole Study,0,0
+37646448,Pinto (2002),5295649,Suburban area,Whole Study,0,0
+37646448,Pinto (2002),4889968,Urban area,Whole Study,0,0
+37646448,Pinto (2002),4889969,Site,Whole Study,0,0
+37646448,Pinto (2002),4889970,Facility,Whole Study,0,0
+37646448,Pinto (2002),4889971,Residential facility,Whole Study,0,0
+37646448,Pinto (2002),4889972,Household residence,Whole Study,0,0
+37646448,Pinto (2002),4889973,Multiple occupancy residence,Whole Study,0,0
+37646448,Pinto (2002),4889974,Student residence,Whole Study,0,0
+37646448,Pinto (2002),4889975,Residential care or assisted living,Whole Study,0,0
+37646448,Pinto (2002),4889976,Homeless setting,Whole Study,0,0
+37646448,Pinto (2002),4889977,Temporary residence,Whole Study,0,0
+37646448,Pinto (2002),4889978,Healthcare facility,Whole Study,0,0
+37646448,Pinto (2002),4889979,Hospital facility,Whole Study,0,0
+37646448,Pinto (2002),4889988,Emergency department facility,Whole Study,0,0
+37646448,Pinto (2002),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646448,Pinto (2002),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646448,Pinto (2002),4889981,Care home facility,Whole Study,0,0
+37646448,Pinto (2002),4889982,Hospice facility,Whole Study,0,0
+37646448,Pinto (2002),4889983,Pharmacy facility,Whole Study,0,0
+37646448,Pinto (2002),4889985,Rehabilitation facility,Whole Study,0,0
+37646448,Pinto (2002),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646448,Pinto (2002),4890026,Psychiatric facility,Whole Study,0,0
+37646448,Pinto (2002),5295651,Community healthcare facility,Whole Study,0,0
+37646448,Pinto (2002),5295652,Dentist facility,Whole Study,0,0
+37646448,Pinto (2002),4889989,Educational facility,Whole Study,0,0
+37646448,Pinto (2002),4889990,Early years facility,Whole Study,0,0
+37646448,Pinto (2002),4889991,School facility,Whole Study,0,0
+37646448,Pinto (2002),4889992,Primary school,Whole Study,0,0
+37646448,Pinto (2002),4909347,Middle school,Whole Study,0,0
+37646448,Pinto (2002),4889993,Secondary school,Whole Study,0,0
+37646448,Pinto (2002),4889994,Vocational facility,Whole Study,0,0
+37646448,Pinto (2002),4889995,University facility,Whole Study,0,0
+37646448,Pinto (2002),4889997,Community facility,Whole Study,0,0
+37646448,Pinto (2002),4889998,Sport and exercise facility,Whole Study,0,0
+37646448,Pinto (2002),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646448,Pinto (2002),4890000,Library facility,Whole Study,0,0
+37646448,Pinto (2002),4889996,Religious facility,Whole Study,0,0
+37646448,Pinto (2002),4890001,Hospitality and catering facility,Whole Study,0,0
+37646448,Pinto (2002),4890002,Arts and entertainment facility,Whole Study,0,0
+37646448,Pinto (2002),4890003,Retail facility,Whole Study,0,0
+37646448,Pinto (2002),4890004,Research facility,Whole Study,0,0
+37646448,Pinto (2002),4890005,Office facility,Whole Study,0,0
+37646448,Pinto (2002),5295655,Factory facility,Whole Study,0,0
+37646448,Pinto (2002),4890006,Criminal justice system facility,Whole Study,0,0
+37646448,Pinto (2002),5295654,Factory facility,Whole Study,0,0
+37646448,Pinto (2002),4890009,Military facility,Whole Study,0,0
+37646448,Pinto (2002),4890010,Transportation,Whole Study,0,0
+37646448,Pinto (2002),4890011,Public transportation,Whole Study,0,0
+37646448,Pinto (2002),4890012,Private transportation,Whole Study,0,0
+37646448,Pinto (2002),4890013,Mobile intervention venue,Whole Study,0,0
+37646448,Pinto (2002),5295656,Ambulance,Whole Study,0,0
+37646448,Pinto (2002),4890014,Outdoor environment,Whole Study,0,0
+37646448,Pinto (2002),4890015,Park,Whole Study,0,0
+37646448,Pinto (2002),4890016,Forest,Whole Study,0,0
+37646448,Pinto (2002),4890017,Beach,Whole Study,0,0
+37646448,Pinto (2002),4945615,Water,Whole Study,0,0
+37646448,Pinto (2002),4890019,Grassland,Whole Study,0,0
+37646448,Pinto (2002),4890021,Road,Whole Study,0,0
+37646448,Pinto (2002),4890022,Path/pavement,Whole Study,0,0
+37646448,Pinto (2002),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646448,Pinto (2002),4890024,Path/pavement for cyclists,Whole Study,0,0
+34576129,Reed (2008),4889962,Geographical location,Whole Study,0,0
+34576129,Reed (2008),4889963,Country of intervention,Whole Study,1,1
+34576129,Reed (2008),4889964,Lower-level geographical region,Whole Study,1,1
+34576129,Reed (2008),5295644,Attribute of location,Whole Study,0,0
+34576129,Reed (2008),4889965,Area social and economic condition,Whole Study,0,0
+34576129,Reed (2008),5295645,Low-income area,Whole Study,0,0
+34576129,Reed (2008),5295648,High-income area,Whole Study,0,0
+34576129,Reed (2008),4889966,Population and resource density,Whole Study,0,0
+34576129,Reed (2008),4889967,Rural area,Whole Study,0,0
+34576129,Reed (2008),5295649,Suburban area,Whole Study,0,0
+34576129,Reed (2008),4889968,Urban area,Whole Study,0,0
+34576129,Reed (2008),4889969,Site,Whole Study,0,0
+34576129,Reed (2008),4889970,Facility,Whole Study,0,0
+34576129,Reed (2008),4889971,Residential facility,Whole Study,0,0
+34576129,Reed (2008),4889972,Household residence,Whole Study,0,0
+34576129,Reed (2008),4889973,Multiple occupancy residence,Whole Study,0,0
+34576129,Reed (2008),4889974,Student residence,Whole Study,0,0
+34576129,Reed (2008),4889975,Residential care or assisted living,Whole Study,0,0
+34576129,Reed (2008),4889976,Homeless setting,Whole Study,0,0
+34576129,Reed (2008),4889977,Temporary residence,Whole Study,0,0
+34576129,Reed (2008),4889978,Healthcare facility,Whole Study,0,0
+34576129,Reed (2008),4889979,Hospital facility,Whole Study,0,0
+34576129,Reed (2008),4889988,Emergency department facility,Whole Study,0,0
+34576129,Reed (2008),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+34576129,Reed (2008),4889980,Doctor-led primary care facility,Whole Study,0,0
+34576129,Reed (2008),4889981,Care home facility,Whole Study,0,0
+34576129,Reed (2008),4889982,Hospice facility,Whole Study,0,0
+34576129,Reed (2008),4889983,Pharmacy facility,Whole Study,0,0
+34576129,Reed (2008),4889985,Rehabilitation facility,Whole Study,0,0
+34576129,Reed (2008),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+34576129,Reed (2008),4890026,Psychiatric facility,Whole Study,0,0
+34576129,Reed (2008),5295651,Community healthcare facility,Whole Study,0,0
+34576129,Reed (2008),5295652,Dentist facility,Whole Study,0,0
+34576129,Reed (2008),4889989,Educational facility,Whole Study,0,0
+34576129,Reed (2008),4889990,Early years facility,Whole Study,0,0
+34576129,Reed (2008),4889991,School facility,Whole Study,0,0
+34576129,Reed (2008),4889992,Primary school,Whole Study,1,1
+34576129,Reed (2008),4909347,Middle school,Whole Study,0,0
+34576129,Reed (2008),4889993,Secondary school,Whole Study,0,0
+34576129,Reed (2008),4889994,Vocational facility,Whole Study,0,0
+34576129,Reed (2008),4889995,University facility,Whole Study,0,0
+34576129,Reed (2008),4889997,Community facility,Whole Study,0,0
+34576129,Reed (2008),4889998,Sport and exercise facility,Whole Study,0,0
+34576129,Reed (2008),4889999,Social centre/Community hall facility,Whole Study,0,0
+34576129,Reed (2008),4890000,Library facility,Whole Study,0,0
+34576129,Reed (2008),4889996,Religious facility,Whole Study,0,0
+34576129,Reed (2008),4890001,Hospitality and catering facility,Whole Study,0,0
+34576129,Reed (2008),4890002,Arts and entertainment facility,Whole Study,0,0
+34576129,Reed (2008),4890003,Retail facility,Whole Study,0,0
+34576129,Reed (2008),4890004,Research facility,Whole Study,0,0
+34576129,Reed (2008),4890005,Office facility,Whole Study,0,0
+34576129,Reed (2008),5295655,Factory facility,Whole Study,0,0
+34576129,Reed (2008),4890006,Criminal justice system facility,Whole Study,0,0
+34576129,Reed (2008),5295654,Factory facility,Whole Study,0,0
+34576129,Reed (2008),4890009,Military facility,Whole Study,0,0
+34576129,Reed (2008),4890010,Transportation,Whole Study,0,0
+34576129,Reed (2008),4890011,Public transportation,Whole Study,0,0
+34576129,Reed (2008),4890012,Private transportation,Whole Study,0,0
+34576129,Reed (2008),4890013,Mobile intervention venue,Whole Study,0,0
+34576129,Reed (2008),5295656,Ambulance,Whole Study,0,0
+34576129,Reed (2008),4890014,Outdoor environment,Whole Study,0,0
+34576129,Reed (2008),4890015,Park,Whole Study,0,0
+34576129,Reed (2008),4890016,Forest,Whole Study,0,0
+34576129,Reed (2008),4890017,Beach,Whole Study,0,0
+34576129,Reed (2008),4945615,Water,Whole Study,0,0
+34576129,Reed (2008),4890019,Grassland,Whole Study,0,0
+34576129,Reed (2008),4890021,Road,Whole Study,0,0
+34576129,Reed (2008),4890022,Path/pavement,Whole Study,0,0
+34576129,Reed (2008),4890023,Path/pavement for pedestrians,Whole Study,0,0
+34576129,Reed (2008),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646449,Reid (1979),4889962,Geographical location,Whole Study,0,0
+37646449,Reid (1979),4889963,Country of intervention,Whole Study,0,0
+37646449,Reid (1979),4889964,Lower-level geographical region,Whole Study,0,0
+37646449,Reid (1979),5295644,Attribute of location,Whole Study,0,0
+37646449,Reid (1979),4889965,Area social and economic condition,Whole Study,0,0
+37646449,Reid (1979),5295645,Low-income area,Whole Study,0,0
+37646449,Reid (1979),5295648,High-income area,Whole Study,0,0
+37646449,Reid (1979),4889966,Population and resource density,Whole Study,0,0
+37646449,Reid (1979),4889967,Rural area,Whole Study,0,0
+37646449,Reid (1979),5295649,Suburban area,Whole Study,0,0
+37646449,Reid (1979),4889968,Urban area,Whole Study,0,0
+37646449,Reid (1979),4889969,Site,Whole Study,0,0
+37646449,Reid (1979),4889970,Facility,Whole Study,1,1
+37646449,Reid (1979),4889971,Residential facility,Whole Study,0,0
+37646449,Reid (1979),4889972,Household residence,Whole Study,0,0
+37646449,Reid (1979),4889973,Multiple occupancy residence,Whole Study,0,0
+37646449,Reid (1979),4889974,Student residence,Whole Study,0,0
+37646449,Reid (1979),4889975,Residential care or assisted living,Whole Study,0,0
+37646449,Reid (1979),4889976,Homeless setting,Whole Study,0,0
+37646449,Reid (1979),4889977,Temporary residence,Whole Study,0,0
+37646449,Reid (1979),4889978,Healthcare facility,Whole Study,0,0
+37646449,Reid (1979),4889979,Hospital facility,Whole Study,0,0
+37646449,Reid (1979),4889988,Emergency department facility,Whole Study,0,0
+37646449,Reid (1979),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646449,Reid (1979),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646449,Reid (1979),4889981,Care home facility,Whole Study,0,0
+37646449,Reid (1979),4889982,Hospice facility,Whole Study,0,0
+37646449,Reid (1979),4889983,Pharmacy facility,Whole Study,0,0
+37646449,Reid (1979),4889985,Rehabilitation facility,Whole Study,0,0
+37646449,Reid (1979),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646449,Reid (1979),4890026,Psychiatric facility,Whole Study,0,0
+37646449,Reid (1979),5295651,Community healthcare facility,Whole Study,0,0
+37646449,Reid (1979),5295652,Dentist facility,Whole Study,0,0
+37646449,Reid (1979),4889989,Educational facility,Whole Study,0,0
+37646449,Reid (1979),4889990,Early years facility,Whole Study,0,0
+37646449,Reid (1979),4889991,School facility,Whole Study,0,0
+37646449,Reid (1979),4889992,Primary school,Whole Study,0,0
+37646449,Reid (1979),4909347,Middle school,Whole Study,0,0
+37646449,Reid (1979),4889993,Secondary school,Whole Study,0,0
+37646449,Reid (1979),4889994,Vocational facility,Whole Study,0,0
+37646449,Reid (1979),4889995,University facility,Whole Study,0,0
+37646449,Reid (1979),4889997,Community facility,Whole Study,0,0
+37646449,Reid (1979),4889998,Sport and exercise facility,Whole Study,0,0
+37646449,Reid (1979),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646449,Reid (1979),4890000,Library facility,Whole Study,0,0
+37646449,Reid (1979),4889996,Religious facility,Whole Study,0,0
+37646449,Reid (1979),4890001,Hospitality and catering facility,Whole Study,0,0
+37646449,Reid (1979),4890002,Arts and entertainment facility,Whole Study,0,0
+37646449,Reid (1979),4890003,Retail facility,Whole Study,0,0
+37646449,Reid (1979),4890004,Research facility,Whole Study,0,0
+37646449,Reid (1979),4890005,Office facility,Whole Study,0,0
+37646449,Reid (1979),5295655,Factory facility,Whole Study,0,0
+37646449,Reid (1979),4890006,Criminal justice system facility,Whole Study,0,0
+37646449,Reid (1979),5295654,Factory facility,Whole Study,0,0
+37646449,Reid (1979),4890009,Military facility,Whole Study,0,0
+37646449,Reid (1979),4890010,Transportation,Whole Study,0,0
+37646449,Reid (1979),4890011,Public transportation,Whole Study,0,0
+37646449,Reid (1979),4890012,Private transportation,Whole Study,0,0
+37646449,Reid (1979),4890013,Mobile intervention venue,Whole Study,0,0
+37646449,Reid (1979),5295656,Ambulance,Whole Study,0,0
+37646449,Reid (1979),4890014,Outdoor environment,Whole Study,0,0
+37646449,Reid (1979),4890015,Park,Whole Study,0,0
+37646449,Reid (1979),4890016,Forest,Whole Study,0,0
+37646449,Reid (1979),4890017,Beach,Whole Study,0,0
+37646449,Reid (1979),4945615,Water,Whole Study,0,0
+37646449,Reid (1979),4890019,Grassland,Whole Study,0,0
+37646449,Reid (1979),4890021,Road,Whole Study,0,0
+37646449,Reid (1979),4890022,Path/pavement,Whole Study,0,0
+37646449,Reid (1979),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646449,Reid (1979),4890024,Path/pavement for cyclists,Whole Study,0,0
+37646453,Stewart (2001),4889962,Geographical location,Whole Study,0,0
+37646453,Stewart (2001),4889963,Country of intervention,Whole Study,0,0
+37646453,Stewart (2001),4889964,Lower-level geographical region,Whole Study,0,0
+37646453,Stewart (2001),5295644,Attribute of location,Whole Study,0,0
+37646453,Stewart (2001),4889965,Area social and economic condition,Whole Study,0,0
+37646453,Stewart (2001),5295645,Low-income area,Whole Study,0,0
+37646453,Stewart (2001),5295648,High-income area,Whole Study,0,0
+37646453,Stewart (2001),4889966,Population and resource density,Whole Study,0,0
+37646453,Stewart (2001),4889967,Rural area,Whole Study,0,0
+37646453,Stewart (2001),5295649,Suburban area,Whole Study,0,0
+37646453,Stewart (2001),4889968,Urban area,Whole Study,0,0
+37646453,Stewart (2001),4889969,Site,Whole Study,0,0
+37646453,Stewart (2001),4889970,Facility,Whole Study,0,0
+37646453,Stewart (2001),4889971,Residential facility,Whole Study,0,0
+37646453,Stewart (2001),4889972,Household residence,Whole Study,0,0
+37646453,Stewart (2001),4889973,Multiple occupancy residence,Whole Study,0,0
+37646453,Stewart (2001),4889974,Student residence,Whole Study,0,0
+37646453,Stewart (2001),4889975,Residential care or assisted living,Whole Study,0,0
+37646453,Stewart (2001),4889976,Homeless setting,Whole Study,0,0
+37646453,Stewart (2001),4889977,Temporary residence,Whole Study,0,0
+37646453,Stewart (2001),4889978,Healthcare facility,Whole Study,0,1
+37646453,Stewart (2001),4889979,Hospital facility,Whole Study,0,0
+37646453,Stewart (2001),4889988,Emergency department facility,Whole Study,0,0
+37646453,Stewart (2001),4889986,Hospital outpatient clinic facility,Whole Study,0,0
+37646453,Stewart (2001),4889980,Doctor-led primary care facility,Whole Study,0,0
+37646453,Stewart (2001),4889981,Care home facility,Whole Study,0,0
+37646453,Stewart (2001),4889982,Hospice facility,Whole Study,0,0
+37646453,Stewart (2001),4889983,Pharmacy facility,Whole Study,0,0
+37646453,Stewart (2001),4889985,Rehabilitation facility,Whole Study,0,0
+37646453,Stewart (2001),4890025,Drug or alcohol rehabilitation facility,Whole Study,0,0
+37646453,Stewart (2001),4890026,Psychiatric facility,Whole Study,0,0
+37646453,Stewart (2001),5295651,Community healthcare facility,Whole Study,0,0
+37646453,Stewart (2001),5295652,Dentist facility,Whole Study,0,0
+37646453,Stewart (2001),4889989,Educational facility,Whole Study,0,0
+37646453,Stewart (2001),4889990,Early years facility,Whole Study,0,0
+37646453,Stewart (2001),4889991,School facility,Whole Study,0,0
+37646453,Stewart (2001),4889992,Primary school,Whole Study,0,0
+37646453,Stewart (2001),4909347,Middle school,Whole Study,0,0
+37646453,Stewart (2001),4889993,Secondary school,Whole Study,0,0
+37646453,Stewart (2001),4889994,Vocational facility,Whole Study,0,0
+37646453,Stewart (2001),4889995,University facility,Whole Study,0,0
+37646453,Stewart (2001),4889997,Community facility,Whole Study,0,0
+37646453,Stewart (2001),4889998,Sport and exercise facility,Whole Study,0,0
+37646453,Stewart (2001),4889999,Social centre/Community hall facility,Whole Study,0,0
+37646453,Stewart (2001),4890000,Library facility,Whole Study,0,0
+37646453,Stewart (2001),4889996,Religious facility,Whole Study,0,0
+37646453,Stewart (2001),4890001,Hospitality and catering facility,Whole Study,0,0
+37646453,Stewart (2001),4890002,Arts and entertainment facility,Whole Study,0,0
+37646453,Stewart (2001),4890003,Retail facility,Whole Study,0,0
+37646453,Stewart (2001),4890004,Research facility,Whole Study,0,0
+37646453,Stewart (2001),4890005,Office facility,Whole Study,0,0
+37646453,Stewart (2001),5295655,Factory facility,Whole Study,0,0
+37646453,Stewart (2001),4890006,Criminal justice system facility,Whole Study,0,0
+37646453,Stewart (2001),5295654,Factory facility,Whole Study,0,0
+37646453,Stewart (2001),4890009,Military facility,Whole Study,0,0
+37646453,Stewart (2001),4890010,Transportation,Whole Study,0,0
+37646453,Stewart (2001),4890011,Public transportation,Whole Study,0,0
+37646453,Stewart (2001),4890012,Private transportation,Whole Study,0,0
+37646453,Stewart (2001),4890013,Mobile intervention venue,Whole Study,0,0
+37646453,Stewart (2001),5295656,Ambulance,Whole Study,0,0
+37646453,Stewart (2001),4890014,Outdoor environment,Whole Study,0,0
+37646453,Stewart (2001),4890015,Park,Whole Study,0,0
+37646453,Stewart (2001),4890016,Forest,Whole Study,0,0
+37646453,Stewart (2001),4890017,Beach,Whole Study,0,0
+37646453,Stewart (2001),4945615,Water,Whole Study,0,0
+37646453,Stewart (2001),4890019,Grassland,Whole Study,0,0
+37646453,Stewart (2001),4890021,Road,Whole Study,0,0
+37646453,Stewart (2001),4890022,Path/pavement,Whole Study,0,0
+37646453,Stewart (2001),4890023,Path/pavement for pedestrians,Whole Study,0,0
+37646453,Stewart (2001),4890024,Path/pavement for cyclists,Whole Study,0,0
