@@ -447,7 +447,7 @@ file.close()
 
 # The below code reads the binary csv into a new format
 
-file = open('IrrSpreadsheetBinary.csv')
+file = open('IrrSpreadsheetBinary.csv', encoding="utf8")
 
 allLines = file.readlines()
 
