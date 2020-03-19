@@ -1,7 +1,7 @@
 ---
 title: "Automation of Inter-Rater Reliability (IRR)"
 author: "Ailbhe N. Finnerty"
-date: "04 November2019"
+date: "19 March 2020"
 output:
   pdf_document: default
   html_document: default
@@ -15,19 +15,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Markdown for "IRR_Automation.R"
 
-This is an R Markdown document to provide instructions on how to run the R script **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability/blob/master/Automation_IRR_Krippendorf.R>** to automate the calculation of Inter-rater reliability (IRR) using R package **'irr'**. This work is part of the Human Behaviour Change Project <https://www.humanbehaviourchange.org/>. More information about the methods used to development this script is currently being written up and will be available online by January 2020.
+This is an R Markdown document to provide instructions on how to run the R script **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability/blob/master/Automation_IRR_Krippendorf.R>** to automate the calculation of Inter-rater reliability (IRR) using R package **'irr'**. This work is part of the Human Behaviour Change Project <https://www.humanbehaviourchange.org/>. More information about the methods used to development this script is currently being written up and will be available online by April 2020.
 
 The input for this script is one or more csv files with at least three columns, if more than one file they must match in both name and number of columns. The basic necessary data structure is **1)** a column for the **entity/attribute** that you want to calculate IRR for, **2)** a column of binary data from Coder 1 and **3)** a column of binary data for Coder 2. 
 
-The data used in this example are two csv files ("Behaviour1.csv" and "Behaviour2.csv") from a parsed JSON file of annotations created by EPPI reviewer **<https://eppi.ioe.ac.uk/cms/>**. The data is parsed from the JSON files using a python script which can be found at **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability/blob/master/IrrKrippendorf.py>**.
+The data used in this example is the csv output files ("IrrSpreadsheetBinary.csv") from a parsed JSON file of annotations created by EPPI reviewer **<https://eppi.ioe.ac.uk/cms/>**. The data is parsed from the JSON files using a python script which can be found at **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability/blob/master/IrrKrippendorf.py>**.
 
 ##Step 1 - Getting setup
 
 The first step is to save the "IRR_Automation.R" script and your xslx or csv files in the same folder on your computer and set this folder as your working directory.
 
 ```{r set directory}
-# dir<-"C:/Users/Desktop/Automation IRR"
-# setwd(dir)
+#dir<-"C:/Users/ailbhe/Automation-InterRater-Reliability"
+#setwd(dir)
 ```
 
 
@@ -59,12 +59,10 @@ and load the installed packages.
 
 ## Step 2 - Loading the data
 
-Once the working directory has been established and you have loaded the required packages to run the script, the next step is to load the data. We are using two csv files that contain binary data from two coders which has been parsed from JSON files by the python script which can be found here **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability>**. In this step we load the two separate files and as they had the same format and headings we could combine them as a 'data.frame' using 'rbind'. We used 'na.omit' to ensure that there is no missing data with listwise deletion of missing values.
+Once the working directory has been established and you have loaded the required packages to run the script, the next step is to load the data. We are using one csv files that contain binary data from two coders which has been parsed from JSON files by the python script which can be found here **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability>**. In this step we load one file and as a 'data.frame'. We used 'na.omit' to ensure that there is no missing data with listwise deletion of missing values.
 
 ```{r}
-File1<-read.csv("Behaviour1.csv", header = TRUE,sep = ",")
-File2<-read.csv("Behaviour2.csv", header = TRUE,sep = ",")
-DataFile<-rbind.data.frame(File1, File2)
+DataFile<-read.csv("IrrSpreadsheetBinary.csv")
 DataFile<-na.omit(DataFile)
 head(DataFile, n=5)
 names(DataFile)
@@ -189,7 +187,7 @@ head(AllResults, n=10)
 Finally we write the output to a csv.file. 
 
 ```{r}
-write.csv(AllResults, "IRR_Results_AlphaValues.csv")
+write.csv(AllResults, "IRR_RScript_Results.csv")
 
 ```
 

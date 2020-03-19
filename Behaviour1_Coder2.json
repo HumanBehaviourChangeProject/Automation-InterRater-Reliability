@@ -650,13 +650,13 @@
     ]
   }
 }
-], 
+],
 "References": [
 {
   "ItemId": 34829909,
   "Title": "The change-in-stage and updated smoking status results from a cluster-randomized trial of smoking prevention and cessation using the transtheoretical model among British adolescents",
   "ParentTitle": "Preventive medicine",
-  "ShortTitle": "Aveyard (2001)",
+  "ShortTitle": "Author1",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -678,7 +678,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Aveyard Paul ; Sherratt Emma ; Almond Joanne ; Lawrence Terry ; Lancashire Robert ; Griffin Carl ; Cheng KK ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -697,7 +697,7 @@
           "TextTo": 0,
           "Text": "Page 3:\n[¬s]\"England[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Aveyard 2001.pdf",
+          "DocTitle": "Paper1.pdf",
           "ItemArm": ""
         }
       ]
@@ -714,7 +714,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"West Midlands[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Aveyard 2001.pdf",
+          "DocTitle": "Paper1.pdf",
           "ItemArm": ""
         }
       ]
@@ -731,7 +731,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"schools[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Aveyard 2001.pdf",
+          "DocTitle": "Paper1.pdf",
           "ItemArm": ""
         }
       ]
@@ -742,7 +742,7 @@
   "ItemId": 34829910,
   "Title": "A randomized clinical trial of the efficacy of extended smoking cessation treatment for adolescent smokers",
   "ParentTitle": "nicotine & tobacco research",
-  "ShortTitle": "Bailey (2013)",
+  "ShortTitle": "Author2",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -764,7 +764,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Bailey Steffani R; Hagen Sarah A; Jeffery Christina J; Harrison Christopher T; Ammerman Seth ; Bryson Susan W; Killen Diana T; Robinson Thomas N; Killen Joel D; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -783,7 +783,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"San Francisco Bay Area[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Bailey 2013.pdf",
+          "DocTitle": "Paper2.pdf",
           "ItemArm": ""
         }
       ]
@@ -800,7 +800,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"high schools[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Bailey 2013.pdf",
+          "DocTitle": "Paper2.pdf",
           "ItemArm": ""
         }
       ]
@@ -817,7 +817,7 @@
   "ItemId": 34829911,
   "Title": "Effects of motivational interviewing on smoking cessation in adolescents with psychiatric disorders",
   "ParentTitle": "Tobacco Control",
-  "ShortTitle": "Brown (2003)",
+  "ShortTitle": "Author3",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -839,7 +839,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Brown RA ; Ramsey SE ; Strong DR ; Myers MG ; Kahler CW ; Lejuez CW et; emsp14  ; al  ; Niaura R ; Pallonen UE ; Kazura AN ; Goldstein MG ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -858,7 +858,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Providence, Rhode Islan[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Brown 2003.pdf",
+          "DocTitle": "Paper3.pdf",
           "ItemArm": ""
         }
       ]
@@ -875,7 +875,7 @@
           "TextTo": 0,
           "Text": "Page 3:\n[¬s]\"outpatient[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Brown 2003.pdf",
+          "DocTitle": "Paper3.pdf",
           "ItemArm": ""
         }
       ]
@@ -892,7 +892,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\" psychiatric hospital[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Brown 2003.pdf",
+          "DocTitle": "Paper3.pdf",
           "ItemArm": ""
         }
       ]
@@ -903,7 +903,7 @@
   "ItemId": 34829912,
   "Title": "Brief motivational intervention for adolescent smokers in medical settings",
   "ParentTitle": "Addictive behaviors",
-  "ShortTitle": "Colby (2005)",
+  "ShortTitle": "Author4",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -925,7 +925,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Colby Suzanne M; Monti Peter M; Tevyaw Tracy O'Leary; Barnett Nancy P; Spirito Anthony ; Rohsenow Damaris J; Riggs Suzanne ; Lewander William ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -950,7 +950,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\"Emergency Department.[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Colby 2005.pdf",
+          "DocTitle": "Paper4.pdf",
           "ItemArm": ""
         }
       ]
@@ -967,7 +967,7 @@
   "ItemId": 34829913,
   "Title": "A cluster randomised controlled trial of an adolescent smoking cessation intervention: short and long-term effects",
   "ParentTitle": "Scandinavian journal of public health",
-  "ShortTitle": "Dalum (2012)",
+  "ShortTitle": "Author5",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -989,7 +989,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Dalum Peter ; Paludan-Müller Georg ; Engholm Gerda ; Kok Gerjo ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1008,7 +1008,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Denmark[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Dalum 2012.pdf",
+          "DocTitle": "Paper5.pdf",
           "ItemArm": ""
         }
       ]
@@ -1025,7 +1025,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"lower sec- ondary school[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Dalum 2012.pdf",
+          "DocTitle": "Paper5.pdf",
           "ItemArm": ""
         }
       ]
@@ -1036,7 +1036,7 @@
   "ItemId": 32637266,
   "Title": "The impact of tailored self-help smoking cessation guides on young mothers",
   "ParentTitle": "Health education quarterly",
-  "ShortTitle": "Davis (1992)",
+  "ShortTitle": "Author6",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1058,7 +1058,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Davis Sharon W; Cummings K Michael; Rimer Barbara K; Sciandra Russell ; Stone June C; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1077,7 +1077,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"New York, Pennsylvania, southern New Jersey, and Delaware[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Davis 1992.pdf",
+          "DocTitle": "Paper6.pdf",
           "ItemArm": ""
         }
       ]
@@ -1094,7 +1094,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"CIS offices (Fox Chase Cancer Center and Roswell Park Cancer Center) [¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Davis 1992.pdf",
+          "DocTitle": "Paper6.pdf",
           "ItemArm": ""
         }
       ]
@@ -1105,7 +1105,7 @@
   "ItemId": 32637267,
   "Title": "The effectiveness of tailored feedback and action plans in an intervention addressing multiple health behaviors",
   "ParentTitle": "American Journal of Health Promotion",
-  "ShortTitle": "de Vries (2008)",
+  "ShortTitle": "Author7",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1127,7 +1127,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "de Vries  ; Hein  ; Kremers SPJ ; Smeets T ; Brug J ; Eijmael K ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1146,7 +1146,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\"Dutch[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "de Vries 2008.pdf",
+          "DocTitle": "Paper7.pdf",
           "ItemArm": ""
         }
       ]
@@ -1157,7 +1157,7 @@
   "ItemId": 32637268,
   "Title": "Long-term effectiveness of computer-generated tailored feedback in smoking cessation",
   "ParentTitle": "Health Education Research",
-  "ShortTitle": "Dijkstra (1998)",
+  "ShortTitle": "Author8",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1179,7 +1179,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Dijkstra Arie ; De Vries  ; Hein  ; Roijackers Jolanda ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1198,7 +1198,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Netherlands.[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Dijkstra 1998a.pdf",
+          "DocTitle": "Paper8.pdf",
           "ItemArm": ""
         }
       ]
@@ -1209,7 +1209,7 @@
   "ItemId": 32637269,
   "Title": "Targeting smokers with low readiness to change with tailored and nontailored self-help materials",
   "ParentTitle": "Preventive medicine",
-  "ShortTitle": "Dijkstra (1999)",
+  "ShortTitle": "Author9",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1231,7 +1231,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Dijkstra Arie ; De Vries  ; Hein  ; Roijackers Jolanda ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1250,7 +1250,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Netherlands[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Dijkstra 1999.pdf",
+          "DocTitle": "Paper9.pdf",
           "ItemArm": ""
         }
       ]
@@ -1261,7 +1261,7 @@
   "ItemId": 34829914,
   "Title": "Pilot clinic study of Project EX for smoking cessation with Spanish adolescents",
   "ParentTitle": "Addictive behaviors",
-  "ShortTitle": "Espada (2015)",
+  "ShortTitle": "Author10",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -1283,7 +1283,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Espada José P; Gonzálvez María T; Orgilés Mireia ; Guillén-Riquelme Alejandro ; Soto Daniel ; Sussman Steve ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1302,7 +1302,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Spain[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Espada 2015.pdf",
+          "DocTitle": "Paper10.pdf",
           "ItemArm": ""
         }
       ]
@@ -1319,7 +1319,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Alicante and Murcia[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Espada 2015.pdf",
+          "DocTitle": "Paper10.pdf",
           "ItemArm": ""
         }
       ]
@@ -1336,7 +1336,7 @@
   "ItemId": 32637270,
   "Title": "Post-intervention effect of a computer tailored smoking cessation programme",
   "ParentTitle": "Journal of Epidemiology & Community Health",
-  "ShortTitle": "Etter (2004)",
+  "ShortTitle": "Author11",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1358,7 +1358,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Etter Jean-François ; Perneger Thomas V; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1377,7 +1377,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\"Switzerland[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Etter 2004.pdf",
+          "DocTitle": "Paper11.pdf",
           "ItemArm": ""
         }
       ]
@@ -1388,7 +1388,7 @@
   "ItemId": 32637271,
   "Title": "Nicotine gum and self-help behavioral treatment for smoking relapse prevention: results from a trial using population-based recruitment",
   "ParentTitle": "Journal of consulting and clinical psychology",
-  "ShortTitle": "Fortmann (1995)",
+  "ShortTitle": "Author12",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1410,7 +1410,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Fortmann Stephen P; Killen Joel D; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1429,7 +1429,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"San Francisco Bay Area communities (Fremont and Newark[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Fortmann 1995.pdf",
+          "DocTitle": "Paper12.pdf",
           "ItemArm": ""
         }
       ]
@@ -1440,7 +1440,7 @@
   "ItemId": 32637272,
   "Title": "ESCAPE: a randomised controlled trial of computer‐tailored smoking cessation advice in primary care",
   "ParentTitle": "Addiction",
-  "ShortTitle": "Gilbert (2013)",
+  "ShortTitle": "Author13",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1462,7 +1462,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Gilbert Hazel M; Leurent Baptiste ; Sutton Stephen ; Alexis‐Garsee Camille ; Morris Richard W; Nazareth Irwin ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1481,7 +1481,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\" general practices[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Gilbert 2013.pdf",
+          "DocTitle": "Paper13.pdf",
           "ItemArm": ""
         }
       ]
@@ -1498,7 +1498,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\"UK[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Gilbert 2013.pdf",
+          "DocTitle": "Paper13.pdf",
           "ItemArm": ""
         }
       ]
@@ -1509,7 +1509,7 @@
   "ItemId": 32637273,
   "Title": "Self-help books and amount of therapist contact in smoking cessation programs",
   "ParentTitle": "Journal of consulting and clinical psychology",
-  "ShortTitle": "Glasgow (1981)",
+  "ShortTitle": "Author14",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1531,7 +1531,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Glasgow Russell E; Schafer Lorraine ; O'neill H Katherine; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1550,7 +1550,7 @@
   "ItemId": 34829915,
   "Title": "One-year effects of Project EX in Spain: a classroom-based smoking prevention and cessation intervention program",
   "ParentTitle": "PloS one",
-  "ShortTitle": "Gonzálvez (2015)",
+  "ShortTitle": "Author15",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -1572,7 +1572,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Gonzálvez María T; Espada José P; Orgilés Mireia ; Soto Daniel ; Sussman Steve ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1591,7 +1591,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Elche\"\n\"Crevillente\"\n\"San Vicente[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Gonzalvez 2015.pdf",
+          "DocTitle": "Paper15.pdf",
           "ItemArm": ""
         }
       ]
@@ -1608,7 +1608,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"high schools[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Gonzalvez 2015.pdf",
+          "DocTitle": "Paper15.pdf",
           "ItemArm": ""
         }
       ]
@@ -1625,7 +1625,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"cities[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Gonzalvez 2015.pdf",
+          "DocTitle": "Paper15.pdf",
           "ItemArm": ""
         }
       ]
@@ -1636,7 +1636,7 @@
   "ItemId": 34829916,
   "Title": "Smoking intervention: Comparing three methods in a high school setting",
   "ParentTitle": "Journal of School Health",
-  "ShortTitle": "Greenberg (1978)",
+  "ShortTitle": "Author16",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -1658,7 +1658,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Greenberg Jerrold S; Deputat Zenon ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1677,7 +1677,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\" suburban[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Greenberg 1978.pdf",
+          "DocTitle": "Paper16.pdf",
           "ItemArm": ""
         }
       ]
@@ -1694,7 +1694,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\" high school[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Greenberg 1978.pdf",
+          "DocTitle": "Paper16.pdf",
           "ItemArm": ""
         }
       ]
@@ -1711,7 +1711,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Western New York State[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Greenberg 1978.pdf",
+          "DocTitle": "Paper16.pdf",
           "ItemArm": ""
         }
       ]
@@ -1722,7 +1722,7 @@
   "ItemId": 34829918,
   "Title": "The effectiveness of an integrated multicomponent program for adolescent smoking cessation in Taiwan",
   "ParentTitle": "Addictive behaviors",
-  "ShortTitle": "Guo (2014)",
+  "ShortTitle": "Author17",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -1744,7 +1744,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Guo Jong-Long ; Liao JY ; Chang LC ; Wu HL ; Huang CM ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1763,7 +1763,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\" high schools[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Guo 2014.pdf",
+          "DocTitle": "Paper17.pdf",
           "ItemArm": ""
         }
       ]
@@ -1780,7 +1780,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"City[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Guo 2014.pdf",
+          "DocTitle": "Paper17.pdf",
           "ItemArm": ""
         }
       ]
@@ -1797,7 +1797,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Taiwan[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Guo 2014.pdf",
+          "DocTitle": "Paper17.pdf",
           "ItemArm": ""
         }
       ]
@@ -1814,7 +1814,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"New Taipei City[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Guo 2014.pdf",
+          "DocTitle": "Paper17.pdf",
           "ItemArm": ""
         }
       ]
@@ -1831,7 +1831,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"vocational[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Guo 2014.pdf",
+          "DocTitle": "Paper17.pdf",
           "ItemArm": ""
         }
       ]
@@ -1842,7 +1842,7 @@
   "ItemId": 32637275,
   "Title": "Nicotine gum and self-help manuals in smoking cessation: an evaluation in a medical context",
   "ParentTitle": "Addictive behaviors",
-  "ShortTitle": "Harackiewicz (1988)",
+  "ShortTitle": "Author18",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1864,7 +1864,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Harackiewicz Judith M; Blair Lester W; Sansone Carol ; Epstein Jennifer A; Stuchell Robert N; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1889,7 +1889,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"bia Unive[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Harackiewicz 1988.pdf",
+          "DocTitle": "Paper18.pdf",
           "ItemArm": ""
         }
       ]
@@ -1900,7 +1900,7 @@
   "ItemId": 34829919,
   "Title": "Motivational interviewing for smoking cessation in college students: a group randomized controlled trial",
   "ParentTitle": "Preventive medicine",
-  "ShortTitle": "Harris (2010)",
+  "ShortTitle": "Author19",
   "DateCreated": "2018-04-10T13:44:00.563",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-10T13:44:00.563",
@@ -1922,7 +1922,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Harris Kari Jo; Catley Delwyn ; Good Glenn E; Cronk Nikole J; Harrar Solomon ; Williams Karen B; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1941,7 +1941,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Midwestern[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Harris 2010.pdf",
+          "DocTitle": "Paper19.pdf",
           "ItemArm": ""
         }
       ]
@@ -1952,7 +1952,7 @@
   "ItemId": 32637276,
   "Title": "Nurse-assisted counseling for smokers in primary care",
   "ParentTitle": "Annals of internal medicine",
-  "ShortTitle": "Hollis (1993)",
+  "ShortTitle": "Author20",
   "DateCreated": "2017-11-10T11:16:12.713",
   "CreatedBy": "Emma Norris",
   "DateEdited": "2017-11-10T11:16:12.713",
@@ -1974,7 +1974,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Hollis Jack F; Lichtenstein Edward ; Vogt Thomas M; Stevens Victor J; Biglan Anthony ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -1993,7 +1993,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\"Portland, Oregon.[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Hollis 1993.pdf",
+          "DocTitle": "Paper20.pdf",
           "ItemArm": ""
         }
       ]
@@ -2010,7 +2010,7 @@
           "TextTo": 0,
           "Text": "Page 1:\n[¬s]\"primary care facilities[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Hollis 1993.pdf",
+          "DocTitle": "Paper20.pdf",
           "ItemArm": ""
         }
       ]
@@ -2021,7 +2021,7 @@
   "ItemId": 34922400,
   "Title": "Nicotine fading as a nonaversive alternatative in a broad-spectrum treatment for eliminating smoking",
   "ParentTitle": "Addictive Behaviors",
-  "ShortTitle": "Lando (1985)",
+  "ShortTitle": "Author21",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2043,7 +2043,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Lando Harry A; McGovern Paul G; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2062,7 +2062,7 @@
           "TextTo": 0,
           "Text": "Page 4:\n[¬s]\"een laboratory sess[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Lando 1985.pdf",
+          "DocTitle": "Paper21.pdf",
           "ItemArm": ""
         }
       ]
@@ -2073,7 +2073,7 @@
   "ItemId": 34922402,
   "Title": "Randomized controlled trial of behavioral activation smoking cessation treatment for smokers with elevated depressive symptoms",
   "ParentTitle": "Journal of consulting and clinical psychology",
-  "ShortTitle": "MacPherson (2010)",
+  "ShortTitle": "Author22",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2095,7 +2095,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "MacPherson Laura ; Tull Matthew T; Matusiewicz Alexis K; Rodman Samantha ; Strong David R; Kahler Christopher W; Hopko Derek R; Zvolensky Michael J; Brown Richard A; Lejuez CW ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2106,7 +2106,7 @@
   "ItemId": 34922404,
   "Title": "Effect of depressive symptoms on smoking abstinence and treatment adherence among smokers with a history of alcohol dependence",
   "ParentTitle": "Psychology of Addictive Behaviors",
-  "ShortTitle": "Patten (2002)",
+  "ShortTitle": "Author23",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2128,7 +2128,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Patten Christi A; Drews Amanda A; Myers Mark G; Martin John E; Wolter Troy D; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2139,7 +2139,7 @@
   "ItemId": 34922406,
   "Title": "Smoking cessation intervention in a large randomised population-based study. The Inter99 study",
   "ParentTitle": "Preventive medicine",
-  "ShortTitle": "Pisinger (2005)",
+  "ShortTitle": "Author24",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2161,7 +2161,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Pisinger Charlotta ; Vestbo Jørgen ; Borch-Johnsen Knut ; Jørgensen Torben ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2180,7 +2180,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Copenhagen[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Pisinger 2005.pdf",
+          "DocTitle": "Paper24.pdf",
           "ItemArm": ""
         }
       ]
@@ -2197,7 +2197,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Denmark[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Pisinger 2005.pdf",
+          "DocTitle": "Paper24.pdf",
           "ItemArm": ""
         }
       ]
@@ -2214,7 +2214,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Research Centre[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Pisinger 2005.pdf",
+          "DocTitle": "Paper24.pdf",
           "ItemArm": ""
         }
       ]
@@ -2225,7 +2225,7 @@
   "ItemId": 34922405,
   "Title": "A cluster randomized trial in general practice with referral to a group-based or an Internet-based smoking cessation programme",
   "ParentTitle": "Journal of public health",
-  "ShortTitle": "Pisinger (2009)",
+  "ShortTitle": "Author25",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2247,7 +2247,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Pisinger Charlotta ; Jørgensen Michael Milo; Møller Niels Erik; Døssing Martin ; Jørgensen Torben ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2266,7 +2266,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\" Copenhagen,[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Pisinger 2009.pdf",
+          "DocTitle": "Paper25.pdf",
           "ItemArm": ""
         }
       ]
@@ -2283,7 +2283,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Denmark[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Pisinger 2009.pdf",
+          "DocTitle": "Paper25.pdf",
           "ItemArm": ""
         }
       ]
@@ -2300,7 +2300,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Research Centre[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Pisinger 2009.pdf",
+          "DocTitle": "Paper25.pdf",
           "ItemArm": ""
         }
       ]
@@ -2317,7 +2317,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\" suburb[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Pisinger 2009.pdf",
+          "DocTitle": "Paper25.pdf",
           "ItemArm": ""
         }
       ]
@@ -2328,7 +2328,7 @@
   "ItemId": 34922408,
   "Title": "Effectiveness of pharmacotherapy and behavioral interventions for smoking cessation in actual clinical practice",
   "ParentTitle": "Therapeutic advances in respiratory disease",
-  "ShortTitle": "Rovina (2009)",
+  "ShortTitle": "Author26",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2350,7 +2350,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Rovina Nikoletta ; Nikoloutsou Ioanna ; Katsani Georgia ; Dima Efrossini ; Fransis Konstantinos ; Roussos Charis ; Gratziou Christina ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2369,7 +2369,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\" Athens[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Rovina 2009.pdf",
+          "DocTitle": "Paper26.pdf",
           "ItemArm": ""
         }
       ]
@@ -2386,7 +2386,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"outpatient smoking cessation clinic[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Rovina 2009.pdf",
+          "DocTitle": "Paper26.pdf",
           "ItemArm": ""
         }
       ]
@@ -2397,7 +2397,7 @@
   "ItemId": 34922409,
   "Title": "Behaviour therapy versus doctor's anti‐smoking advice in diabetic patients",
   "ParentTitle": "Journal of internal medicine",
-  "ShortTitle": "Sawicki (1993)",
+  "ShortTitle": "Author27",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2419,7 +2419,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Sawicki PT ; Didjurgeit U ; Mühlhauser I ; Berger M ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2438,7 +2438,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\" out-patient clinic[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Sawicki 1993.pdf",
+          "DocTitle": "Paper27.pdf",
           "ItemArm": ""
         }
       ]
@@ -2449,7 +2449,7 @@
   "ItemId": 34922410,
   "Title": "Mood management intervention for college smokers with elevated depressive symptoms: a pilot study",
   "ParentTitle": "Journal of American College Health",
-  "ShortTitle": "Schleicher (2012)",
+  "ShortTitle": "Author28",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2471,7 +2471,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Schleicher Holly E; Harris Kari Jo; Campbell Duncan G; Harrar Solomon W; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2482,7 +2482,7 @@
   "ItemId": 34922411,
   "Title": "Bupropion and cognitive-behavioral therapy for smoking cessation in women",
   "ParentTitle": "Nicotine & tobacco research",
-  "ShortTitle": "Schmitz (2007)",
+  "ShortTitle": "Author29",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2504,7 +2504,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Schmitz Joy M; Stotts Angela L; Mooney Marc E; DeLaune Katherine A; Moeller F Gerard; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",
@@ -2523,7 +2523,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"outpatient Treatment Research Clinic[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Schmitz 2007.pdf",
+          "DocTitle": "Paper29.pdf",
           "ItemArm": ""
         }
       ]
@@ -2540,7 +2540,7 @@
           "TextTo": 0,
           "Text": "Page 2:\n[¬s]\"Houston[¬e]\"",
           "IsFromPDF": true,
-          "DocTitle": "Schmitz 2007.pdf",
+          "DocTitle": "Paper29.pdf",
           "ItemArm": ""
         }
       ]
@@ -2551,7 +2551,7 @@
   "ItemId": 34922412,
   "Title": "Using psychological insights to help people quit smoking",
   "ParentTitle": "Journal of advanced nursing",
-  "ShortTitle": "Ward (2001)",
+  "ShortTitle": "Author30",
   "DateCreated": "2018-04-16T16:54:53.627",
   "CreatedBy": "Kirsty Atha",
   "DateEdited": "2018-04-16T16:54:53.627",
@@ -2573,7 +2573,7 @@
   "Abstract": "",
   "Comments": "",
   "TypeName": "Journal, Article",
-  "Authors": "Ward Tony ; ",
+  "Authors": " ",
   "ParentAuthors": "",
   "DOI": "",
   "Keywords": "",

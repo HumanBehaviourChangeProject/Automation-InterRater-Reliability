@@ -13,7 +13,7 @@ import csv
 
 coder1JSON = ['Behaviour1_Coder1.json', 'Behaviour2_Coder1.json']
 coder2JSON = ['Behaviour1_Coder2.json', 'Behaviour2_Coder2.json']
-resultsFileName = 'IRR_Results.csv'
+resultsFileName = 'IRR_PythonScript_Results.csv'
 
 #   the getCodeSet function parses the json file and returns a list where the first element is a list of codeIDs, and
 #   the second element is a list containing a list for each attribute where the first element is the attributeID and

@@ -2,8 +2,8 @@
 
 #set working directory for where you have this script and your data file saved
 
-
-setwd("~/Work/Automation of IRR/Write-Up")
+dir<-"C:/Users/ailbhe/Automation-InterRater-Reliability"
+setwd(dir)
 
 
 #install packages required to run the script - may take a few minutes to install
@@ -26,10 +26,8 @@ library(splitstackshape)
 library(tidyverse)
 
 #load the data from your working directory
- File1<-read.csv("Behaviour1.csv", header = TRUE,sep = ",")
- File2<-read.csv("Behaviour1.csv", header = TRUE,sep = ",")
- DataFile<-rbind.data.frame(File1, File2)
- DataFile<-na.omit(DataFile)
+DataFile<-read.csv("IrrSpreadsheetBinary.csv", header = TRUE,sep = ",")
+DataFile<-na.omit(DataFile)
  
 head(DataFile, n=5)
 names(DataFile)
@@ -105,5 +103,5 @@ names(WholeSample) <- c("AttributeTitle", "Result")
 AllResults <-rbind(all_results, WholeSample) 
 head(AllResults, n=10)
 
-write.csv(AllResults, "IRR_Results_AlphaValues.csv")
+write.csv(AllResults, "IRR_RScript_Results.csv")
 
