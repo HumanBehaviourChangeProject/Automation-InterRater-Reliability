@@ -1,0 +1,24 @@
+Comparing Behaviour1_Coder1.json and Behaviour1_Coder2.json:
+
+It is True that the codeIDs are the same. There are 70 IDs for review 1 and there are 70 IDs for review 2 
+
+There are, 70 codenames for review 1. There are, 70 codenames for review 2.
+
+It is True that the codenames are the same. The attribute names that are in codeset 1 but not codeset 2 are: 
+
+The attribute names that are in codeset 2 but not in codeset 1 are: 
+
+The IDs that are in codeset1 but not codeset 2 are: 
+
+The IDs that are in codeset2 but not codeset 1 are: 
+
+The duplicate names in codeset1 are, 
+
+The duplicate names in codeset2 are, 
+
+The ID duplicates in codeset 1 are, 
+
+The ID duplicates in codeset 2 are, 
+
+****************
+

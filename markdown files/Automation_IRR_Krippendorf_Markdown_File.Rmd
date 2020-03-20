@@ -1,0 +1,193 @@
+---
+title: "Automation of Inter-Rater Reliability (IRR)"
+author: "Ailbhe N. Finnerty"
+date: "19 March 2020"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Markdown for "IRR_Automation.R"
+
+This is an R Markdown document to provide instructions on how to run the R script **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability/blob/master/Automation_IRR_Krippendorf.R>** to automate the calculation of Inter-rater reliability (IRR) using R package **'irr'**. This work is part of the Human Behaviour Change Project <https://www.humanbehaviourchange.org/>. More information about the methods used to development this script is currently being written up and will be available online by April 2020.
+
+The input for this script is one or more csv files with at least three columns, if more than one file they must match in both name and number of columns. The basic necessary data structure is **1)** a column for the **entity/attribute** that you want to calculate IRR for, **2)** a column of binary data from Coder 1 and **3)** a column of binary data for Coder 2. 
+
+The data used in this example is the csv output files ("IrrSpreadsheetBinary.csv") from a parsed JSON file of annotations created by EPPI reviewer **<https://eppi.ioe.ac.uk/cms/>**. The data is parsed from the JSON files using a python script which can be found at **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability/blob/master/IrrKrippendorf.py>**.
+
+##Step 1 - Getting setup
+
+The first step is to save the "IRR_Automation.R" script and your xslx or csv files in the same folder on your computer and set this folder as your working directory.
+
+```{r set directory}
+#dir<-"C:/Users/ailbhe/Automation-InterRater-Reliability"
+#setwd(dir)
+```
+
+
+You then need to install the required packages to run the script
+
+```{r install packages}
+# install.packages('irr')
+# install.packages('data.table')
+# install.packages('plyr')
+# install.packages('dplyr')
+# install.packages('reshape2')
+# install.packages('splitstackshape')
+# install.packages('tidyverse')
+#install.packages('tinytex')
+```
+
+and load the installed packages. 
+
+```{r load packages}
+ library(irr)
+# library(data.table)
+ library(plyr)
+# library(dplyr)
+# library(reshape2)
+# library(splitstackshape)
+# library(tidyverse)
+#library(tinytex)
+```
+
+## Step 2 - Loading the data
+
+Once the working directory has been established and you have loaded the required packages to run the script, the next step is to load the data. We are using one csv files that contain binary data from two coders which has been parsed from JSON files by the python script which can be found here **<https://github.com/HumanBehaviourChangeProject/Automation-InterRater-Reliability>**. In this step we load one file and as a 'data.frame'. We used 'na.omit' to ensure that there is no missing data with listwise deletion of missing values.
+
+```{r}
+DataFile<-read.csv("IrrSpreadsheetBinary.csv")
+DataFile<-na.omit(DataFile)
+head(DataFile, n=5)
+names(DataFile)
+```
+
+##Step 3 - Restructuring the data
+
+The DataFile data.frame has more columns of data than we need to calculate *krippendorf's alpha*. We want to calculate the agreement between Coder1 (Coder1Text) and Coder2 (Coder2Text) for each attribute (AttributeID/AttributeTitle) in all papers (shortTitle) that were annotated. 
+
+```{r}
+DataFile_Attributes<-DataFile[,c((4),(2:3),(6:7))]
+head(DataFile_Attributes, n=5)
+```
+
+We want to check how many papers were annotated and how many attributes we want to calculate the statistic for.
+
+```{r}
+NumPapers<-unique(DataFile_Attributes$shortTitle)
+NumEntities<-unique(DataFile_Attributes$AttributeTitle)
+length(NumPapers)
+length(NumEntities)
+```
+
+This tells us that we have annotated data for 50 papers and for 70 unique attributes. 
+
+##Step 4 - Finding attributes with data
+
+We want to calcualate IRR for the entire dataset and for each attribute but as there are many entities we want to check if any of them have not been annotated at all for the 50 papers to exclude them from the final analysis. To check this we simply count the annotations for each attribute.
+
+```{r}
+AttributeCount<-ddply(DataFile_Attributes, "AttributeTitle", numcolwise(sum))
+tail(AttributeCount)
+```
+
+This allows us to find the attributes that have data for at least one coder and those that have no data at all for either coder 1 or coder 2. 
+
+```{r}
+HasData<-as.data.frame(AttributeCount[ which(AttributeCount$Coder1Text > 0 | AttributeCount$Coder2Text > 0), ])
+HasNoData<-as.data.frame(AttributeCount[ which(AttributeCount$Coder1Text == 0 & AttributeCount$Coder2Text == 0), ])
+length(unique(HasData$AttributeTitle))
+print(HasData)
+
+```
+
+Now that we know there are only 24 attributes with data we can subset the original data.frame so that it includes attributes with data only and order the data.frame by the headers of AttributeTitle and shortTitle. 
+
+```{r}
+NewData<-match_df(DataFile_Attributes, HasData, on = "AttributeTitle")
+NewData<-NewData[order(NewData$AttributeTitle, NewData$shortTitle),]
+
+```
+
+##Step 5 - Calculating IRR using kripp.alpha
+
+We can now calculate *krippendorf's alpha* for the entire data.frame with and without data. The 'kripp.alpha' function requires the data to be in a table format and calculates IRR for all columns. We further subset the data to just include the columns with data for Coder1 and Coder2.
+
+```{r}
+All_Attributes<-t(DataFile_Attributes[,4:5])
+Result<-kripp.alpha(All_Attributes, method = c("ordinal"))
+Statistic<-as.character("All Entities")
+Value<-as.numeric(Result$value)
+All_Data_Result<-data.frame(Statistic,Value)
+print(All_Data_Result)
+```
+
+We are more interested in the alpha value for the attributes with data only as we are assuming that the value for the entire dataset will be inflated by the attributes with no data for either coder as they would technically have perfect agreeement. For this reason we do a second calcuation on the subset of data with attributes.
+
+```{r}
+Attributes_with_Data<-t(NewData[,4:5])
+Attributes_with_Data<-na.omit(Attributes_with_Data)
+Result<-kripp.alpha(Attributes_with_Data, method = c("ordinal"))
+Statistic<-as.character("Entities with data")
+Value<-as.numeric(Result$value)
+Attribute_Result<-data.frame(Statistic,Value)
+print(Attribute_Result)
+```
+
+Our final calculation is for each of the attributes indiviually, with or without data, which requires us to loop over each of the attributes in turn. we want to print all the results in a new data.frame 'all_results'.
+
+Our for loop creates a data.frame with the values for Coder1 and Coder2 only for each attribute in turn and calculates kripp.alpha for each attribute. As we loop over each attribute we need to save the alpha values storing the values in a temporary 'new_data_frame' before moving onto the next attribute.
+
+```{r}
+all_results<-data.frame()
+
+for (attributetitle in unique(NewData$AttributeTitle)) {
+  
+  temp_data = NewData[NewData$AttributeTitle==attributetitle,]
+  temp_data$Coder1Text<-as.numeric(temp_data$Coder1Text)
+  temp_data$Coder2Text<-as.numeric(temp_data$Coder2Text)
+  
+  temp_data2<-t(temp_data[4:5])
+  
+  result<-kripp.alpha(temp_data2, method = c("ordinal"))
+  value<-as.numeric(result$value)
+  
+  new_data_frame = data.frame(AttributeTitle=attributetitle,Result=value)
+  
+  all_results <- rbind(all_results,new_data_frame)
+}
+```
+
+We then join all the values together in our 'all_results' data.frame.
+
+```{r}
+all_results <- rbind(all_results,new_data_frame)
+```
+
+We want to create an output which will have all the alpha scores which we calculated, for the whole dataset, the attributes with data subset and the individual entities and so we first join the two alphas score and rename the column headers to match with the 'all_results' data.frame.
+
+```{r}
+WholeSample<-rbind(All_Data_Result,Attribute_Result)
+names(WholeSample) <- c("AttributeTitle", "Result")
+```
+
+We then add both data.frames together. 
+
+```{r}
+AllResults <-rbind(all_results, WholeSample)
+head(AllResults, n=10)
+```
+
+Finally we write the output to a csv.file. 
+
+```{r}
+write.csv(AllResults, "IRR_RScript_Results.csv")
+
+```
+

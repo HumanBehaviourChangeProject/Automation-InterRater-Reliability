@@ -1,0 +1,2033 @@
+{
+"CodeSets": [
+{
+  "SetName": "Setting",
+  "ReviewSetId": 90290,
+  "SetId": 90272,
+  "SetType": {
+    "SetTypeName": "Standard",
+    "SetTypeDescription": "The Standard codeset type is used for regular coding such as keywording or data-extraction. This codeset type can contain multiple levels of child codes but cannot contain the special code types \"Include\" and \"Exclude\"."
+  },
+  "SetDescription": "",
+  "Attributes": {
+    "AttributesList": [
+      {
+        "AttributeSetId": 4890418,
+        "AttributeId": 4889962,
+        "AttributeSetDescription": "",
+        "AttributeType": "Selectable (show checkbox)",
+        "AttributeName": "Geographical location",
+        "AttributeDescription": "",
+        "Attributes": {
+          "AttributesList": [
+            {
+              "AttributeSetId": 4890419,
+              "AttributeId": 4889963,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Country of intervention",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 4890420,
+                    "AttributeId": 4889964,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Lower-level geographical region",
+                    "AttributeDescription": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "AttributeSetId": 5296044,
+        "AttributeId": 5295644,
+        "AttributeSetDescription": "",
+        "AttributeType": "Selectable (show checkbox)",
+        "AttributeName": "Attribute of location",
+        "AttributeDescription": "",
+        "Attributes": {
+          "AttributesList": [
+            {
+              "AttributeSetId": 4890421,
+              "AttributeId": 4889965,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Area social and economic condition",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 5296045,
+                    "AttributeId": 5295645,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Low-income area",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5296048,
+                    "AttributeId": 5295648,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "High-income area",
+                    "AttributeDescription": ""
+                  }
+                ]
+              }
+            },
+            {
+              "AttributeSetId": 4890422,
+              "AttributeId": 4889966,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Population and resource density",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 4890423,
+                    "AttributeId": 4889967,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Rural area",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5296049,
+                    "AttributeId": 5295649,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Suburban area",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890424,
+                    "AttributeId": 4889968,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Urban area",
+                    "AttributeDescription": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "AttributeSetId": 4890425,
+        "AttributeId": 4889969,
+        "AttributeSetDescription": "",
+        "AttributeType": "Selectable (show checkbox)",
+        "AttributeName": "Site",
+        "AttributeDescription": "",
+        "Attributes": {
+          "AttributesList": [
+            {
+              "AttributeSetId": 4890426,
+              "AttributeId": 4889970,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Facility",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 4890427,
+                    "AttributeId": 4889971,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Residential facility",
+                    "AttributeDescription": "",
+                    "Attributes": {
+                      "AttributesList": [
+                        {
+                          "AttributeSetId": 4890428,
+                          "AttributeId": 4889972,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Household residence",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890429,
+                          "AttributeId": 4889973,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Multiple occupancy residence",
+                          "AttributeDescription": "",
+                          "Attributes": {
+                            "AttributesList": [
+                              {
+                                "AttributeSetId": 4890430,
+                                "AttributeId": 4889974,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Student residence",
+                                "AttributeDescription": ""
+                              },
+                              {
+                                "AttributeSetId": 4890431,
+                                "AttributeId": 4889975,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Residential care or assisted living",
+                                "AttributeDescription": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "AttributeSetId": 4890432,
+                          "AttributeId": 4889976,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Homeless setting",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890433,
+                          "AttributeId": 4889977,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Temporary residence",
+                          "AttributeDescription": ""
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "AttributeSetId": 4890434,
+                    "AttributeId": 4889978,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Healthcare facility",
+                    "AttributeDescription": "",
+                    "Attributes": {
+                      "AttributesList": [
+                        {
+                          "AttributeSetId": 4890435,
+                          "AttributeId": 4889979,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Hospital facility",
+                          "AttributeDescription": "",
+                          "Attributes": {
+                            "AttributesList": [
+                              {
+                                "AttributeSetId": 4890444,
+                                "AttributeId": 4889988,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Emergency department facility",
+                                "AttributeDescription": ""
+                              },
+                              {
+                                "AttributeSetId": 4890442,
+                                "AttributeId": 4889986,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Hospital outpatient clinic facility",
+                                "AttributeDescription": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "AttributeSetId": 4890436,
+                          "AttributeId": 4889980,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Doctor-led primary care facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890437,
+                          "AttributeId": 4889981,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Care home facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890438,
+                          "AttributeId": 4889982,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Hospice facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890439,
+                          "AttributeId": 4889983,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Pharmacy facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890441,
+                          "AttributeId": 4889985,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Rehabilitation facility",
+                          "AttributeDescription": "",
+                          "Attributes": {
+                            "AttributesList": [
+                              {
+                                "AttributeSetId": 4890481,
+                                "AttributeId": 4890025,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Drug or alcohol rehabilitation facility",
+                                "AttributeDescription": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "AttributeSetId": 4890482,
+                          "AttributeId": 4890026,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Psychiatric facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 5296051,
+                          "AttributeId": 5295651,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Community healthcare facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 5296052,
+                          "AttributeId": 5295652,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Dentist facility",
+                          "AttributeDescription": ""
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "AttributeSetId": 4890445,
+                    "AttributeId": 4889989,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Educational facility",
+                    "AttributeDescription": "",
+                    "Attributes": {
+                      "AttributesList": [
+                        {
+                          "AttributeSetId": 4890446,
+                          "AttributeId": 4889990,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Early years facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890447,
+                          "AttributeId": 4889991,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "School facility",
+                          "AttributeDescription": "",
+                          "Attributes": {
+                            "AttributesList": [
+                              {
+                                "AttributeSetId": 4890448,
+                                "AttributeId": 4889992,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Primary school",
+                                "AttributeDescription": ""
+                              },
+                              {
+                                "AttributeSetId": 4909802,
+                                "AttributeId": 4909347,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Middle school",
+                                "AttributeDescription": ""
+                              },
+                              {
+                                "AttributeSetId": 4890449,
+                                "AttributeId": 4889993,
+                                "AttributeSetDescription": "",
+                                "AttributeType": "Selectable (show checkbox)",
+                                "AttributeName": "Secondary school",
+                                "AttributeDescription": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "AttributeSetId": 4890450,
+                          "AttributeId": 4889994,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Vocational facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890451,
+                          "AttributeId": 4889995,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "University facility",
+                          "AttributeDescription": ""
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "AttributeSetId": 4890453,
+                    "AttributeId": 4889997,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Community facility",
+                    "AttributeDescription": "",
+                    "Attributes": {
+                      "AttributesList": [
+                        {
+                          "AttributeSetId": 4890454,
+                          "AttributeId": 4889998,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Sport and exercise facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890455,
+                          "AttributeId": 4889999,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Social centre/Community hall facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890456,
+                          "AttributeId": 4890000,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Library facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890452,
+                          "AttributeId": 4889996,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Religious facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890457,
+                          "AttributeId": 4890001,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Hospitality and catering facility",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890458,
+                          "AttributeId": 4890002,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Arts and entertainment facility",
+                          "AttributeDescription": ""
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "AttributeSetId": 4890459,
+                    "AttributeId": 4890003,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Retail facility",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890460,
+                    "AttributeId": 4890004,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Research facility",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890461,
+                    "AttributeId": 4890005,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Office facility",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5296055,
+                    "AttributeId": 5295655,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Factory facility",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890462,
+                    "AttributeId": 4890006,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Criminal justice system facility",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5296054,
+                    "AttributeId": 5295654,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Factory facility",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890465,
+                    "AttributeId": 4890009,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Military facility",
+                    "AttributeDescription": ""
+                  }
+                ]
+              }
+            },
+            {
+              "AttributeSetId": 4890466,
+              "AttributeId": 4890010,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Transportation",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 4890467,
+                    "AttributeId": 4890011,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Public transportation",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890468,
+                    "AttributeId": 4890012,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Private transportation",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890469,
+                    "AttributeId": 4890013,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Mobile intervention venue",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 5296056,
+                    "AttributeId": 5295656,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Ambulance",
+                    "AttributeDescription": ""
+                  }
+                ]
+              }
+            },
+            {
+              "AttributeSetId": 4890470,
+              "AttributeId": 4890014,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Outdoor environment",
+              "AttributeDescription": "",
+              "Attributes": {
+                "AttributesList": [
+                  {
+                    "AttributeSetId": 4890471,
+                    "AttributeId": 4890015,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Park",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890472,
+                    "AttributeId": 4890016,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Forest",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890473,
+                    "AttributeId": 4890017,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Beach",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4946067,
+                    "AttributeId": 4945615,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Water",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890475,
+                    "AttributeId": 4890019,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Grassland",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890477,
+                    "AttributeId": 4890021,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Road",
+                    "AttributeDescription": ""
+                  },
+                  {
+                    "AttributeSetId": 4890478,
+                    "AttributeId": 4890022,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Path/pavement",
+                    "AttributeDescription": "",
+                    "Attributes": {
+                      "AttributesList": [
+                        {
+                          "AttributeSetId": 4890479,
+                          "AttributeId": 4890023,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Path/pavement for pedestrians",
+                          "AttributeDescription": ""
+                        },
+                        {
+                          "AttributeSetId": 4890480,
+                          "AttributeId": 4890024,
+                          "AttributeSetDescription": "",
+                          "AttributeType": "Selectable (show checkbox)",
+                          "AttributeName": "Path/pavement for cyclists",
+                          "AttributeDescription": ""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+],
+"References": [
+{
+  "ItemId": 39553740,
+  "Title": "The effectiveness of physical activity counseling in a work-site setting: A randomized, controlled trial",
+  "ParentTitle": "Patient Education and Counseling",
+  "ShortTitle": "Author31",
+  "DateCreated": "2019-01-25T13:02:36.26",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2019-01-25T13:02:36.26",
+  "EditedBy": "Emma Norris",
+  "Year": "2004",
+  "Month": "",
+  "StandardNumber": "0738-3991",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "55",
+  "Pages": "193-202",
+  "Edition": "",
+  "Issue": "2",
+  "Availability": "",
+  "URL": "http://www.sciencedirect.com/science/article/pii/S0738399103002660",
+  "OldItemId": "1",
+  "Abstract": "Voluntary employees (N=155) from nine different companies were screened by questionnaire for the study. They were randomized into three study groups: counseling (n=52), counseling+fitness testing (n=51) and control group (n=52). The counseling was based on a goal-oriented conversation session for each participant and three follow-up appointments with an occupational nurse over a period of 1 year. The fitness tests were adapted from the UKK Health-related Fitness Test Battery. The outcome measures were the changes in the amount of leisure-time physical activity (LTPA) assessed by diary, pedometer and questionnaire at baseline and at 6 and 12 month follow-up visits. As a result, no statistically significant differences were detected between the three groups at either of the follow-up visits. It seemed, thus, that the two PA counseling methods implemented had no direct mid- or long-term effects on the LTPA of voluntary employees with no specific disease-related indication to increase LTPA.",
+  "Comments": "",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "https://doi.org/10.1016/j.pec.2003.09.003",
+  "Keywords": "Physical activity\r\nCounseling\r\nEffectiveness\r\nOccupational health care",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "All occupational health care (OHC) units in the city of\rTampere (approximately 200,000 inhabitants) employing at\rleast one full time occupational nurse (N = 18) were in-\rvited to join the study, and each OHC unit was to bring\rat least one of their client companies with them. As a re-\rsult of the recruitment, seven OHC units with eight occupa-\rtional nurses (ON) and nine companies with a total of 1349\remployees started the screening phase conducted by ques-\rtionnaire. ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365458,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"Tampere[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper31",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4890005,
+      "AdditionalText": "Voluntary employees (N = 155) from nine different companies were screened by questionnaire for the study.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365458,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"companies[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper31",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 39553739,
+  "Title": "A randomized intervention of physical activity promotion and patient self-monitoring in primary health care",
+  "ParentTitle": "Preventive Medicine",
+  "ShortTitle": "Author32",
+  "DateCreated": "2019-01-25T13:02:36.26",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2019-01-25T13:02:36.26",
+  "EditedBy": "Emma Norris",
+  "Year": "2006",
+  "Month": "",
+  "StandardNumber": "0091-7435",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "42",
+  "Pages": "40-46",
+  "Edition": "",
+  "Issue": "1",
+  "Availability": "",
+  "URL": "http://www.sciencedirect.com/science/article/pii/S0091743505001647",
+  "OldItemId": "12",
+  "Abstract": "Objectives To examine the effectiveness of prescription-based counseling and self-monitoring in the promotion of physical activity in primary health care. Methods The study was conducted in Finland during 2003–2004. Physicians from 24 health care units (N = 67) were randomized to a prescription or a non-prescription group. The patients (N = 265) were assigned to the groups according to their physician. Every other patient of the non-prescription physicians received a pedometer and a physical activity log (MON) and feedback about their 5-day-recordings, the rest served as controls (CON). PA was assessed prior and 2 and 6 months after the physician's appointment with a questionnaire. Results The mean increase in weekly overall physical activity at 2 months was 1.0 (95% CI 0.0 to 2.0) session more in the prescription group than in controls. In at least moderate-intensity physical activity, the mean difference in changes was 0.8 (95% CI 0.1 to 1.5) sessions at 2 months and 0.9 (95% CI 0.2 to 1.5) sessions at 6 months for the favor of the prescription group. Compared to controls, self-monitoring increased the weekly duration of overall PA at 2 months on average by 217 min (95% CI 23 to 411). Conclusions Prescription can be recommended as a tool for primary health care physicians to promote physical activity. Self-monitoring with an expert feedback can be useful in increasing especially the weekly duration of overall physical activity in the short term.",
+  "Comments": "",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "https://doi.org/10.1016/j.ypmed.2005.10.003",
+  "Keywords": "Physical activity\r\nCounseling\r\nPhysician\r\nEffectiveness\r\nPrimary health care",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889963,
+      "AdditionalText": "Methods. The study was conducted in Finland during 2003  2004.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365459,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\" Finland[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper32",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889980,
+      "AdditionalText": "Municipal primary health care centers (PHC) and occupational outpatient\rhealth care units (OHC), both private- and community-owned with more than\rfour physicians and within the reach of less than 2-h traveling time from the research center were contacted by phone (N = 34; 18 PHC and 16 OHC). ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365459,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"primary health care centers [¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper32",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 5295651,
+      "AdditionalText": "Municipal primary health care centers (PHC) and occupational outpatient\rhealth care units (OHC), both private- and community-owned with more than\rfour physicians and within the reach of less than 2-h traveling time from the research center were contacted by phone (N = 34; 18 PHC and 16 OHC). ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365459,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\" community[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper32",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 39565020,
+  "Title": "Modifying physical activity in a multiethnic sample of low-income women: One-year results from the IMPACT (Increasing Motivation for Physical ACTivity) project",
+  "ParentTitle": "Annals of Behavioral Medicine",
+  "ShortTitle": "Author33",
+  "DateCreated": "2019-01-28T10:00:46.777",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2019-01-28T10:00:46.777",
+  "EditedBy": "Emma Norris",
+  "Year": "2005",
+  "Month": "",
+  "StandardNumber": "1532-4796",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "30",
+  "Pages": "191-200",
+  "Edition": "",
+  "Issue": "3",
+  "Availability": "",
+  "URL": "https://doi.org/10.1207/s15324796abm3003_3",
+  "OldItemId": "1",
+  "Abstract": "Background: Ethnic minorities or those with low socioeconomic status (SES) are at increased risk of cardiovascular disease, type 2 diabetes, and all-cause mortality, compared to higher SES Whites. National surveys also indicate that low-income, ethnic minority women have the highest rates of inactivity in the United States.Purpose: This study (the Increasing Motivation for Physical ACTivity or IMPACT study) promoted adoption and maintenance of physical activity (PA) in sedentary, low-income women participating in federally funded job training programs.Methods: The study consisted of 2 months of weekly 1-hr classes, then random assignment to 10 months of either home-based telephone counseling for PA plus information and feedback via mailed newsletters (Phone + Mail Counseling condition) or just the mailed newsletters (Mail Support condition). The IMPACT intervention included behavior change strategies for PA as well as discussions related to motivational readiness for PA change. Participants completed surveys and physiological assessments at baseline after the classes ended (i.e., at 10 weeks) and at 6 and 12 months postbaseline. Seventy-three percent of randomized participants (n = 72) were Latina, with a mean age of 32 ± 10 years. More than half the women had not completed high school, and 73% had an annual income less than $20,000.Results: After 10 months of a homebased intervention, women in the phone + mail counseling condition had significantly greater increases in estimated total energy expenditure compared to women in the mail support condition (p < .05).Conclusions: Regular PA counseling delivered via the telephone and through the mail appears effective for encouraging regular PA among low-income women transitioning from welfare or job training to the workforce.",
+  "Comments": "",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "10.1207/s15324796abm3003_3",
+  "Keywords": "",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "From 1998 to 2000, participants were recruited from voca-\rtional training courses at seven San Francisco Bay Area adult\reducation sites that served a multiethnic population consisting\rprimarily of low-income or unemployed adult",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365829,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" San Francisco Bay Area[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper33",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889994,
+      "AdditionalText": "From 1998 to 2000, participants were recruited from voca-\rtional training courses at seven San Francisco Bay Area adult\reducation sites that served a multiethnic population consisting\rprimarily of low-income or unemployed adults.;  For the majority of the women attending these adult edu-\rcation sites, the federally funded Welfare-to-Work program sup-\rported their vocational training.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365829,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"voca- tional training\"\n\" adult edu- cation sites\"\n\"ocational trainin[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper33",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889972,
+      "AdditionalText": "Home-based phone + mail counseling condition. ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365829,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 3:\n[¬s]\"Home-based phone[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper33",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646429,
+  "Title": "Exercise training of men at retirement: a clinical trial",
+  "ParentTitle": "J Gerontol",
+  "ShortTitle": "Author34",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "1987",
+  "Month": "",
+  "StandardNumber": "0022-1422 (Print) 0022-1422",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "42",
+  "Pages": "17-23",
+  "Edition": "",
+  "Issue": "1",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "2",
+  "Abstract": "The effects of one year of exercise training on cardiorespiratory fitness, levels of daily leisure activity, and blood lipids (cholesterol and high density lipoproteins) were studied in a prospective, randomized clinical trial. Two hundred and twenty-four men aged 55 to 65 years volunteered for the study and were randomly allocated to a control (n = 111) or an activity (n = 113) group with stratification on blue or white collar job classification. After the attrition due to loss to follow-up, 100 men remained in each of the control and activity groups. The exercising men met an average of 2.5 times per week over the year and their VO2 max or peak VO2 (ml X kg-1 X min-1) increased significantly (p = .001, 11%) compared with controls. There were no significant changes in maximal heart rate (155 bpm) and respiratory exchange ratio (1.1), although ventilation (80 to 90 l X min-1) increased significantly in the trained group. In addition, the VO2 at a heart rate of 125 bpm increased significantly (p less than .001) in the trained group (14.7%) over that observed in the control (1.9%). There were no significant differences between the groups with respect to the remaining end-points.",
+  "Comments": "Cunningham, D A Rechnitzer, P A Howard, J H Donner, A P Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States J Gerontol. 1987 Jan;42(1):17-23.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Blood Pressure\r\nCholesterol/blood\r\nClinical Trials as Topic\r\nHeart Rate\r\nHumans\r\nLeisure Activities\r\nLipoproteins, HDL/blood\r\nMale\r\nMiddle Aged\r\nOxygen Consumption\r\n*Physical Education and Training\r\n*Physical Fitness\r\nProspective Studies\r\nRandom Allocation\r\n*Retirement",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4890014,
+      "AdditionalText": "Exercise sessions were held outdorors on a 400m track during moderate and warm temperatures and on an indoor\r200 m track during poor weather conditions",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349830,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" outdoors\"\n\" track[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper34",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889998,
+      "AdditionalText": "Exercise sessions were held outdorors on a 400m track during moderate and warm temperatures and on an indoor\r200 m track during poor weather conditions",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349830,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" indoor[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper34",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646430,
+  "Title": "Effects of nurse counseling on walking for exercise in elderly primary care patients",
+  "ParentTitle": "J Gerontol A Biol Sci Med Sci",
+  "ShortTitle": "Author35",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2002",
+  "Month": "",
+  "StandardNumber": "1079-5006 (Print) 1079-5006",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "G.V. (Sonny) Montgomery Veterans Affairs Medical Center, Jackson, Mississippi 39216, USA. Patricia.Dubbert@med.va.gov",
+  "Volume": "57",
+  "Pages": "M733-40",
+  "Edition": "",
+  "Issue": "11",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "3",
+  "Abstract": "Background. Counseling sedentary primary care patients can increase physical activity, but whether this approach will increase exercise and fitness in elderly adults with chronic diseases remains to be determined. Methods. After receiving individualized nurse counseling to begin a program of walking for health, 60- to 80-year-old primary care patients were randomized to one of three levels of telephone contacts over 10 months: (i) 20 nurse-initiated calls, (ii) 10 nurse-initiated calls plus 10 motivational calls programmed through an automated phone calling system, or (iii) no program-initiated phone contacts. Self-reported (diary) walking adherence was the primary outcome; other activity, social support, health quality of life, and measured walking performance, mobility, and body mass index and girths were also assessed during the initiation (months 1-6) and maintenance (months 7-10) phases of the trial. Results. Average adherence for the 181 participants to the goal of walking at least 20 minutes on 3 or more days per week was 44% for initiation and 42% for maintenance. Participants receiving the combination of nurse-initiated personal and automated phone calls walked significantly more frequently than those with no phone contacts. Fitness improved in all three groups; changes were generally correlated with self-reported walking. Having a companion was associated with more frequent walking. Perceived quality of physical and mental health did not change. Conclusions. Simple and relatively inexpensive nurse contacts can motivate elderly primary care patients to walk for exercise, and this activity is associated with measurable health benefits.",
+  "Comments": "Dubbert, Patricia M Cooper, Karen M Kirchner, Kent A Meydrech, Edward F Bilbrew, Deborah Clinical Trial Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, Non-P.H.S. United States J Gerontol A Biol Sci Med Sci. 2002 Nov;57(11):M733-40.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Aged\r\nAged, 80 and over\r\n*Counseling\r\n*Exercise\r\nFemale\r\nHealth Status\r\nHumans\r\nMale\r\n*Nurses\r\n*Patient Compliance\r\nQuality of Life\r\nTelephone\r\n*Walking",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889978,
+      "AdditionalText": "The study was conducted at the Department of Veterans\rAffairs Medical Center (VAMC) in Jackson, Mississippi.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349831,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"Veterans Affairs Medical Center (VAMC)[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper35",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "The study was conducted at the Department of Veterans\rAffairs Medical Center (VAMC) in Jackson, Mississippi.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349831,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"Jackson, Mississippi[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper35",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646431,
+  "Title": "Effectiveness of counselling patients on physical activity in general practice: cluster randomised controlled trial",
+  "ParentTitle": "Bmj",
+  "ShortTitle": "Author36",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2003",
+  "Month": "",
+  "StandardNumber": "0959-8138",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Department of General Practice and Primary Health Care, University of Auckland, New Zealand. c.elley@auckland.ac.nz",
+  "Volume": "326",
+  "Pages": "793",
+  "Edition": "",
+  "Issue": "7393",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "4",
+  "Abstract": "OBJECTIVE: To assess the long term effectiveness of the \"green prescription\" programme, a clinician based initiative in general practice that provides counselling on physical activity. DESIGN: Cluster randomised controlled trial. Practices were randomised before systematic screening and recruitment of patients. SETTING: 42 rural and urban general practices in one region of New Zealand. SUBJECTS: All sedentary 40-79 year old patients visiting their general practitioner during the study's recruitment period. INTERVENTION: General practitioners were prompted by the patient to give oral and written advice on physical activity during usual consultations. Exercise specialists continued support by telephone and post. Control patients received usual care. MAIN OUTCOME MEASURES: Change in physical activity, quality of life (as measured by the \"short form 36\" (SF-36) questionnaire), cardiovascular risk (Framingham and D'Agostino equations), and blood pressure over a 12 month period. RESULTS: 74% (117/159) of general practitioners and 66% (878/1322) of screened eligible patients participated in the study. The follow up rate was 85% (750/878). Mean total energy expenditure increased by 9.4 kcal/kg/week (P=0.001) and leisure exercise by 2.7 kcal/kg/week (P=0.02) or 34 minutes/week more in the intervention group than in the control group (P=0.04). The proportion of the intervention group undertaking 2.5 hours/week of leisure exercise increased by 9.72% (P=0.003) more than in the control group (number needed to treat=10.3). SF-36 measures of self rated \"general health,\" \"role physical,\" \"vitality,\" and \"bodily pain\" improved significantly more in the intervention group (P<0.05). A trend towards decreasing blood pressure became apparent but no significant difference in four year risk of coronary heart disease. CONCLUSION: Counselling patients in general practice on exercise is effective in increasing physical activity and improving quality of life over 12 months.",
+  "Comments": "1756-1833 Elley, C Raina Kerse, Ngaire Arroll, Bruce Robinson, Elizabeth Clinical Trial Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't England BMJ. 2003 Apr 12;326(7393):793. doi: 10.1136/bmj.326.7393.793.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "10.1136/bmj.326.7393.793",
+  "Keywords": "Adult\r\nAged\r\nCluster Analysis\r\nCounseling/*standards\r\n*Exercise\r\nFamily Practice/*standards\r\nFemale\r\n*Health Behavior\r\nHealth Services Research\r\nHumans\r\nMale\r\nMiddle Aged\r\nNew Zealand\r\nPhysical Fitness\r\nPrognosis\r\nQuality of Life\r\nRural Health\r\nTreatment Outcome\r\nUrban Health",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "All urban and rural general practitioners in the central\rand eastern Waikato region of New Zealand were\rinvited to participate.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349833,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"Waikato region[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper36",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889963,
+      "AdditionalText": "All urban and rural general practitioners in the central\rand eastern Waikato region of New Zealand were\rinvited to participate.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349833,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\" New Zealand[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper36",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889967,
+      "AdditionalText": " 42 rural and urban general practices in one\rregion of New Zealand.",
+      "ArmId": 0,
+      "ArmTitle": ""
+    },
+    {
+      "AttributeId": 4889968,
+      "AdditionalText": " 42 rural and urban general practices in one\rregion of New Zealand.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349833,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"urban[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper36",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889980,
+      "AdditionalText": "42 rural and urban general practices in one\rregion of New Zealand.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349833,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 1:\n[¬s]\"general practices \"\n\"general practitioners[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper36",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646432,
+  "Title": "Effects of exercise training on physical activity in older people: a randomized controlled trial",
+  "ParentTitle": "J Epidemiol",
+  "ShortTitle": "Author37",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2003",
+  "Month": "",
+  "StandardNumber": "0917-5040 (Print) 0917-5040",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Division of Epidemiology, Department of Public Health and Forensic Medicine, Tohoku University Graduate School of Medicine, Sendai, Japan.",
+  "Volume": "13",
+  "Pages": "120-6",
+  "Edition": "",
+  "Issue": "2",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "25",
+  "Abstract": "BACKGROUND: Recent randomized controlled trials indicated that exercise training for elderly significantly increased their physical fitness. However, very few studies have examined changes in physical activity after exercise training. The purpose of this study was to investigate whether six-month exercise training for older adults can increase and maintain their physical activity in daily life. METHODS: Sixty-two men and women aged 60 to 81 years (mean age 67.1 years), living in communities, were randomly allocated into an exercise group (n = 32) or a control group (n = 33). The intervention started in April 1998 and lasted for 25 weeks. The exercise regimen consisted of endurance training and resistance exercises in a two-hour class conducted at least twice a week. The subjects completed a physical activity diary at each pre-intervention (March 1998), post-intervention (September 1998) and follow-up (April 1999) measurement of physical activity. Physical activity, expressed as total daily energy expenditure, was calculated by multiplying the amount of time spent in each activity and the corresponding METs. RESULTS: Total daily energy expenditure significantly increased from 40.8 kcal/kg/day to 43.5 kcal/kg/day in the exercise group (p = 0.03), but did not change in the control group. At the follow-up measurement, the mean total daily energy expenditure in the exercise group remained significantly higher, by 1.7 kcal/kg/day, than that at the pre-intervention (p = 0.05). CONCLUSIONS: This randomized controlled trial indicated that exercise training for elderly was effective in increasing physical activity in daily life.",
+  "Comments": "Fujita, Kazuki Nagatomi, Ryoichi Hozawa, Atsushi Ohkubo, Takayoshi Sato, Koya Anzai, Yukiko Sauvaget, Catherine Watanabe, Yoko Tamagawa, Akira Tsuji, Ichiro Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Japan J Epidemiol. 2003 Mar;13(2):120-6.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "*Activities of Daily Living\r\nAge Factors\r\nAged\r\nAged, 80 and over\r\nConfidence Intervals\r\nEnergy Metabolism\r\nExercise/*physiology\r\nFemale\r\nHumans\r\nMale\r\nMiddle Aged\r\nPhysical Education and Training\r\nPhysical Endurance/*physiology\r\n*Physical Fitness\r\n*Quality of Life\r\nReference Values\r\nSex Factors",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 5295651,
+      "AdditionalText": "The Sendai Silver Center is ahealth and welfare facility for\rolder adults, run bythe Sendai City Health and Welfare\rFound",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349834,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" ahealth and welfar[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper37",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "The Sendai Silver Center is ahealth and welfare facility for\rolder adults, run bythe Sendai City Health and Welfare\rFoundation. ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349834,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"e Sendai[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper37",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646433,
+  "Title": "Physician-based physical activity counseling for middle-aged and older adults: a randomized trial",
+  "ParentTitle": "Ann Behav Med",
+  "ShortTitle": "Author38",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "1999",
+  "Month": "",
+  "StandardNumber": "0883-6612",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "The Miriam Hospital, Brown University, USA.",
+  "Volume": "21",
+  "Pages": "40-7",
+  "Edition": "",
+  "Issue": "1",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "5",
+  "Abstract": "Sedentary behavior among older adults increases risk for chronic diseases. Physicians in a primary care setting can play an important role in promoting physical activity adoption among their older patients. The Physically Active for Life (PAL) project was a randomized, controlled trial comparing the efficacy of brief physician-delivered physical activity counseling to usual care on self-reported physical activity levels. The physical activity counseling was based on the Transtheoretical Model of Change and social learning theory. Twenty-four community-based primary care medical practices were recruited into the study; 12 were randomized to the Intervention condition and 12 to the Control condition. Physicians in the Intervention practices received training in the delivery of brief physical activity counseling. Subjects in the Intervention practices (n=181) received brief activity counseling matched to their stage of motivational readiness for physical activity, a patient manual, a follow-up appointment with their physician to discuss activity counseling, and newsletter mailings. Subjects in the Control practices (n=174) received standard care. Measures of motivational readiness for physical activity and the Physical Activity Scale for the Elderly (PASE) were administered to subjects in both conditions at baseline, 6 weeks following their initial appointment, and at 8 months. Results showed that at the 6-week follow-up, subjects in the Intervention condition were more likely to be in more advanced stages of motivational readiness for physical activity than subjects in the Control condition. This effect was not maintained at the 8 month follow-up and the intervention did not produce significant changes in PASE scores. Results suggest that more intensive, sustained interventions may be necessary to promote the adoption of physical activity among sedentary, middle-aged, and older adults in primary care medical practices.",
+  "Comments": "1532-4796 Goldstein, M G Pinto, B M Marcus, B H Lynn, H Jette, A M Rakowski, W McDermott, S DePue, J D Milan, F B Dube, C Tennstedt, S R01 AG12025/AG/NIA NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural England Ann Behav Med. 1999 Spring;21(1):40-7. doi: 10.1007/BF02895032.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "10.1007/bf02895032",
+  "Keywords": "Aged\r\nChronic Disease/*prevention & control/psychology\r\nExercise/*psychology\r\nFemale\r\nFollow-Up Studies\r\nHealth Knowledge, Attitudes, Practice\r\nHealth Promotion\r\nHumans\r\nMale\r\nMiddle Aged\r\nMotivation\r\n*Patient Education as Topic\r\n*Physician-Patient Relations\r\nPrimary Health Care\r\nTreatment Outcome",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 5295651,
+      "AdditionalText": "In this trial of physical activity counseling in community-\rbased primary care physican office practices, half the sample of\rparticipating practices were randomly assigned to the Intervention condition and the other half were assigned to the Control condition.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349835,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"n community- based primary care physican office prac[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper38",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "Thirty-four physicians from 24 practices were recruited from\rFolio lists (20) of primary care practices (i.e. general internal\rmedicine, family medicine) from southeastern Massachusetts and\rfrom personal contacts of the Principal Investigator.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349835,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"e) from southeastern Massac[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper38",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 39553742,
+  "Title": "Effectiveness of physical activity advice and prescription by physicians in routine primary care: a cluster randomized trial",
+  "ParentTitle": "",
+  "ShortTitle": "Author39",
+  "DateCreated": "2019-01-25T13:02:36.26",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2019-01-25T13:02:36.26",
+  "EditedBy": "Emma Norris",
+  "Year": "2009",
+  "Month": "",
+  "StandardNumber": "0003-9926",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "169",
+  "Pages": "694-701",
+  "Edition": "",
+  "Issue": "7",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "5",
+  "Abstract": "",
+  "Comments": "",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review"
+},
+{
+  "ItemId": 37646434,
+  "Title": "Effectiveness of telephone support in increasing physical activity levels in primary care patients",
+  "ParentTitle": "Am J Prev Med",
+  "ShortTitle": "Author40",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2002",
+  "Month": "",
+  "StandardNumber": "0749-3797 (Print) 0749-3797",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Center for Health Promotion, Department of Preventive Care, Center for Health Promotion, Group Health Cooperative, Seattle, Washington 98101-1448, USA. green.b@ghc.org",
+  "Volume": "22",
+  "Pages": "177-83",
+  "Edition": "",
+  "Issue": "3",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "6",
+  "Abstract": "BACKGROUND: Physician counseling of patients to increase physical activity has had limited success in changing behavior. Providing organizational support to primary care providers and their patients may increase effectiveness. OBJECTIVE: This study evaluates the effectiveness of a telephone-based intervention to increase physical activity among patients who exercised <15 minutes daily and wanted to increase their physical activity over a 6-month period. DESIGN: This was a randomized controlled trial, conducted from 1997 to 1998, of 316 patients aged 18 to 65 who were recruited from a mailed health risk assessment. Baseline and 6-month post-intervention telephone assessments were conducted by telephone. SETTING: One family physician's patients in a suburban community. INTERVENTION: Three sessions of telephone-delivered motivational counseling. MAIN OUTCOME MEASURES: Physical activity score (11-item Physician-Based Assessment and Counseling for Exercise [PACE]) 6 months after the intervention. RESULTS: After adjusting for baseline exercise, there was a significantly higher level of self-reported exercise among individuals randomized to the intervention at the 6-month follow-up. The mean level of activity at follow-up for the intervention group was a PACE score of 5.37, compared to 4.98 in the control group (p<0.05). In the secondary analysis, which was limited to individuals who received the intervention, the effect was stronger (PACE score of 5.58 compared to 4.94, p<0.013). CONCLUSIONS: Patients can be recruited using a health-screening questionnaire to receive a telephone-delivered behavioral intervention to successfully increase their physical activity levels.",
+  "Comments": "Green, Beverly B McAfee, Timothy Hindmarsh, Michael Madsen, Linda Caplow, Madlen Buist, Diana Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Netherlands Am J Prev Med. 2002 Apr;22(3):177-83.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Adolescent\r\nAdult\r\nCounseling/methods\r\nFemale\r\nFollow-Up Studies\r\nHealth Surveys\r\nHumans\r\nMale\r\nMiddle Aged\r\nMotivation\r\nMotor Activity/*physiology\r\nPatient Care/methods/psychology\r\nPatient Selection\r\nPhysicians, Family/psychology\r\nPreventive Health Services/standards\r\nPrimary Health Care/*methods\r\nQualitative Research\r\nQuality of Health Care/standards\r\nRisk Assessment/methods\r\nSuburban Health Services/trends\r\n*Telephone/*trends\r\nTreatment Outcome",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889980,
+      "AdditionalText": "The setting was a large suburban primary care clinic at Group\rHealth Cooperative of Puget Sound, a large nonprofit maintenance organization in the Seattle area of western Washington State",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349836,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"primary care clinic[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper40",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "The setting was a large suburban primary care clinic at Group\rHealth Cooperative of Puget Sound, a large nonprofit maintenance organization in the Seattle area of western Washington State",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349836,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"Seattle[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper40",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 5295649,
+      "AdditionalText": "The setting was a large suburban primary care clinic at Group\rHealth Cooperative of Puget Sound, a large nonprofit maintenance organization in the Seattle area of western Washington State",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349836,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"suburban[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper40",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646437,
+  "Title": "Effectiveness of self-monitored, home-based, moderate-intensity exercise training in middle-aged men and women",
+  "ParentTitle": "Am J Cardiol",
+  "ShortTitle": "Author41",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "1987",
+  "Month": "",
+  "StandardNumber": "0002-9149 (Print) 0002-9149",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "60",
+  "Pages": "66-70",
+  "Edition": "",
+  "Issue": "1",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "9",
+  "Abstract": "The effects of 6 months of self-monitored, home-based exercise training on maximal oxygen uptake (VO2 max), body composition and plasma lipid levels of healthy, sedentary, middle-aged persons were evaluated in 60 men, aged 49 +/- 6 years, and 60 women, aged 47 +/- 5 years. Moderate-intensity training was performed 5 times per week in sessions of 47 +/- 7 minutes and 54 +/- 8 minutes for men and women, respectively. The individually prescribed range of heart rate corresponded to 65 to 77% of the peak value during symptom-limited treadmill testing (mean of 72% for men and 69% for women). Caloric expenditure per training session was approximately 345 kcal for men and 235 kcal for women. VO2 max increased 15% in men and 9% in women (both p less than 0.01). The greater increase in VO2 max in men than in women primarily reflected greater adherence to training in men (greater than or equal to 90% vs greater than or equal to 75%). The increase in VO2 max in women who showed very high adherence was comparable to that of men. Body weight decreased, by 1.5 +/- 10 kg, in men (p less than 0.05) but not in women undergoing training. No significant training-induced changes in plasma lipid levels were noted in either men or women. Baseline orientation and follow-up telephone calls required less than 1 hour of staff time per participant. Self-monitored, moderate-intensity, home-based exercise training significantly increases functional capacity in healthy, middle-aged men and women. Such training provides an alternative to group-based exercise training.",
+  "Comments": "Juneau, M Rogers, F De Santos, V Yee, M Evans, A Bohn, A Haskell, W L Taylor, C B DeBusk, R F Journal Article Research Support, Non-U.S. Gov't United States Am J Cardiol. 1987 Jul 1;60(1):66-70.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Adult\r\nBody Composition\r\nFemale\r\n*Heart Rate\r\nHumans\r\nLipids/blood\r\nMale\r\nMiddle Aged\r\nMonitoring, Physiologic\r\nOxygen Consumption\r\n*Physical Exertion\r\n*Physical Fitness\r\nRandom Allocation\r\nRisk",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "The 60 healthy men and 60 healthy women who\rvolunteered for this study were employees of the Lock=\rheed Missiles and Space Corporation in Sunnyvale,\rCalifornia. ",
+      "ArmId": 0,
+      "ArmTitle": ""
+    },
+    {
+      "AttributeId": 4889971,
+      "AdditionalText": "The home-based exercise program: Participants\rwere oriented to the home-based training program by\rthe project staff in a 15-minute face-to-face session,\rwhich followed participants viewing of a E-minute\rvideotape on exercise training. ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349839,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" home-based [¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper41",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 39553743,
+  "Title": "Impact of an educational intervention on internal medicine residents’ physical activity counselling: the Pressure System Model",
+  "ParentTitle": "",
+  "ShortTitle": "Author42",
+  "DateCreated": "2019-01-25T13:02:36.26",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2019-01-25T13:02:36.26",
+  "EditedBy": "Emma Norris",
+  "Year": "2008",
+  "Month": "",
+  "StandardNumber": "1356-1294",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "14",
+  "Pages": "294-299",
+  "Edition": "",
+  "Issue": "2",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "8",
+  "Abstract": "",
+  "Comments": "",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889979,
+      "AdditionalText": "Methods A controlled educational study conducted at six Yale School of Medicine hospitals.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 365462,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"hospi- tals.[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper42",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646439,
+  "Title": "Strategies for increasing early adherence to and long-term maintenance of home-based exercise training in healthy middle-aged men and women",
+  "ParentTitle": "Am J Cardiol",
+  "ShortTitle": "Author43",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "1988",
+  "Month": "",
+  "StandardNumber": "0002-9149 (Print) 0002-9149",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Department of Medicine, Stanford Center for Research and Disease Prevention, University School of Medicine, California.",
+  "Volume": "61",
+  "Pages": "628-32",
+  "Edition": "",
+  "Issue": "8",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "10",
+  "Abstract": "Two studies were undertaken to compare strategies for the adoption and maintenance of moderate-intensity, home-based exercise training. In the study of adoption, 52 men and women who had served for 6 months as controls for a study of moderate-intensity, home-based exercise training received 30 minutes of baseline instruction. They were then randomized to receive continuing instruction and support through 10 staff-initiated telephone contacts of 5 minutes each every 2 weeks, or to receive no telephone contacts. In subjects receiving telephone contacts, peak oxygen uptake increased significantly after 6 months, whereas no increase was observed in subjects receiving no staff support (p less than 0.05). In the maintenance study, 51 men and women who had significantly increased their peak oxygen uptake by 6 months of moderate-intensity, home-based exercise training were randomized to undergo daily self-monitoring and receive adherence instructions, or undergo weekly self-monitoring only, during a second 6-month period of training. Subjects performing daily self-monitoring reported completing significantly more exercise training sessions during the 6 months of training than subjects performing weekly self-monitoring; functional capacity in both groups remained higher than before training (p less than 0.05). Taken together, these studies suggest that brief baseline instruction followed by continuing telephone contact with staff can be used to help people adopt a moderate-intensity, home-based exercise training program that can be maintained by simple self-monitoring strategies.",
+  "Comments": "King, A C Taylor, C B Haskell, W L Debusk, R F 36272/PHS HHS/United States Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, P.H.S. United States Am J Cardiol. 1988 Mar 1;61(8):628-32.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Behavior\r\nFemale\r\nHumans\r\nMale\r\nMiddle Aged\r\nOxygen Consumption\r\n*Physical Exertion\r\n*Physical Fitness\r\nRespiration",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "Participants were 52and 51healthy menand wom-\ren, ages 49f6and 47f 5, respectively, employed at\rLockheed Missiles andSpace Corporation inSunny-\rvale, California. ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349842,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"e, Califo[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper43",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889971,
+      "AdditionalText": "dy: The 26 menand 26 women partici-\rpating in the adoption study received instructions for\rmoderate-intensity, home-based exercise training\rsimilar to those provided to participants in the Phase I\rtraining study.",
+      "ArmId": 0,
+      "ArmTitle": ""
+    }
+  ]
+},
+{
+  "ItemId": 37646444,
+  "Title": "Population-based randomized controlled trial of a stage-targeted physical activity intervention",
+  "ParentTitle": "Ann Behav Med",
+  "ShortTitle": "Author44",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2003",
+  "Month": "",
+  "StandardNumber": "0883-6612 (Print) 0883-6612",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "The University of Queensland, School of Movement Studies, St Lucia, Australia. alisonm@hms.uq.edu.au",
+  "Volume": "25",
+  "Pages": "194-202",
+  "Edition": "",
+  "Issue": "3",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "16",
+  "Abstract": "BACKGROUND: Intervention trials with self-selected participants have shown that mailed stage-targeted print materials can increase participation in physical activity in the short term. We examined the effects of a mailed stage-targeted print intervention designed to promote physical activity, in a random sample of adults living in a regional city. METHOD: Participants (n = 462, 40-60 years of age) were randomly allocated to an intervention (n = 227) or control group (n = 235). Measures included validated 2-week physical activity recall and stage of motivational readiness for physical activity. The intervention consisted of a single mailing of a letter and full-color stage-targeted booklets (specific to precontemplation, contemplation, preparation, and action/maintenance) 1 week postbaseline. Follow-up interviews were conducted at 2 and 6 months postbaseline. RESULTS: After 2 months, participants in the intervention group were significantly more likely to meet the current American College of Sports Medicine/Centers for Disease Control and Prevention recommendation for sufficient physical activity than those in the control group (adjusted odds ratio [OR] = 2.40; 95% confidence interval [CI] = 1.44-3.99). After 6 months, intervention participants who reported receiving and reading the intervention materials were significantly more likely to be meeting the sufficient physical activity criterion compared with the control group (adjusted OR = 2.03; 95% CI = 1.16-3.56). CONCLUSIONS: The stage-targeted print intervention was effective in promoting short-term increases in physical activity and was most effective for participants who recognized and used the materials. This low-cost, generalizable intervention has demonstrated potential as a practical population-based physical activity promotion strategy. Further research is required before widespread dissemination would be justified, as additional strategies may be required to ensure sustained change.",
+  "Comments": "Marshall, Alison L Bauman, Adrian E Owen, Neville Booth, Michael L Crawford, David Marcus, Bess H Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England Ann Behav Med. 2003 Summer;25(3):194-202. doi: 10.1207/S15324796ABM2503_05.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "10.1207/s15324796abm2503_05",
+  "Keywords": "Adult\r\nBody Mass Index\r\nFemale\r\nFollow-Up Studies\r\nHumans\r\nMale\r\nMiddle Aged\r\n*Motor Activity\r\n*Population Surveillance\r\nTime Factors",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review"
+},
+{
+  "ItemId": 37646446,
+  "Title": "Effectiveness of physician-based assessment and counseling for exercise in a staff model HMO",
+  "ParentTitle": "Prev Med",
+  "ShortTitle": "Author45",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2000",
+  "Month": "",
+  "StandardNumber": "0091-7435 (Print) 0091-7435",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Center for Health Studies, Group Health Cooperative of Puget Sound, Seattle, Washington, USA.",
+  "Volume": "30",
+  "Pages": "513-23",
+  "Edition": "",
+  "Issue": "6",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "18",
+  "Abstract": "BACKGROUND: Few primary care physicians routinely counsel for exercise, despite the benefits of physical activity and the high prevalence of inactivity. The objective of this study is to assess the effectiveness of Physician-Based Assessment and Counseling for Exercise (PACE), a brief, behavior-based tool for primary care providers counseling healthy adults. METHODS: This study is a randomized controlled trial of 812 patients age 30 years or older registered for well visits at 32 primary care physician offices at a staff model health maintenance organization. Intervention physicians were trained to deliver PACE exercise counseling protocols at the index visit, and one reminder telephone call occurred at 1 month. An enhanced intervention group received additional activity reminders. RESULTS: At the 6-month follow-up, the control group did not differ significantly from the intervention group for energy expended (2,048 kcal/week versus 2,108 kcal/ week, P = 0.77), time spent in walking or other moderate to vigorous activities (202 min/week versus 187 min/ week, P = 0.99), mental health, physical function, or behaviors previously shown to predict activity change. Among the intervention patients, the stages-of-change score for Contemplators increased significantly compared with controls (P = 0.03), but without a significant change in energy expended. Baseline levels of physical activity counseling were high (50%), as were baseline patient physical activity levels (61% exercised at least three times a week). CONCLUSIONS: These results suggest that a one-time PACE counseling session with minimal reinforcement, in a setting with high baseline levels of activity, does not further increase activity. The finding that Contemplators advanced in stage of behavior change suggests that further studies are needed to examine long-term, repeated counseling interventions.",
+  "Comments": "Norris, S L Grothaus, L C Buchner, D M Pratt, M U48/CCU-009654/PHS HHS/United States Clinical Trial Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, P.H.S. United States Prev Med. 2000 Jun;30(6):513-23. doi: 10.1006/pmed.2000.0673.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "10.1006/pmed.2000.0673",
+  "Keywords": "Adult\r\nCounseling\r\n*Exercise\r\nFemale\r\n*Health Maintenance Organizations\r\n*Health Promotion\r\nHealth Status\r\nHumans\r\nMale\r\nMiddle Aged\r\nPatient Compliance\r\n*Patient Education as Topic",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "The study setting was Group Health Cooperative of\rity at general medical and gynecologic examinations\rPuget Sound, a staff model health maintenance organi-\r[14], although most primary care physicians will coun-\rzation in the Pacific Northwest with approximately\rsel patients with existing heart disease [15]. The poten-\r500,000 enrollees.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349848,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"Pacific Northwest[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper45",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889980,
+      "AdditionalText": "Thirty-four providers from three geographically separate primary care clinics were recruited into the study.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349848,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"primary care clinics[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper45",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646447,
+  "Title": "Can primary care doctors prescribe exercise to improve fitness? The Step Test Exercise Prescription (STEP) project",
+  "ParentTitle": "Am J Prev Med",
+  "ShortTitle": "Author46",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2003",
+  "Month": "",
+  "StandardNumber": "0749-3797 (Print) 0749-3797",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Department of Family Medicine, Faculties of Medicine, University of Western Ontario, London, Ontario, Canada. petrella@uwo.ca",
+  "Volume": "24",
+  "Pages": "316-22",
+  "Edition": "",
+  "Issue": "4",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "19",
+  "Abstract": "BACKGROUND: Sedentary lifestyle is associated with adverse health outcomes. Available evidence suggests that, despite positive attitudes toward regular exercise in promoting a healthy lifestyle, few physicians actually prescribe exercise for their patients. Barriers include lack of skills and standard office instruments. Because primary care physicians have regular contact with a large proportion of the population, the impact of preventive health interventions may be great. OBJECTIVES: To determine the effect of an exercise prescription instrument (i.e., Step Test Exercise Prescription [STEP]), compared to usual-care exercise counseling delivered by primary care doctors on fitness and exercise self-efficacy among elderly community-dwelling patients. DESIGN: Randomized controlled trial; baseline assessment and intervention delivery with postintervention follow-up at 3, 6, and 12 months. SETTING: Four large (>5000 active patient files) academic, primary care practices: three in urban settings and one in a rural setting, each with four primary care physicians; two clinics provided the STEP intervention and two provided usual care control. PARTICIPANTS: A total of 284 healthy community-dwelling patients (72 per clinic) aged >65 years were recruited in 1998-1999. INTERVENTION: STEP included exercise counseling and prescription of an exercise training heart rate. MAIN OUTCOME MEASURES: The primary outcome measure was aerobic fitness (VO(2max)). Secondary outcomes included predicted VO(2max) from the STEP test, exercise self-efficacy (ESE), and clinical anthropometric parameters. RESULTS: A total of 241 subjects (131 intervention, 110 control) completed the trial. VO(2max) was significantly increased in the STEP intervention group (11%; 21.3 to 24ml/kg/min) compared to the control group (4%; 22 to 23ml/kg/min) over 6 months (p <0.001), and 14% (21.3 to 24.9ml/kg/min) and 3% (22.1 to 22.8ml/kg/min), respectively, at 12 months (p <0.001). A similar significant increase in ESE (32%; 4.6 vs 6.8) was observed for the STEP group compared to the control group (22%; 4.2 vs 5.4) at 12 months (p < 0.001). Systolic blood pressure decreased 7.3% and body mass index decreased 7.4% in the STEP group, with no significant change in the control group (p <0.05). Exercise counseling time was significantly (p <0.02) longer in the STEP (11.7+/-3.0 min) compared to the control group (7.1+/-7.0 min), but more (p <0.05) subjects completed > or =80% of available exercise opportunities in the STEP group. CONCLUSIONS: Primary care physicians can improve fitness and exercise confidence of their elderly patients using a tailored exercise prescription (e.g., STEP). Further, STEP appears to maintain benefits to 12 months and may improve exercise adherence. Future study should determine the impact of combining cognitive/behavior change strategies with STEP.",
+  "Comments": "Petrella, Robert J Koval, John J Cunningham, David A Paterson, Donald H Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Netherlands Am J Prev Med. 2003 May;24(4):316-22.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Aged\r\nComorbidity\r\n*Counseling\r\n*Exercise\r\nFemale\r\nHealth Promotion/*methods\r\nHumans\r\nMale\r\nOntario\r\n*Physical Fitness\r\nPrimary Health Care\r\nVital Capacity",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889980,
+      "AdditionalText": "The study was conducted in 1998 Ð1999 in four academic\rfamily medicine clinics (three urban, one rural) afÞliated\rwith the University of Western Ontario, London, Ontario,\rCanada (population 350,000)",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349849,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"family medicine clinics[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper46",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889968,
+      "AdditionalText": "The study was conducted in 1998 Ð1999 in four academic\rfamily medicine clinics (three urban, one rural) afÞliated\rwith the University of Western Ontario, London, Ontario,\rCanada (population 350,000).",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349849,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"urba[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper46",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889963,
+      "AdditionalText": "The study was conducted in 1998 Ð1999 in four academic\rfamily medicine clinics (three urban, one rural) afÞliated\rwith the University of Western Ontario, London, Ontario,\rCanada (population 350,000).",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349849,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"Canada[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper46",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "The study was conducted in 1998 Ð1999 in four academic\rfamily medicine clinics (three urban, one rural) afÞliated\rwith the University of Western Ontario, London, Ontario,\rCanada (population 350,000).",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349849,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"Western Ontario, London, Ontario,[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper46",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889967,
+      "AdditionalText": "The study was conducted in 1998 Ð1999 in four academic\rfamily medicine clinics (three urban, one rural) afÞliated\rwith the University of Western Ontario, London, Ontario,\rCanada (population 350,000).",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349849,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" rural[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper46",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889995,
+      "AdditionalText": "The study was conducted in 1998 Ð1999 in four academic\rfamily medicine clinics (three urban, one rural) afÞliated\rwith the University of Western Ontario, London, Ontario,\rCanada (population 350,000).",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349849,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"academic family medicine clinics[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper46",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646448,
+  "Title": "Effects of a computer-based, telephone-counseling system on physical activity",
+  "ParentTitle": "Am J Prev Med",
+  "ShortTitle": "Author47",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2002",
+  "Month": "",
+  "StandardNumber": "0749-3797 (Print) 0749-3797",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Miriam Hospital (Pinto, Marcus), Providence, Rhode Island 02903, USA. bpinto@lifespain.org",
+  "Volume": "23",
+  "Pages": "113-20",
+  "Edition": "",
+  "Issue": "2",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "20",
+  "Abstract": "BACKGROUND: There is increasing interest in developing interventions to promote physical activity (PA) that do not involve face-to-face contact with health professionals. We developed a fully automated PA counseling system (telephone-linked communication, TLC-PA) that was delivered via telephone. DESIGN: A randomized, controlled trial with 298 adult, sedentary members (mean age, 45.9 years; 72% women; 45% white; and 45% African American) of a multi-site medical practice. The comparison group (TLC-Eat) received an automated intervention promoting healthy eating, which was also delivered via telephone. INTERVENTION: The TLC-PA promoted moderate-intensity PA (MI-PA) based on the transtheoretical model of behavior change and social cognitive theory. The system was available to participants for 6 months. MAIN OUTCOMES: Energy expenditure in MI-PA, proportion of participants who met recommendations for MI-PA, and motivational readiness for PA. MEASURES: Self-reports of PA behavior and motivational readiness at baseline, 3 months, and 6 months. RESULTS: At 3 months, intention-to-treat analyses showed that the TLC-PA group was more likely to meet recommendations for MI- or vigorous-intensity PA (VI-PA) compared to the TLC-Eat group (TLC-PA=26% vs TLC-Eat=19.6%, p=0.04). Among study completers, TLC-PA subjects reported significantly higher daily kilocalorie energy expenditure in MI-PA (2.3 kcal/kg/d vs 2.0 kcal/kg/d, p=0.02); a larger proportion met recommendations for MI- or VI-PA (31.2% vs 21.3%, p=0.02) and were in more advanced stages of motivational readiness than TLC-Eat subjects (TLC-PA=52.5% vs TLC-Eat=42.2%, p=0.04). Results were not maintained at 6 months. The proportion of TLC-PA users decreased significantly over the intervention period. CONCLUSIONS: A fully automated counseling system had positive short-term effects on PA among sedentary adults. Lack of maintenance of effects may be due to a decrease in the number of participants who continued to use the system.",
+  "Comments": "Pinto, Bernardine M Friedman, Robert Marcus, Bess H Kelley, Heather Tennstedt, Sharon Gillman, Matthew W HL55664/HL/NHLBI NIH HHS/United States Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, P.H.S. Netherlands Am J Prev Med. 2002 Aug;23(2):113-20.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Chi-Square Distribution\r\nComputers\r\nCounseling/*methods\r\nEnergy Metabolism\r\nFemale\r\nHealth Behavior\r\nHealth Promotion/*methods\r\nHumans\r\nMale\r\nMiddle Aged\r\nMotivation\r\nPhysical Fitness/*psychology\r\n*Telephone\r\nTime Factors",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review"
+},
+{
+  "ItemId": 34576129,
+  "Title": "Action Schools! BC: a school-based physical activity intervention designed to decrease cardiovascular disease risk factors in children",
+  "ParentTitle": "Prev Med",
+  "ShortTitle": "Author48",
+  "DateCreated": "2018-03-22T16:06:24.517",
+  "CreatedBy": "Kirsty Atha",
+  "DateEdited": "2018-03-22T16:06:24.517",
+  "EditedBy": "Kirsty Atha",
+  "Year": "2008",
+  "Month": "",
+  "StandardNumber": "0091-7435 (Print) 0091-7435",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "School of Human Kinetics and Cardiovascular Physiology and Rehabilitation Laboratory, University of British Columbia, Canada.",
+  "Volume": "46",
+  "Pages": "525-31",
+  "Edition": "",
+  "Issue": "6",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "26",
+  "Abstract": "OBJECTIVE: Our primary objective was to determine whether a novel 'active school' model--Action Schools! BC--improved the cardiovascular disease (CVD) risk profile in elementary-school children. Our secondary objective was to determine the percentage of children with elevated CVD risk factors. METHODS: We undertook a cluster-randomized controlled school-based trial with 8 elementary schools across 1 school year, in British Columbia, Canada, beginning in 2003. Boys and girls (n=268, age 9-11 years) were randomly assigned (by school) to usual practice (UP, 2 schools) or intervention (INT, 6 schools) groups. We assessed change between groups in cardiovascular fitness (20-m Shuttle Run), blood pressure (BP), and body mass index (BMI, wt/ht(2)). We evaluated total cholesterol (TC), total:high-density cholesterol (TC:HDL-C), low-density lipoprotein, apolipoprotein B, C-reactive protein and fibrinogen on a subset of volunteers (n=77). RESULTS: INT children had a 20% greater increase in fitness and a 5.7% smaller increase in BP compared with children attending UP schools (P<0.05). Forty five percent of children had at least one elevated risk factor (fitness, BP or BMI) at baseline. There were no significant differences between groups for change in BMI or in any of the blood variables. CONCLUSION: Action Schools! BC was an effective school-based physical activity model for improving the CVD risk profile of elementary-school children. Our multi-component intervention exposed children to fitness enhancing physical activity. It may be important for education stakeholders to adequately resource the delivery of the active school models if cardiovascular health benefits are to be achieved on a population basis.",
+  "Comments": "Reed, Katharine E Warburton, Darren E R Macdonald, Heather M Naylor, P J McKay, Heather A Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States Prev Med. 2008 Jun;46(6):525-31. doi: 10.1016/j.ypmed.2008.02.020. Epub 2008 Mar 10.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "10.1016/j.ypmed.2008.02.020",
+  "Keywords": "Blood Pressure\r\nBody Mass Index\r\nBritish Columbia\r\nCardiovascular Diseases/epidemiology/*prevention & control\r\nChild\r\nChild Welfare\r\nFemale\r\nHumans\r\nMale\r\n*Motor Activity\r\n*Physical Fitness\r\n*Program Development\r\nProgram Evaluation\r\nRisk Factors\r\n*School Health Services\r\n*Schools",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889992,
+      "AdditionalText": "We recruited elementary schools from the Vancouver and Richmond School Districts in British Columbia, Canada.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 315178,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\"elementary schools[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper48",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889964,
+      "AdditionalText": "",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 315178,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 3:\n[¬s]\"British Columbia,[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper48",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889963,
+      "AdditionalText": "We recruited elementary schools from the Vancouver and Richmond School Districts in British Columbia, Canada.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 315178,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 3:\n[¬s]\"Canada.[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper48",
+          "ItemArm": ""
+        }
+      ]
+    },
+    {
+      "AttributeId": 4889965,
+      "AdditionalText": "We recruited elementary schools from the Vancouver and Richmond School Districts in British Columbia, Canada.",
+      "ArmId": 0,
+      "ArmTitle": ""
+    }
+  ]
+},
+{
+  "ItemId": 37646449,
+  "Title": "Exercise prescription: a clinical trial",
+  "ParentTitle": "Am J Public Health",
+  "ShortTitle": "Author49",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "1979",
+  "Month": "",
+  "StandardNumber": "0090-0036 (Print) 0090-0036",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "",
+  "Volume": "69",
+  "Pages": "591-5",
+  "Edition": "",
+  "Issue": "6",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "21",
+  "Abstract": "To assess the effectiveness of physician prescribed exercise, health education, and patient self-monitoring, 124 firefighters were medically screened and randomly allocated to a control and two treatment groups. Physiologic and reporting methods were employed to assess adherence to regular exercise at three months and six months after the initial exercise prescription. Addition of a health education program significantly improved compliance over that achieved by a physician consultation. Self-monitoring did not produce a further increase in compliance. Improvement in the treatment groups was limited to three months after prescription; at six months, the treatment and control populations had similar exercise patterns.",
+  "Comments": "Reid, E L Morgan, R W Clinical Trial Journal Article Randomized Controlled Trial United States Am J Public Health. 1979 Jun;69(6):591-5.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Adult\r\nFires\r\nHealth Education\r\nHumans\r\nMale\r\nMiddle Aged\r\nOccupational Medicine\r\nOxygen Consumption\r\n*Patient Compliance\r\n*Physical Exertion\r\nPhysicians/utilization",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889970,
+      "AdditionalText": "Each shift of every fire station was considered a sam-\rpling unit.",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349851,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" fire station [¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper49",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "ItemId": 37646453,
+  "Title": "Physical activity outcomes of CHAMPS II: a physical activity promotion program for older adults",
+  "ParentTitle": "J Gerontol A Biol Sci Med Sci",
+  "ShortTitle": "Author50",
+  "DateCreated": "2018-09-27T16:26:46.543",
+  "CreatedBy": "Emma Norris",
+  "DateEdited": "2018-09-27T16:26:46.543",
+  "EditedBy": "Emma Norris",
+  "Year": "2001",
+  "Month": "",
+  "StandardNumber": "1079-5006 (Print) 1079-5006",
+  "City": "",
+  "Country": "",
+  "Publisher": "",
+  "Institution": "Institute for Health and Aging, University of California-San Francisco, 3333 California St., San Francisco, CA 94118, USA. anitast@itsa.ucsf.edu",
+  "Volume": "56",
+  "Pages": "M465-70",
+  "Edition": "",
+  "Issue": "8",
+  "Availability": "",
+  "URL": "",
+  "OldItemId": "27",
+  "Abstract": "BACKGROUND: Despite well-known benefits of physical activity for older adults, about two thirds are underactive. Community-based programs are needed to facilitate increased physical activity. We examine the effectiveness of CHAMPS II, an inclusive, choice-based physical activity promotion program to increase lifetime physical activity levels of seniors. CHAMPS guided participants to choose activities that took into account their health, preferences, and abilities. It offered information on ways for them to exercise safely, motivate themselves, overcome barriers, and develop a balanced exercise regimen. METHODS: A 1-year randomized controlled trial was conducted with physically underactive seniors in a multispecialty group practice. Changes in self-reported physical activity by group were evaluated using ANCOVA, controlling for age and sex. RESULTS: Of 173 randomized subjects, 164 (95%) completed the trial. Subjects were aged 65 to 90 years (M = 74, SD = 6); 66% were female. The intervention group increased estimated caloric expenditure by 487 calories/week in moderate (or greater) intensity activities (MET >/= 3.0; p <.001) and by 687 calories/week in physical activities of any intensity (p <.001). Control group changes were negligible. Between-group analyses found that the changes were significantly different in both measures (p values <.05). Overweight persons especially benefited from this program. The program was as effective for women, older adults (75+), and those who did not set aside time to exercise at baseline. CONCLUSIONS: The program led to meaningful physical activity increases. Individually tailored programs to encourage lifestyle changes in seniors may be effective and applicable to health care and community settings.",
+  "Comments": "Stewart, A L Verboncoeur, C J McLellan, B Y Gillis, D E Rush, S Mills, K M King, A C Ritter, P Brown, B W Jr Bortz, W M 2nd AG09931/AG/NIA NIH HHS/United States R01 AG009931-07/AG/NIA NIH HHS/United States Clinical Trial Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, P.H.S. United States J Gerontol A Biol Sci Med Sci. 2001 Aug;56(8):M465-70.",
+  "TypeName": "Journal, Article",
+  "Authors": " ",
+  "ParentAuthors": "",
+  "DOI": "",
+  "Keywords": "Aged\r\nAged, 80 and over\r\nCalifornia\r\nCommunity Health Services/*organization & administration\r\n*Exercise\r\nFemale\r\nFollow-Up Studies\r\nHealth Promotion/*methods\r\nHumans\r\n*Life Style\r\nMale\r\nMultivariate Analysis\r\nProbability\r\nProgram Evaluation\r\nReference Values\r\nSensitivity and Specificity\r\nTreatment Outcome",
+  "ItemStatus": "I",
+  "ItemStatusTooltip": "Included in review",
+  "Codes": [
+    {
+      "AttributeId": 4889978,
+      "AdditionalText": "CHAMPS II was offered to members of two Medicare health maintenance organizations (HMOs) through a large multispecialty group practice. ",
+      "ArmId": 0,
+      "ArmTitle": "",
+      "ItemAttributeFullTextDetails": [
+        {
+          "ItemDocumentId": 349854,
+          "TextFrom": 0,
+          "TextTo": 0,
+          "Text": "Page 2:\n[¬s]\" health maintenance organizations[¬e]\"",
+          "IsFromPDF": true,
+          "DocTitle": "Paper50",
+          "ItemArm": ""
+        }
+      ]
+    }
+  ]
+}
+]
+}
